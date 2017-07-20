@@ -1,0 +1,9499 @@
+abandon	V n
+abound	V with n
+abound	V in n
+abscond	V with n
+abscond	V from n
+abseil	V down n
+absent	V pron-refl
+abstain	V from n
+abut	V on n
+accede	V to n
+accelerate	V; V n
+accelerate	V prep/adv, V adv/prep
+accept	V wh
+accept	V it as n/adj clause
+accept	V n as n
+accept	V that
+accept	V it clause
+accept	V
+accept	V n as adj
+accept	V n
+acclaim	V n n
+acclaim	V n as n
+acclimatize	V pron-refl
+acclimatize	V prep/adv; V n prep
+acclimatize	[Intro/Erg Verb]
+acclimatize	V to n
+accommodate	V n prep/adv, V n adv/prep
+accommodate	V to n
+accompany	V n prep/adv, V n adv/prep
+accord	V n n
+accord	V with n
+accord	it V prep clause
+account	V n n
+account	V n adj
+accrue	V; V n
+accrue	V to n
+accumulate	V; V n
+accuse	V
+accuse	V n
+ache	V to-inf
+ache	V for n
+achieve	V n
+acknowledge	V n as n
+acknowledge	V that
+acknowledge	V n as adj
+acknowledge	V -ing 
+acknowledge	V wh
+acknowledge	V n to-inf
+acquiesce	V in n
+acquiesce	V to n
+acquit	V n prep/adv, V n adv/prep
+act	V as n
+act	V prep/adv, V adv/prep
+act	V like n
+act	V n
+act	V adj
+act	V on n
+act	V
+act	V as if, V as though
+act	V for n
+act	V in n
+act out	V n
+act up	V
+ad-lib	V way prep/adv
+adapt	V way prep/adv
+adapt	V to n
+add	V with quote
+add	V that
+add	V pl-n with together
+add	V n
+add	V to n
+add in	V n
+add on	V
+add on	V to n
+add on	V n
+add up	V to n
+add up	V
+add up	V pl-n
+add up	V; V n
+address	V n as n
+address	V n
+adhere	V to n
+adhere	V prep/adv, V adv/prep
+adjourn	V for n
+adjourn	V; V n
+adjudge	V n to-inf
+adjudge	V n n
+adjudicate	V on n
+adjudicate	V between pl-n
+adjudicate	V prep
+adjust	V; V n
+adjust	V to n
+admit	V with quote
+admit	V that
+admit	V -ing 
+admit	V n
+admit	V to n
+admonish	V n to-inf
+adopt	V
+adopt	V n as n
+adopt	V n
+allow	V n
+adore	V -ing 
+adore	V it clause
+advance	V
+advance	V n n
+advance	V prep/adv, V adv/prep
+adventure	V prep/adv, V adv/prep
+advertise	V
+advertise	V for n
+advise	V as to wh
+advise	V -ing 
+advise	V on n
+advise	V wh
+advise	V n about n
+advise	V n wh-to-inf
+advise	V that
+advise	V n wh
+advise	V with quote
+advise	V against n
+advise	V n as to wh
+advise	V wh-to-inf
+advise	V n to-inf
+advocate	V -ing 
+advocate	V that
+affect	V to-inf
+affect	V n
+affiliate	V with n
+affiliate	V to n
+affirm	V with quote
+affirm	V that
+affirm	V wh
+affix	V n prep/adv, V n adv/prep
+afford	V to-inf
+afford	V n n
+afford	V n
+afford allow	V n
+age	V
+age	V; V n
+age	V n
+aggrandize	V pron-refl
+aggregate	V pl-n
+aghast	V adj
+agitate	V for n
+agonize	V way prep/adv
+agonize	V over n
+agonize	V about n
+agree	V as to wh
+agree	V on n
+agree	[Pat comb]/Oth pat of reciprocal verbs
+agree	V with n
+agree	pl-n V n; V n with n
+agree	V wh
+agree	Emphasizing reciprocity
+agree	V about n
+agree	V that
+agree	pl-n V; V with n
+agree	V
+agree	V with quote
+agree	V to-inf
+agree	V to n
+aid	V in n
+aid allow	V n to-inf
+aim	V for n
+aim	V n prep/adv, V n adv/prep
+aim	V to-inf
+aim	V at n
+aim	V n
+aim allow	V for n
+air-drop	V n prep/adv, V n adv/prep
+airlift	V n prep/adv, V n adv/prep
+alarm	it V n clause
+alight	V on n
+alight	V prep/adv, V adv/prep
+align	V with n
+align	V n prep/adv, V n adv/prep
+allege	V with quote
+allege	V n to-inf
+allege allow	V that
+allocate	V n to-inf
+allocate	V n n
+allot allow	V n n
+allow	V -ing 
+allow	V amount
+allow	V for n
+allow	V n prep/adv, V n adv/prep
+allude	V to n
+alter	V; V n
+alternate	pl-n V; V with n; V pl-n; V n with n
+alternate	V pl-n
+alternate	V between pl-n
+amalgamate	pl-n V; V with n; V pl-n; V n with n
+amalgamate	V pl-n
+amalgamate	V into n
+amaze	it V n clause
+amazed	V adj
+amble	V prep/adv, V adv/prep
+amend	V with quote
+amount	V to n
+amuse	it V n clause
+amuse	V pron-refl
+analyse	V wh
+anchor	V prep/adv; V n prep
+anchor	V; V n
+anchor	V n prep/adv, V n adv/prep
+angle	V for n
+angle	V prep/adv; V n; V n prep/adv
+announce	V with quote
+announce	V n as n
+announce	V that
+announce	V wh
+announce	V n
+annoy	it V n clause
+anoint	V n n
+anoint	V n as n
+answer	V with quote
+answer	V that
+answer	V n as to wh
+answer	V
+answer	V n
+answer	V for n
+answer	V to n
+anticipate	V that
+anticipate	V -ing 
+anticipate	V n -ing
+anticipate	V wh
+apologize	V with quote
+apologize	V way prep/adv
+apologize	V for n
+apologize	V to n
+appal	it V n clause
+appalled	V adj
+appeal	V
+appeal	V to n
+appeal	V against n
+appeal	it V to n clause
+appeal	V for n
+appear	it V to n clause
+appear	it V clause
+appear	V before n
+appear	V in n
+appear	it V adj clause
+appear	V as if, V as though
+appear	V n
+appear	V on n
+appear	V to-inf
+appear	V
+appear	V adj
+apply	V pron-refl
+apply	V adv; V n
+apply	V adv
+apply	V to-inf
+apply	V
+apply	V to n
+apply	V for n
+apply	V n
+appoint	V n to-inf
+appoint	V n n
+appoint	V n as n
+appoint	V n
+apportion	V n prep/adv, V n adv/prep
+appreciate	V that
+appreciate	V it clause
+appreciate	V -ing 
+appreciate	V n -ing
+appreciate	V wh
+approach	V
+approach	V n prep/adv, V n adv/prep
+approach	V n about n
+approach	V n
+approve	V of n
+approve	V n
+approximate	V to n
+arbitrate	V between pl-n
+arc	V prep/adv, V adv/prep
+arch	V; V n
+arch	V prep/adv, V adv/prep
+argue	V as to wh
+argue	V with n
+argue	[Pat comb]/Oth pat of reciprocal verbs
+argue	pl-n V n; V n with n
+argue	V over n
+argue	V wh
+argue	V n
+argue	Emphasizing reciprocity
+argue	V about n
+argue	V way prep/adv
+argue	V that
+argue	pl-n V; V with n
+argue	V in favour of n
+argue	V
+argue	V with quote
+argue	V against n
+argue	V wh-to-inf
+argue	V for n
+argue out	V n
+arise	V from n
+arise	V out of n
+arm	V n
+arrange	V that
+arrange	V it clause
+arrange	V n prep/adv, V n adv/prep
+arrange	V to-inf
+arrange	V for n
+arrange	V n
+arrest	V n
+arrive	V
+arrive	V at n
+arrive	V adj
+arrive	V prep/adv, V adv/prep
+articulate	V wh
+ascend	V amount
+ascend	V into n
+ascend	V prep/adv, V adv/prep
+ascend	V to n
+ascend	V from n
+ascertain	V that
+ascertain	V wh
+ashen-faced	V adj
+ask	V amount
+ask	V n n
+ask	V wh
+ask	V n
+ask	V n wh-to-inf
+ask	V about n
+ask	V that
+ask	V n wh
+ask	V n prep/adv, V n adv/prep
+ask	V
+ask	V with quote
+ask	V n as to wh
+ask	V wh-to-inf
+ask	V to-inf
+ask	V n about n
+ask	V for n
+ask after	V n
+aspire	V to-inf
+aspire	V to n
+assemble	V; V n
+assemble	V in n
+assent	V with quote
+assent	V to n
+assert	V that
+assert	V pron-refl
+assert	V with quote
+assess	V wh-to-inf
+assess	V wh
+assign	V n to-inf
+assign	V n n
+assign	V n prep/adv, V n adv/prep
+assimilate	V pron-refl
+assimilate	V with n
+assimilate	V into n
+assimilate	[Intro/Erg Verb]
+assimilate	V; V n
+assist	V in n
+assist	V with n
+assist	V n to-inf
+associate	V with n
+assume	V that
+assume	V n to-inf
+assume	V so/not
+assume	V n
+assure	V n n
+assure	V n that
+astonish	it V n clause
+atone	V by -ing
+atone	V for n
+attach	[Intro/Erg Verb]
+attach	V n prep/adv, V n adv/prep
+attach	V prep/adv; V n prep
+attach	V to n
+attack	V n as n
+attack	V
+attack	V n as adj
+attack	V n
+attain	V to n
+attempt	V to-inf
+attempt	V n
+attend	V
+attend	V to n
+attend	V n
+attest	V with quote
+attest	V that
+attest	V to n
+attract	pl-n V; V n
+attract	V n
+audition	V for n
+audition	V; V n
+augur	V adv
+authenticate	V n as n
+authorize	V n to-inf
+automate	V way prep/adv
+avenge	V pron-refl
+aver	V that
+aver	V with quote
+average	V amount
+average out	V at n
+average out	V to n
+average out	V prep/adv; V n
+avoid	V n -ing
+avoid	V -ing 
+avoid	V n
+avow	V with quote
+awake	V to n
+awake	V to-inf
+awake	V adj
+awake	V; V n
+awaken	V to-inf
+awaken	V prep/adv; V n prep
+awaken	V to n
+awaken	V; V n
+award	V n n
+babble	V way prep/adv
+babble	V with quote
+babble on	V about n
+babysit	V for n
+back	V n prep/adv, V n adv/prep
+back	V way prep/adv
+back	V on to n, V onto n
+back	V out of n
+back	V n to-inf
+back	V prep/adv; V n prep
+back	V
+back	V prep/adv, V adv/prep
+back	V; V n
+back	V n
+back ask around	V
+back away	V
+back away	V from n
+back down	V on n
+back down	V
+back down	V over n
+back off	V
+back off	V from n
+back off	V n
+back out	V
+back up	V to n
+back up	V
+back up	V amount
+back up	V n
+back-pedal	V on n
+back-pedal	V from n
+backfire	V on n
+backfire	V against n
+backtrack	V on n
+backtrack	V from n
+backtrack	V prep
+badger	V n to-inf
+bail	V out of n
+bail	V n to-inf
+bake	V; V n
+balance	V way prep/adv
+balance	V n prep/adv, V n adv/prep
+balance	V n against n
+balance	V prep/adv; V n prep
+balance	pl-n V; V with n; V pl-n; V n with n
+balance	V prep/adv, V adv/prep
+balance	V pl-n
+balance	V; V n
+balance out	V; V n
+balk	V at n
+ball	V into n
+ball	V prep/adv; V n prep
+ball up	V; V n
+balloon	V to n
+bamboozle	V way prep/adv
+ban	V n
+band	pl-n V together
+bandy	pl-n V n; V n with n
+bang	V into n
+bang	V n against n
+bang	V n prep/adv, V n adv/prep
+bang	V adj
+bang	V adj; V n adj
+bang	V on n
+bang	V; V n
+bang on	V about n
+bank	V on n
+banter	V with quote
+banter	[Pat comb]/Oth pat of reciprocal verbs
+banter	pl-n V; V with n
+barefoot	V adj
+bareheaded	V adj
+bargain	V with n
+bargain	V for n
+barge	V into n
+barge	V through n
+barge	V way prep/adv
+barge	V past n
+barge in	V on n
+bark	V with quote
+bark	V at n
+barnstorm	V way prep/adv
+barnstorm	V prep/adv, V adv/prep
+barrel	V prep/adv, V adv/prep
+barricade	V n prep/adv, V n adv/prep
+barter	V way prep/adv
+bash	V way prep/adv
+bash	V n prep/adv, V n adv/prep
+bask	V in n
+bat	V way prep/adv
+bathe	V prep/adv, V adv/prep
+batten	V n prep/adv, V n adv/prep
+batter	V way prep/adv
+batter	V n adj
+batter	V n prep/adv, V n adv/prep
+battle	Emphasizing reciprocity
+battle	V against n
+battle	V with n
+battle	V way prep/adv
+battle	V through n
+battle	pl-n V; V with n
+battle	V to-inf
+battle	Reciprocal phrases
+battle	pl-n V; V n
+battle out	2 pl-n V it P; V it P with n
+bawl	V way prep/adv
+bawl	V with quote
+bawl	V at n
+bay	V at n
+bay	V for n
+be	it V adj clause
+be	it V n clause
+be	V amount
+be	V n adj
+be	V n
+be	V pron-refl
+be	1 V it
+be	it V prep clause
+be	V n to-inf
+be	3 it V adj prep/adv
+be	V adj
+be	it be V-ed clause
+be	4 it V n
+be	2 it V adj
+be	V like n
+be able to	MODAL inf
+be able to	MODAL
+be accepted	it be V-ed clause
+be acknowledged	it be V-ed clause
+be admitted	it be V-ed clause
+be advised	V n to-inf
+approach	V n to-inf
+ask	V n to-inf
+be agreed	it be V-ed clause
+be alleged	it be V-ed clause
+be announced	it be V-ed clause
+be anticipated	it be V-ed clause
+be argued	it be V-ed clause
+be asked	it be V-ed clause
+be asserted	it be V-ed clause
+be assumed	it be V-ed clause
+be become	it V adj clause
+be believed	it be V-ed clause
+be belong	V prep/adv, V adv/prep
+be blow	V
+be blowing	4 it V n
+be born	V n to-inf
+be born	V n n
+be born	V n
+be bound to	MODAL inf
+be bound to	MODAL
+be calculated	it be V-ed clause
+be claimed	it be V-ed clause
+be clarified	it be V-ed clause
+be closing	V
+be come	it V prep clause
+be coming up	V
+be conceded	it be V-ed clause
+be concluded	it be V-ed clause
+be confirmed	it be V-ed clause
+be considered	it be V-ed clause
+be contended	it be V-ed clause
+be crawling	V with n
+be dating	V
+be decided	it be V-ed clause
+be demonstrated	it be V-ed clause
+be denied	it be V-ed clause
+be designed	V n to-inf
+be determined	it be V-ed clause
+be disclosed	it be V-ed clause
+be discovered	it be V-ed clause
+be doubted	it be V-ed clause
+be dying	V to-inf
+be dying	V for n
+be eating	V n
+be emphasized	it be V-ed clause
+be envisaged	it be V-ed clause
+be established	it be V-ed clause
+be estimated	it be V-ed clause
+be expected	it be V-ed clause
+be expecting	V
+be expecting	V n
+be explained	it be V-ed clause
+be feared	it be V-ed clause
+be feel	it V clause
+be felt	it be V-ed clause
+be forgotten	it be V-ed clause
+be found	it be V-ed clause
+be found	V n prep/adv, V n adv/prep
+be getting on	V
+be given	V n to-inf
+be going to	MODAL inf
+be going to	MODAL
+be hanging	V
+be hanging up	V
+be held	it be V-ed clause
+be honoured	V n to-inf
+be hoped	it be V-ed clause
+be hurting	V
+be imagined	it be V-ed clause
+be implied	it be V-ed clause
+be intended	it be V-ed clause
+be judged	it be V-ed clause
+be known	it be V-ed clause
+be lacking	V
+be learned	it be V-ed clause
+be learnt	it be V-ed clause
+be liable to	MODAL inf
+be looking	V to-inf
+be looking up	V
+be made	V n to-inf
+be meant to	MODAL inf
+be meant to	MODAL
+be misnamed	V n n
+be noted	it be V-ed clause
+be noticed	it be V-ed clause
+be observed	V n to-inf
+be parted	V pl-n
+be planned	it be V-ed clause
+be playing up	V n
+be pointed out	it be V-ed clause
+be predicted	it be V-ed clause
+be presumed	it be V-ed clause
+be proposed	it be V-ed clause
+be proven	it be V-ed clause
+be questing	V for n
+be questioned	it be V-ed clause
+be rated	V n n
+be realized	it be V-ed clause
+be reborn	V n as n
+be reckoned	it be V-ed clause
+be recognized	it be V-ed clause
+be recommended	it be V-ed clause
+be reconciled	V pl-n
+be recorded	it be V-ed clause
+be regretted	it be V-ed clause
+be remembered	it be V-ed clause
+be reported	it be V-ed clause
+be represented	V n prep/adv, V n adv/prep
+be represented	V n
+be reputed	V n to-inf
+be revealed	it be V-ed clause
+be rolling	11 V prep it
+be ruled	it be V-ed clause
+be rumoured	V n to-inf
+be rumoured	it be V-ed clause
+be said	V n to-inf
+be said	it be V-ed clause
+be seem	it V clause
+be seen	V n to-inf
+be seen	it be V-ed clause
+be showing	V
+be shown	it be V-ed clause
+be slated	V n to-inf
+be spitting	1 it V
+be spoiling	V for n
+be stated	it be V-ed clause
+be stressed	it be V-ed clause
+be struggling	V
+be suggested	it be V-ed clause
+be supposed	it be V-ed clause
+be supposed to	MODAL inf
+be supposed to	MODAL
+be sure to	MODAL inf
+be sure to	MODAL
+be suspected	it be V-ed clause
+be swimming	V with n
+be thought	it be V-ed clause
+be trumpeted	it be V-ed clause
+be unable to	MODAL inf
+be unable to	MODAL
+be understood	it be V-ed clause
+be waiting	V
+be whispered	it be V-ed clause
+beach	[Intro/Erg Verb]
+beach	V; V n
+beach	V prep/adv; V n prep
+beam	V with quote
+beam	V n prep/adv, V n adv/prep
+beam	V prep/adv; V n prep
+beam	V with n
+beam	V at n
+beam	V prep/adv, V adv/prep
+beam down	V n prep/adv, V n adv/prep
+beam down	V prep/adv; V n prep
+beam down	V prep/adv, V adv/prep
+beam up	V n prep/adv, V n adv/prep
+beam up	V prep/adv; V n prep
+beam up	V prep/adv, V adv/prep
+bear	V to-inf
+bear	V it clause
+bear	V adv
+bear	V n prep/adv, V n adv/prep
+bear	V -ing 
+bear	V n n
+bear	V n -ing
+bear	V n
+bear down	V on n
+bear down	V
+bear out	V n
+bear up	V
+bear up	V under n
+bear with	V n
+beat	V against n
+beat	it V n clause
+beat	V way prep/adv
+beat	V; V n
+beat	V n n
+beat	V n adj
+beat	V n prep/adv, V n adv/prep
+beat	V on n
+beat	V at n
+beat	V
+beat	V n
+beat down	V
+beat down	V n
+beat out	V n
+beat up	V on n
+beat up	V n
+beat up on	V n
+beaver away	V on n
+beaver away	V at n
+beckon	V n to-inf
+beckon	V n prep/adv, V n adv/prep
+beckon	V to n
+become	it V n clause
+become	V adj
+become	V n
+bed down	V prep/adv, V adv/prep
+beep	V; V n
+beg	V to-inf
+beg	V that
+beg	V with quote
+beg	V for n
+beg	V n to-inf
+begin	V with quote
+begin	V as n
+begin	V n as n
+begin	V -ing 
+begin	V by -ing
+begin	V; V n
+begin	V n -ing
+begin	V to-inf
+begin	V prep/adv, V adv/prep
+begin	V in n
+begin	V prep/adv; V n prep
+begin	V with n
+begin	V
+begin	V n prep/adv, V n adv/prep
+begin	V n adj
+begin	V n
+begrudge	V n -ing
+begrudge	V -ing 
+begrudge	V n n
+behave	V pron-refl
+behave	V as if, V as though
+behave	V like n
+behave	V prep/adv, V adv/prep
+behove	it V n clause
+belch	V out of n
+belch	V from n
+belch	V adv
+belch	V prep/adv; V n
+belch out	V prep/adv; V n
+believe	V it n clause
+believe	V it adj clause
+believe	V so/not
+believe	V that
+believe	V n adj
+believe	V n to-inf
+believe	V it clause
+believe	V
+believe	V wh
+believe	V in n
+believe	V n
+bellow	V with quote
+bellow	V that
+bellow	V at n
+bellyache	V about n
+belong	V
+belong	V with n
+belong	pl-n V together
+belong	V in n
+belong	V to n
+belt	V way prep/adv
+belt	V prep/adv, V adv/prep
+bend	V n prep/adv, V n adv/prep
+bend	V to n
+bend	V; V n
+bend	V adj
+bend	V prep/adv, V adv/prep
+benefit	V
+benefit	V prep/adv; V n
+benefit	V from n
+benefit	it V n clause
+bequeath	V n n
+beseech	V with quote
+beseech	V n to-inf
+bet	V n that
+bet	V that
+bet	V n n
+bet	V on n
+better	V pron-refl
+beware	V of n
+bicker	Emphasizing reciprocity
+bicker	V about n
+bicker	V way prep/adv
+bicker	V over n
+bicker	[Pat comb]/Oth pat of reciprocal verbs
+bicker	pl-n V; V with n
+bicycle	V prep/adv, V adv/prep
+bid	V n to-inf
+bid	V to-inf
+bid	V n n
+bid	V n inf
+bid	V for n
+bike	V prep/adv, V adv/prep
+bill	V n to-inf
+bill	V n as adj
+bill	V n as n
+billet	V n prep/adv, V n adv/prep
+billow	V adv
+billow	V prep/adv, V adv/prep
+bind	V with n
+bind	V n prep/adv, V n adv/prep
+bind	V n to-inf
+bind	V prep/adv; V n prep
+bind	V pl-n with together
+bind	V n
+bind	V to n
+bind over	V n to-inf
+bind over	V n
+binge	V on n
+bitch	V way prep/adv
+bitch	V about n
+bite	V into n
+bite	V prep
+bivouac	V prep/adv, V adv/prep
+blab	V about n
+blab	V to n
+blacken	V; V n
+blackmail	V n to-inf
+blag	V way prep/adv
+blame	V n
+blanch	V at n
+blare	V; V n
+blare out	V; V n
+blaspheme	V against n
+blast	V way prep/adv
+blast	V; V n
+blast	V n adj
+blast	V n prep/adv, V n adv/prep
+blast out	V; V n
+blather	V way prep/adv
+blather	V about n
+blather on	V about n
+blaze	V way prep/adv
+blaze	V with n
+bleach	V; V n
+bleat	V that
+bleat	V about n
+bleat	V with quote
+bleat on	V about n
+bleed	V into n
+bleed	V to n
+blend	V into n
+blend	pl-n V; V with n; V pl-n; V n with n
+blend	V pl-n
+blend	pl-n V; V with n
+blend	Emphasizing reciprocity
+blend in	V with n
+blindfold	V adj
+blink	V at n
+blister	V; V n
+blitz	V way prep/adv
+block up	V
+block up	V; V n
+bloom	V into n
+blossom	V into n
+blot	V n adj
+blow	1 V it
+blow	V n prep/adv, V n adv/prep
+blow	V way prep/adv
+blow	V adj; V n adj
+blow	V n adj
+blow	V prep/adv, V adv/prep
+blow	V adj
+blow	V prep/adv; V n prep
+blow	V
+blow	V prep
+blow	V; V n
+blow	V n
+blow out	V
+blow out	V n
+blow over	V
+blow up	V into n
+blow up	V; V n
+blow up	V prep/adv; V n prep
+blow up	V
+blow up	V at n
+blow up	V n
+bludgeon	V way prep/adv
+bluff	V way prep/adv
+blunder	V into n
+blunder	V prep/adv, V adv/prep
+blur	V; V n
+blurt	V with quote
+blurt out	V with quote
+blush	V way prep/adv
+blush	V adj
+bluster	V way prep/adv
+bluster	V with quote
+boast	V with quote
+boast	V about n
+boast	V that
+boast	V of n
+boast	V to n
+bob	V way prep/adv
+bob	V prep/adv, V adv/prep
+bode	V adv
+bog down	V; V n
+boggle	V at n
+boggle	V; V n
+boil	V with n
+boil	V; V n
+boil away	V; V n
+boil down	V to n
+boil down	V prep/adv; V n prep
+bolt	V pl-n with together
+bolt	V n prep/adv, V n adv/prep
+bolt	V prep/adv, V adv/prep
+bomb	V way prep/adv
+bond	V pl-n with together
+bond	pl-n V; V with n; V pl-n; V n with n
+bond	V pl-n
+bond	Emphasizing reciprocity
+bone up	V on n
+boo	V n prep/adv, V n adv/prep
+book	V into n
+book	V n n
+book	V n prep/adv, V n adv/prep
+boom	V with quote
+boom	V prep/adv, V adv/prep
+boom out	V with quote
+boom out	V; V n
+boom out	V prep/adv, V adv/prep
+boomerang	V on n
+boomerang	V against n
+boot	V n prep/adv, V n adv/prep
+booze	V way prep/adv
+bore	V into n
+bore	V way prep/adv
+bore	V through n
+born	V n adj
+borrow	V way prep/adv
+borrow	V from n
+botch	V way prep/adv
+bother	V with n
+bother	it V n clause
+bother	V -ing 
+bother	V to-inf
+bother	V about n
+bother	V
+bother	V prep/adv; V n
+bottle	1 V it
+bottom out	V at n
+bounce	V way prep/adv
+bounce	V adv
+bounce	V n prep/adv, V n adv/prep
+bounce	V off n
+bounce	V prep/adv; V n prep
+bounce	V prep/adv, V adv/prep
+bounce	V; V n
+bounce back	V from n
+bound	V adv
+bound	V prep/adv, V adv/prep
+bow	V to n
+bow	V out of n
+bow down	V to n
+bowl	V way prep/adv
+bowl	V prep/adv, V adv/prep
+box	V way prep/adv
+brace	V pron-refl
+brace	V n against n
+bracket	V pl-n with together
+brag	V with quote
+brag	V about n
+brag	V that
+brag	V to n
+brainwash	V n to-inf
+brake	V to n
+branch off	V prep/adv, V adv/prep
+branch out	V prep
+brand	V n as n
+brand	V n n
+brand	V n adj
+brand	V n as adj
+brawl	V way prep/adv
+brawl	pl-n V; V with n
+bray	V way prep/adv
+bray	V with quote
+brazen out	1 V it
+break	V into n
+break	V it to n clause
+break	V with n
+break	V through n
+break	V; V n
+break	V adv
+break	V out of n
+break	V way prep/adv
+break	V adj
+break	V
+break	V n prep/adv, V n adv/prep
+break	V for n
+break	V from n
+break	V n
+break away	V
+break away	V from n
+break down	V
+break down	V; V n
+break down	V n
+break in	V with quote
+break in	V
+break in	V on n
+break in	V n
+break off	V with n
+break off	2 pl-n V it P; V it P with n
+break off	pl-n V n; V n with n
+break off	V
+break off	V; V n
+break off	V n
+break out	V
+break out	V in n
+break through	V
+break up	pl-n V; V with n
+break up	V for n
+break up	V prep/adv; V n prep
+break up	V
+break up	V; V n
+break up	V n
+breakfast	V prep/adv, V adv/prep
+breathe	V with quote
+breathe	V n with adv
+breathless	V adj
+bred	V n to-inf
+breed	V n to-inf
+breed	V
+breed	pl-n V; V with n
+breeze	V way prep/adv
+breeze	V through n
+breeze	V prep/adv, V adv/prep
+brew up	V; V n
+bribe	V way prep/adv
+bribe	V n to-inf
+bridle	V at n
+brief	V n about n
+brighten	V with n
+brighten	V; V n
+brighten up	1 it V
+brighten up	V; V n
+brim	V with n
+brim over	V with n
+bring	V n -ing
+bring	V n against n
+bring	V n prep/adv, V n adv/prep
+bring	V n to-inf
+bring	V n n
+bring	V n
+bring about	V n
+bring along	V n
+bring back	V n
+bring down	V n
+bring in	V n
+bring off	V n
+bring on	V n
+bring out	V n
+bring round	V n
+bring to	V n
+bring up	V n to-inf
+bring up	V n n
+bring up	V n prep/adv, V n adv/prep
+bring up	V n
+bristle	V with n
+bristle	V at n
+broadcast	V n prep/adv, V n adv/prep
+broaden	V into n
+broaden	V; V n
+broaden out	V; V n
+brood	V about n
+brood	V over n
+brood	V on n
+brown	V; V n
+browse	V on n
+browse	V through n
+browse	V over n
+browse	V prep/adv, V adv/prep
+bruise	V; V n
+bruise	V adv
+brush	V past n
+brush	V against n
+brush	V prep/adv; V n; V n prep/adv
+brush	V way prep/adv
+brush	V adv
+brush	V n prep/adv, V n adv/prep
+brush	V across n
+brush	V prep/adv, V adv/prep
+bubble	V with n
+bubble	V prep/adv, V adv/prep
+bubble over	V with n
+buck	V prep/adv, V adv/prep
+bucket	V prep/adv, V adv/prep
+bucket down	1 it V
+buckle	V; V n
+buckle down	V to n
+budge	V; V n
+budget	V n to-inf
+budget	V for n
+bug	it V n clause
+build	V to n
+build	V way prep/adv
+build	V into n
+build	V on n
+build	V
+build	V; V n
+build	V n
+build up	V
+build up	V to n
+build up	V; V n
+build up	V n as n
+build up	V n
+build up to	V n
+bulge	V with n
+bulge	V prep/adv, V adv/prep
+bulk up	V; V n
+bulldoze	V way prep/adv
+bulldoze	V n prep/adv, V n adv/prep
+bullshit	V way prep/adv
+bully	V way prep/adv
+bum	V adv
+bumble	V way prep/adv
+bump	V into n
+bump	V way prep/adv
+bump	V against n
+bump	V prep/adv, V adv/prep
+bunch up	V; V n
+bundle	V n prep/adv, V n adv/prep
+bung	V n prep/adv, V n adv/prep
+bungle	V way prep/adv
+burble	V with quote
+burble	V about n
+burble	V that
+burble	V prep/adv, V adv/prep
+burble on	V about n
+burgle	V way prep/adv
+burn	V pron-refl
+burn	V way prep/adv
+burn	V adv
+burn	V to-inf
+burn	V n adj
+burn	V adj
+burn	V with n
+burn	V
+burn	V; V n
+burn	V n
+burn down	V
+burn down	V; V n
+burn down	V n
+burn off	V n
+burn out	V pron-refl
+burn up	V
+burn up	V; V n
+burn up	V n
+burrow	V way prep/adv
+burrow	V prep/adv, V adv/prep
+burst	V into n
+burst	V with n
+burst	V way prep/adv
+burst	V on to n, V onto n
+burst	V prep/adv, V adv/prep
+burst	V adj
+burst	V; V n
+burst out	V into n
+burst out	V with quote
+burst out	V in n
+burst out	V -ing 
+bury	V n adj
+bury	V n prep/adv, V n adv/prep
+bus	V n prep/adv, V n adv/prep
+bus	V prep/adv; V n prep
+bus	V prep/adv, V adv/prep
+busk	V way prep/adv
+bustle	V way prep/adv
+bustle	V with n
+bustle	V prep/adv, V adv/prep
+busy	V pron-refl
+busy	V n -ing
+butcher	V way prep/adv
+butt	V way prep/adv
+butt	V n prep/adv, V n adv/prep
+butt	V out of n
+butt in	V with quote
+butt in	V with n
+butt in	V on n
+buy	V way prep/adv
+buy	V n n
+buy	V n
+buy into	V n
+buy off	V n
+buy up	V n
+buzz	V way prep/adv
+buzz	V with n
+buzz	V prep/adv, V adv/prep
+buzz off	V prep/adv, V adv/prep
+cable	V with quote
+cable	V n prep/adv, V n adv/prep
+cable	V n n
+cackle	V with quote
+cackle	V with n
+cackle	V at n
+caddie	V for n
+cajole	V way prep/adv
+cajole	V n to-inf
+calculate	V wh-to-inf
+calculate	V that
+calculate	V wh
+call	V it n clause
+call	V with quote
+call	V n n
+call	5 V it n
+call	V adv
+call	V prep/adv, V adv/prep
+call	V n to-inf
+call	V n adj
+call	V on n
+call	V it adj clause
+call	V about n
+call	V
+call	V n prep/adv, V n adv/prep
+call	V for n
+call	V n
+call back	V
+call back	V n
+call for	V n
+call in	V on n
+call in	V
+call out	V with quote
+call out	V n
+call up	V
+call up	V n
+calm down	V; V n
+camp up	1 V it
+campaign	V against n
+campaign	V to-inf
+campaign	V in favour of n
+campaign	V for n
+can	[2 Modals]
+cannon	V into n
+cannon	V off n
+canoodle	pl-n V; V with n
+canter	V prep/adv; V n prep
+canter	V prep/adv, V adv/prep
+canvass	V for n
+caper	V prep/adv, V adv/prep
+capitalize	V on n
+capitulate	V to n
+capsize	V; V n
+capture	V n adj
+care	V about n
+care	V to-inf
+care	V for n
+care	V wh
+care	V
+careen	V prep/adv, V adv/prep
+career	V prep/adv, V adv/prep
+caricature	V n as n
+carp	V at n
+carp	V about n
+carry	V
+carry	V prep/adv, V adv/prep
+carry	V n prep/adv, V n adv/prep
+carry	V n
+carry off	V n
+carry on	V with n
+carry on	V -ing 
+carry on	V about n
+carry on	V
+carry on	V n
+carry out	V n
+carry over	V into n
+carry over	V prep/adv; V n prep
+carry over	V to n
+carry through	V n
+cart	V n prep/adv, V n adv/prep
+cartwheel	V prep/adv, V adv/prep
+carve	V way prep/adv
+carve	V n prep/adv, V n adv/prep
+carve	V n n
+cascade	V prep/adv, V adv/prep
+cash in	V on n
+cast	V
+cast	V n n
+cast	V n as n
+cast	V n prep/adv, V n adv/prep
+cast about	V for n
+cast around	V for n
+cast off	V
+catapult	V n prep/adv, V n adv/prep
+catapult	V to n
+catapult	V prep/adv; V n prep
+catapult	V prep
+catch	V n -ing
+catch	V on n
+catch	V n adj
+catch	V n prep/adv, V n adv/prep
+catch	V in n
+catch	V prep/adv; V n prep
+catch	V wh
+catch	V n
+catch on	V
+catch on	V to n
+catch out	V n prep/adv, V n adv/prep
+catch out	V n
+catch up	V on n
+catch up	V
+catch up	V with n
+catch up with	V n
+categorize	V n as n
+cater	V for n
+cater	V to n
+cause	V n to-inf
+cause	V n n
+cause	V n
+caution	V with quote
+caution	V against n
+caution	V n that
+caution	V that
+caution	V n against n
+caution	V n to-inf
+caution	V n about n
+cave in	V on n
+cave in	V to n
+cavil	V at n
+cavort	V with n
+cease	V to-inf
+cease	V -ing 
+celebrate	V
+cement	V n prep/adv, V n adv/prep
+centre	V on n
+centre	V prep/adv; V n prep
+centre	V around/round n
+centre	V prep/adv, V adv/prep
+certify	V n as n
+certify	V that
+certify	V n adj
+certify	V n as adj
+chafe	V against n
+chafe	V at n
+chafe	V; V n
+chafe	V under n
+chain	V pl-n with together
+chain	V n prep/adv, V n adv/prep
+chain-smoke	V way prep/adv
+challenge	V with quote
+challenge	V n as to wh
+challenge	V n to-inf
+challenge	V n about n
+chance	V n -ing
+chance	V -ing 
+chance	V to-inf
+chance	1 V it
+change	V into n
+change	V to n
+change	V in n
+change	V prep
+change	V prep/adv; V n prep
+change	V
+change	V out of n
+change	V; V n
+change	V n
+change down	V
+change down	V to n
+change over	V
+change over	V to n
+change up	V
+channel	V n prep/adv, V n adv/prep
+chant	V that
+chant	V with quote
+char	V for n
+char	V; V n
+characterize	V n as adj
+characterize	V n as n
+charge	V to-inf
+charge	V amount
+charge	V prep/adv, V adv/prep
+charge	V n n
+charge	V
+charge	V n
+charge up	V n
+charm	V way prep/adv
+chase	V after n
+chase	V way prep/adv
+chase	V prep/adv, V adv/prep
+chat	Emphasizing reciprocity
+chat	V about n
+chat	[Pat comb]/Oth pat of reciprocal verbs
+chat	pl-n V; V with n
+chat	V to n
+chatter	V about n
+chauffeur	V n prep/adv, V n adv/prep
+cheat	V way prep/adv
+check	V pron-refl
+check	V with n
+check	V into n
+check	V that
+check	V n prep/adv, V n adv/prep
+check	V wh-to-inf
+check	V out of n
+check	V on n
+check	V
+check	V wh
+check	V for n
+check	V n
+check in	V
+check in	V n
+check off	V n
+check out	V
+check out	V n
+check up	V on n
+check up	V
+cheer up	V pron-refl
+cheer up	V; V n
+chew	V way prep/adv
+chew	V on n
+chew	V at n
+chew	V prep
+chicken	V out of n
+chide	V n about n
+chill	V; V n
+chime	V with n
+chime in	V with quote
+chime in	V with n
+chink	V; V n
+chip	V way prep/adv
+chip	V; V n
+chip	V adv
+chip away	V at n
+chip in	V with quote
+chip in	V with n
+chirp	V with quote
+chirrup	V with quote
+chivvy	V n prep/adv, V n adv/prep
+chivvy	V n to-inf
+choke	V on n
+choke	V; V n
+choke	V to n
+chomp	V way prep/adv
+chomp	V prep
+choose	V n as n
+choose	V from n
+choose	V between pl-n
+choose	V among pl-n
+choose	V to-inf
+choose	V
+choose	V n to-inf
+choose	V n
+chop	V way prep/adv
+chortle	V way prep/adv
+chortle	V with quote
+chorus	V with quote
+christen	V n n
+chronicle	V wh
+chuck	V n n
+chuck	V n prep/adv, V n adv/prep
+chuck in	1 V it
+chuck up	1 V it
+chuckle	V with quote
+chuckle	V way prep/adv
+chuckle	V over n
+chuckle	V at n
+chug	V way prep/adv
+chug	V prep/adv, V adv/prep
+churn	V way prep/adv
+churn	V; V n
+circle	V around/round n
+circle	V prep/adv, V adv/prep
+circulate	V; V n
+circulate	V prep
+cite	V n as adj
+cite	V n as n
+clack	V; V n
+claim	V with quote
+claim	V that
+claim	V to-inf
+claim	V
+claim	V for n
+claim	V n
+clamber	V way prep/adv
+clamber	V prep/adv, V adv/prep
+clamour	V to-inf
+clamour	V for n
+clamp	V pl-n with together
+clamp	V n adj
+clamp	V n prep/adv, V n adv/prep
+clamp down	V on n
+clang	V way prep/adv
+clang	V adj
+clank	V way prep/adv
+clap	V n prep/adv, V n adv/prep
+clash	pl-n V; V with n
+class	V n as adj
+class	V n as n
+classify	V n as adj
+classify	V n as n
+clatter	V on n
+clatter	V against n
+clatter	V prep/adv, V adv/prep
+claw	V way prep/adv
+claw	V at n
+clean	V
+clean	V adv; V n
+clean	V adv
+clean	V n prep/adv, V n adv/prep
+clean up	V after n
+clean up	V
+clear	V n prep/adv, V n adv/prep
+clear	V n to-inf
+clear	V out of n
+clear	V
+clear	V; V n
+clear	V n
+clear away	V
+clear away	V n
+clear off	V
+clear out	V
+clear out	V n
+clear up	V after n
+clear up	V
+clear up	V; V n
+clear up	V n
+cleave	V way prep/adv
+cleave	V to n
+clench	V; V n
+clerk	V for n
+click	it V clause
+click	V n with adv
+click	V; V n
+click	pl-n V; V with n
+climax	V with n
+climax	V prep/adv; V n
+climb	V to n
+climb	V amount
+climb	V way prep/adv
+climb	V down n
+climb	V by amount
+climb	V adv
+climb	V prep/adv, V adv/prep
+climb	V
+climb	V prep
+climb down	V on n
+climb down	V
+climb down	V over n
+clinch	1 V it
+cling	pl-n V together
+cling	V on to n, V onto n
+cling	V to n
+clink	Emphasizing reciprocity
+clink	V against n
+clink	V n against n
+clink	pl-n V; V with n; V pl-n; V n with n
+clink	V; pl-n V n; V n with n
+clink	V pl-n
+clip	V n prep/adv, V n adv/prep
+clip	V prep/adv; V n prep
+clip	V pl-n with together
+clip	V to n
+clock	V out of n
+clock in	V at n
+clog up	V; V n
+close	V by -ing
+close	V on n
+close	V at n
+close	V n adj
+close	V prep/adv, V adv/prep
+close	V adj
+close	V prep/adv; V n prep
+close	V
+close	V; V n
+close	V n
+close down	V
+close down	V; V n
+close down	V n
+close in	V
+close in	V on n
+close up	V
+close up	V; V n
+close up	V n
+cloud	V with n
+cloud	V; V n
+club	pl-n V together
+cluck	V over n
+cluck	V at n
+cluck	V around/round n
+clump	pl-n V together
+clump	V prep/adv, V adv/prep
+clunk	V way prep/adv
+clunk	V on n
+clunk	V against n
+cluster	V around/round n
+cluster	pl-n V together
+cluster	V prep/adv, V adv/prep
+clutch	V at n
+co-ordinate	pl-n V; V with n; V pl-n; V n with n
+coalesce	V into n
+coarsen	V; V n
+coast	V to n
+coast	V adv
+coast	V prep/adv, V adv/prep
+coax	V n to-inf
+coax	V n prep/adv, V n adv/prep
+cobble	V pl-n with together
+code-name	V n n
+coerce	V n to-inf
+coexist	pl-n V; V with n
+cogitate	V on n
+cogitate	V about n
+cohabit	pl-n V; V with n
+cohere	pl-n V; V with n
+coil	V prep/adv; V n prep
+coil	V; V n
+coil	V prep/adv, V adv/prep
+coincide	pl-n V; V with n
+coining	1 V it
+coining in	1 V it
+collaborate	[Pat comb]/Oth pat of reciprocal verbs
+collaborate	V in n
+collaborate	V with n
+collaborate	V to-inf
+collaborate	pl-n V; V with n
+collaborate	V on n
+collapse	V
+collapse	V prep
+collect	V pron-refl
+collect	V; V n
+collect	V prep/adv, V adv/prep
+collect	V
+collect	V for n
+collect	V n
+collect up	V n
+collide	V with n
+collide	pl-n V; V with n
+collocate	pl-n V; V with n
+collude	V in n
+collude	pl-n V; V with n
+collude	V to-inf
+colour	V n adj
+comatose	V adj
+comb	V through n
+combine	pl-n V; V with n; V pl-n; V n with n
+combine	V pl-n
+combine	V pl-n
+co-ordinate	V pl-n
+come	V as n
+come	V through n
+come	it V to n clause
+come	V to n
+come	V at n
+come	V from n
+come	V before n
+come	V into n
+come	V to-inf
+come	V -ing 
+come	V prep/adv, V adv/prep
+come	V inf
+come	4 it V n
+come	it V prep clause
+come	V
+come	V in n
+come	V on to n, V onto n
+come	V adj
+come	V and v
+come	V of n
+come about	V
+come about	it V clause
+come across	V as adj
+come across	V prep/adv, V adv/prep
+come across	V as n
+come across	V n
+come along	V
+come along	V prep/adv, V adv/prep
+come around	V to n
+come around	V
+come back	V
+come back	V to n
+come between	V pl-n
+come by	V n
+come down	V to n
+come down	5 it V to n
+come down	V by amount
+come down	V in n
+come down	V in favour of n
+come down	V on n
+come down	V
+come down on	V n
+come down to	V n
+come down with	V n
+come for	V n
+come in	V on n
+come in	V
+come in	V adv
+come in for	V n
+come into	V n
+come off	V
+come off	V prep/adv, V adv/prep
+come off	V n
+come on	V
+come on	V to-inf
+come on	V prep/adv, V adv/prep
+come on to	V n
+come out	V against n
+come out	V as n
+come out	V prep
+come out	V adj
+come out	V in favour of n
+come out	V
+come out	it V clause
+come out	V in n
+come out with	V n
+come over	V as n
+come over	V prep/adv, V adv/prep
+come over	V adj
+come over	V as adj
+come over	V n
+come round	V to n
+come round	V
+come through	V on n
+come through	V
+come through	V for n
+come through	V with n
+come to	V
+come under	V n
+come up	V to n
+come up	V
+come up	V for n
+come up against	V n
+come up for	V n
+come up with	V n
+come upon	V n
+comfort	it V n clause
+coming up to	V n
+command	V with quote
+command	V that
+command	V n to-inf
+commence	V to-inf
+commence	V -ing 
+commence	V; V n
+comment	V with quote
+comment	V as to wh
+comment	V that
+comment	V on n
+comment	V
+commentate	V on n
+commiserate	V with n
+commission	V n to-inf
+commission	V n as n
+commit	V n as to wh
+commit	V pron-refl
+commit	V to n
+commit	V n
+commune	V with n
+communicate	V way prep/adv
+communicate	[Pat comb]/Oth pat of reciprocal verbs
+communicate	pl-n V; V with n
+commute	V to n
+commute	V from n
+commute	V between pl-n
+compare	V with n
+compare	V pl-n
+compare	V adv
+compel	V n to-inf
+compensate	V by -ing
+compensate	V for n
+compensate	V with n
+compete	Emphasizing reciprocity
+compete	V against n
+compete	V to-inf
+compete	pl-n V; V with n
+compete	V prep
+compete	[Pat comb]/Oth pat of reciprocal verbs
+compete	V
+compete	V for n
+compete	V in n
+complain	V with quote
+complain	V about n
+complain	V that
+complain	V
+complain	V of n
+complain	V to n
+complete	V n
+comply	V with n
+comport	V n prep/adv, V n adv/prep
+compose	V pron-refl
+compose	V n
+compress	V; V n
+comprise	V n
+compromise	V pron-refl
+compromise	V over n
+compromise	pl-n V; V with n
+compromise	V on n
+compromise	[Pat comb]/Oth pat of reciprocal verbs
+con	V way prep/adv
+concede	V with quote
+concede	V that
+concede	V n n
+conceive	V wh
+conceive	V n as n
+conceive	V that
+conceive	V n as adj
+conceive	V of n
+concentrate	V on n
+concentrate	V
+conceptualize	V n as n
+concern	it V n clause
+concern	V n
+concertina	V; V n
+conclude	V with quote
+conclude	V that
+conclude	V prep/adv, V adv/prep
+conclude	pl-n V n; V n with n
+conclude	V
+conclude	V prep/adv; V n
+concur	V with quote
+concur	[Pat comb]/Oth pat of reciprocal verbs
+concur	V that
+concur	pl-n V; V with n
+concur	V in n
+condemn	V n to-inf
+condemn	V n as adj
+condemn	V n as n
+condense	V out of n
+condense	V into n
+condense	V; V n
+condescend	V to-inf
+condescend	V to n
+condition	V n to-inf
+conduct	V
+conduct	V n prep/adv, V n adv/prep
+confer	[Pat comb]/Oth pat of reciprocal verbs
+confer	pl-n V; V with n
+confer	Emphasizing reciprocity
+co-operate	Emphasizing reciprocity
+confess	V with quote
+confess	V that
+confess	V n adj
+confess	V wh
+confess	V to n
+confide	V with quote
+confide	V that
+confide	V in n
+confirm	V n as n
+confirm	V that
+confirm	V n as adj
+confirm	V wh
+confirm	V n
+conflate	V pl-n
+conflict	pl-n V; V with n
+conform	V with n
+conform	V to n
+confront	V n about n
+congratulate	V pron-refl
+conjecture	V that
+conjecture	V wh
+conjoin	pl-n V; V with n; V pl-n; V n with n
+conjoin	V pl-n
+connect	V with n
+connect	pl-n V; V with n
+connect	V n prep/adv, V n adv/prep
+connect	V prep/adv; V n prep
+connect	pl-n V; V with n; V pl-n; V n with n
+connect	V pl-n
+connect	V to n
+connive	[Pat comb]/Oth pat of reciprocal verbs
+connive	V at n
+connive	V to-inf
+connive	pl-n V; V with n
+connive	V in n
+co-star	V in n
+consent	V to-inf
+consent	V to n
+consider	V it n clause
+consider	V -ing 
+consider	V wh
+consider	V it adj clause
+consider	V n as n
+consider	V n adj
+consider	V n as adj
+consider	V that
+consider	V n n
+consider	V wh-to-inf
+consider	V n to-inf
+consider	V n
+consist	V of n
+consist	V in n
+console	V with quote
+console	V n that
+consort co-operate	V with n
+conspire	[Pat comb]/Oth pat of reciprocal verbs
+conspire	V against n
+conspire	V to-inf
+conspire	pl-n V; V with n
+co-operate	pl-n V; V with n
+co-star	pl-n V; V with n
+constitute	V n
+constrain	V n to-inf
+constrict	V; V n
+construe	V n as adj
+construe	V n as n
+construe	V n prep/adv, V n adv/prep
+consult	V with n
+consult	V n as to wh
+consult	[Pat comb]/Oth pat of reciprocal verbs
+consult	pl-n V; V with n
+consult	V n about n
+consult	pl-n V; V n
+contact	V n about n
+contain	V pron-refl
+contain	V n
+contemplate	V n -ing
+contemplate	V -ing 
+contend	V with quote
+contend	V with n
+contend	V that
+contend	pl-n V; V with n
+contend	[Pat comb]/Oth pat of reciprocal verbs
+contend	V for n
+continue	V with quote
+continue	V as n
+continue	V n as n
+continue	V -ing 
+continue	V to-inf
+continue	V prep/adv, V adv/prep
+continue	V with n
+continue	V
+continue	V; V n
+continue	V n
+contort	V; V n
+contract	V to-inf
+contract	V; V n
+contract	V out of n
+contrast	V pl-n
+contrast	pl-n V; V with n
+contribute	V
+contribute	V towards/toward n
+contribute	V to n
+contrive	V to-inf
+control	V pron-refl
+control	V n
+convalesce	V from n
+convene	V; V n
+converge	V on n
+converge	pl-n V; V with n
+converse	[Pat comb]/Oth pat of reciprocal verbs
+converse	pl-n V; V with n
+convert	V to n
+convert	V into n
+convert	V prep/adv; V n prep
+convince	V n to-inf
+convince	V n that
+convince	V n
+convoy	V n prep/adv, V n adv/prep
+convulse	V; V n
+coo	V with quote
+coo	V over n
+coo	V at n
+cook	V way prep/adv
+cook	V n n
+cook	V
+cook	V; V n
+cook	V n
+cook up	V n
+cool	1 V it
+cool	V; V n
+cool	V towards/toward n
+cool down	V; V n
+cool off	V; V n
+cop	1 V it
+cope	V with n
+copulate	pl-n V; V with n
+copy	V from n
+corner	V prep/adv, V adv/prep
+correct	V with quote
+correlate	pl-n V; V with n
+correlate	pl-n V; V with n; V pl-n; V n with n
+correlate	V to n
+correspond	[Pat comb]/Oth pat of reciprocal verbs
+correspond	pl-n V; V with n
+correspond	V to n
+corrode	V; V n
+cost	it V n clause
+cost	V n n
+cost	V amount
+cost	V n
+cost out	V n
+cotton on	V to n
+cough up	V amount
+cough up	V for n
+could	[2 Modals]
+counsel	V with quote
+counsel	V n as to wh
+counsel	V n to-inf
+counsel	V on n
+count	V as n
+count	V n as n
+count	V n n
+count	V as adj; V n as adj
+count	V n adj
+count	V towards/toward n
+count	V n with adv
+count	V it n clause
+count	V prep/adv; V n prep
+count	it V prep clause
+count	V on n
+count	V
+count	V as adj
+count	V for n
+count	V n
+count against	V n
+count on	V -ing 
+count out	V n
+count towards	V n
+count up	V n
+count upon	V -ing 
+counter	V by -ing
+counter	V that
+counter	V with quote
+counter	V with n
+couple	V pl-n with together
+couple	V n prep/adv, V n adv/prep
+course	V prep/adv, V adv/prep
+court	pl-n V; V n
+cover	V amount
+cover	V n against n
+cover	V for n
+cover	V n
+cover up	V for n
+cover up	V n
+crack	V; V n
+crack	V adv
+crack down	V on n
+crackle	V way prep/adv
+cram	V into n
+cram	V for n
+cram	V n adj
+cram	V n prep/adv, V n adv/prep
+crane	V prep/adv, V adv/prep
+crank up	V n adj
+crash	V into n
+crash	V way prep/adv
+crash	V prep/adv; V n prep
+crash	V; V n
+crash	V prep/adv, V adv/prep
+crash-land	V; V n
+crave	V to-inf
+crave	V for n
+crawl	V way prep/adv
+crawl	V prep/adv, V adv/prep
+creak	V adj
+crease	V; V n
+crease up	V; V n
+create	V n
+credit	V that
+creep	V into n
+creep	V adv
+creep	V prep/adv, V adv/prep
+creep	V way prep/adv
+creep	V adj
+creep up	it V prep clause
+creep up	V on n
+creep up	V to n
+crib	V from n
+cringe	V at n
+crinkle	V; V n
+crisp	V; V n
+criss-cross	pl-n V; V n
+croak	V way prep/adv
+croak	V with quote
+crooked	V adj
+croon	V way prep/adv
+croon	V with quote
+cross	V pron-refl
+cross	V into n
+cross	pl-n V; V n
+cross	V prep/adv, V adv/prep
+cross	V to n
+cross	V n prep/adv, V n adv/prep
+cross	V n
+cross off	V n
+cross out	V n
+cross-breed	pl-n V; V with n; V pl-n; V n with n
+cross-breed	V pl-n
+cross-check	V n against n
+cross-examine	V n about n
+crouch	V adj
+crouch	V prep/adv, V adv/prep
+crouch down	V prep/adv, V adv/prep
+crow	V about n
+crow	V with quote
+crow	V that
+crow	V over n
+crow	V with n
+crowbar	V way prep/adv
+crowd	V into n
+crowd	V prep/adv; V n prep
+crowd	V adv
+crowd	V around/round n
+crowd in	V on n
+crown	V n n
+cruise	V to n
+cruise	V prep/adv, V adv/prep
+crumble	V into n
+crumble	V to n
+crumble	V; V n
+crumple	V; V n
+crumple	V prep
+crumple up	V; V n
+crunch	V into n
+crunch	V on n
+crunch	V way prep/adv
+crunch	V; V n
+crunch	V prep/adv, V adv/prep
+crusade	V against n
+crusade	V for n
+crush	V way prep/adv
+crush	V n prep/adv, V n adv/prep
+cry	V with quote
+cry	V way prep/adv
+cry	V that
+cry	V with n
+cry	V
+cry off	V
+cry out	V that
+cry out	V
+cry out	V with quote
+cry out	V n
+cry out for	V n
+crystallize	V; V n
+cuddle	pl-n V; V n
+cuddle up	V to n
+cuddle up	pl-n V together
+cuddle up	pl-n V; V with n
+cudgel	V way prep/adv
+culminate	V with n
+culminate	V in n
+cup	V n prep/adv, V n adv/prep
+curdle	V; V n
+curl	V way prep/adv
+curl	V into n
+curl	V n prep/adv, V n adv/prep
+curl	V prep/adv; V n prep
+curl	V prep/adv, V adv/prep
+curl	V; V n
+curl up	V into n
+curse	V way prep/adv
+curtsy	V to n
+curve	V; V n
+curve	V prep/adv, V adv/prep
+cushion	V n against n
+cuss	V at n
+cut	V pron-refl
+cut	V adv; V n
+cut	V way prep/adv
+cut	V through n
+cut	V adv
+cut	V n prep/adv, V n adv/prep
+cut	V across n
+cut	V n n
+cut	V n
+cut across	V n
+cut back	V on n
+cut back	V
+cut back	V n
+cut down	V on n
+cut down	V
+cut down	V n
+cut in	V with quote
+cut in	V
+cut in	V on n
+cut off	V n
+cut out	1 V it
+cut out	V
+cut out	V n
+cut up	V n
+cycle	V prep/adv, V adv/prep
+dab	V at n
+dab	V n prep/adv, V n adv/prep
+dabble	V with n
+dabble	V in n
+dally	V over n
+dally	V with n
+damage	V adv
+dance	Emphasizing reciprocity
+dance	V way prep/adv
+dance	pl-n V; V with n
+dance	V prep/adv, V adv/prep
+dance	pl-n V n; V n with n
+dance	V to n
+dance	V
+dangle	V n prep/adv, V n adv/prep
+dangle	V prep/adv; V n prep
+dangle	V prep/adv, V adv/prep
+dare	V inf
+dare	[2 Modals]
+dare	V to-inf
+dare	V n to-inf
+darken	V; V n
+dart	V prep/adv, V adv/prep
+dash	V n against n
+dash	V n prep/adv, V n adv/prep
+dash	V prep/adv, V adv/prep
+date	V
+date	V from n
+date	pl-n V; V n
+date back	V to n
+date back	V amount
+daub	V n prep/adv, V n adv/prep
+dawdle	V over n
+dawn	V adj
+dawn on	it V n clause
+daydream	V about n
+daydream	V of n
+dead	V adj
+deal	V n n
+deal	V with n
+deal	V in n
+deal	V n
+deal out	V n
+deal with	V n
+debate	Emphasizing reciprocity
+debate	V way prep/adv
+debate	V wh-to-inf
+debate	V -ing 
+debate	pl-n V n; V n with n
+debate	V wh
+decamp	V with n
+deceive	V pron-refl
+deceive	V n about n
+decide	V against n
+decide	V n to-inf
+decide	V that
+decide	V n against n
+decide	V n that
+decide	V wh-to-inf
+decide	V to-inf
+decide	V in favour of n
+decide	V
+decide	V wh
+decide	V n
+decide on	V n
+declaim	V that
+declaim	V with quote
+declare	V with quote
+declare	V that
+declare	V n n
+declare	V n adj
+declare	V n prep/adv, V n adv/prep
+declare	V n to-inf
+declare	V it adj clause
+declare	V wh
+declare	V for n
+declare	V n
+decline	V to n
+decline	V amount
+decline	V by amount
+decline	V in n
+decline	V to-inf
+decline	V
+decompose	V into n
+decompose	V; V n
+decouple	V pl-n
+decrease	V to n
+decrease	V amount
+decrease	V by amount
+decrease	V in n
+decrease	V prep/adv; V n prep
+decrease	V; V n
+decree	V that
+decry	V n as adj
+decry	V n as n
+deduce	V with quote
+deduce	V that
+deduce	V wh
+deem	V it adj clause
+deem	V n n
+deem	V n adj
+deem	V n to-inf
+deem	V it n clause
+deepen	V; V n
+default	V on n
+defeat	V n n
+defect	V to n
+defect	V from n
+defenceless	V adj
+defend	V
+defend	V n against n
+defend	V n
+defer	V -ing 
+defer	V to n
+define	V wh
+define	V n as n
+deflate	V; V n
+deflect	V n prep/adv, V n adv/prep
+deform	V; V n
+defrost	V; V n
+defy	V n to-inf
+degenerate	V into n
+degrade	V; V n
+dehydrate	V; V n
+deign	V to-inf
+delay	V -ing 
+delegate	V n to-inf
+deliberate	V about n
+deliberate	V over n
+deliberate	V prep
+deliberate	V on n
+delight	V in n
+delight	it V n clause
+deliver	V
+deliver	V n
+delude	V pron-refl
+delude	V n that
+delve	V into n
+delve	V adv
+delve	V prep/adv, V adv/prep
+demand	V with quote
+demand	V that
+demand	V to-inf
+demand	V
+demand	V wh
+demand	V n
+demean	V pron-refl
+demerge	V; V n
+demobilize	V; V n
+demonstrate	V against n
+demonstrate	V that
+demonstrate	V wh-to-inf
+demonstrate	V in favour of n
+demonstrate	V
+demonstrate	V wh
+demonstrate	V for n
+denote	V that
+denounce	V n as adj
+denounce	V n as n
+deny	V that
+deny	V -ing 
+deny	V n n
+deny	V n
+depart	V from n
+depart	V n
+depart	V for n
+depend	V on n
+depict	V n as adj
+depict	V n as n
+depose	V n as n
+deposit	V n prep/adv, V n adv/prep
+depreciate	V against n
+depreciate	V by amount
+depreciate	V; V n
+depress	it V n clause
+depute	V n to-inf
+deputize	V for n
+derail	V; V n
+derive	V from n
+derive	V prep/adv; V n prep
+descend	V into n
+descend	V on n
+descend	V over n
+descend	V prep
+descend	V to n
+describe	V n as n
+describe	V wh
+describe	V wh-to-inf
+describe	V -ing 
+describe	V n -ing
+describe	V n as adj
+describe	V n
+desert	V from n
+deserve	V -ing 
+deserve	V to-inf
+design	V n
+designate	V n as n
+designate	V n n
+designate	V n as adj
+desire	V to-inf
+desire	V n to-inf
+desist	V from n
+despair	V at n
+despair	V of n
+destroy	V n
+detach	V; V n
+detach	V from n
+detach	V prep/adv; V n prep
+detail	V n to-inf
+detail	V wh
+detect	V wh
+determine	V that
+determine	V wh-to-inf
+determine	V to-inf
+determine	V wh
+determine	V n
+detest	V -ing 
+detonate	V; V n
+detour	V prep
+detract	V from n
+develop	V from n
+develop	V into n
+develop	V out of n
+develop	V
+develop	V; V n
+develop	V n
+deviate	V from n
+devolve	V on n
+devolve	V prep/adv; V n
+diagnose	V n as n
+diagnose	V n adj
+diagnose	V n as adj
+dicker	V over n
+dicker	V about n
+dicker	[Pat comb]/Oth pat of reciprocal verbs
+dicker	pl-n V; V with n
+dictate	V that
+dictate	V to n
+dictate	V wh
+die	V -ing 
+die	V from n
+die	V adj
+die	V
+die	V n
+die	V of n
+die away	V
+die back	V
+die down	V
+die out	V
+differ	[Pat comb]/Oth pat of reciprocal verbs
+differ	Emphasizing reciprocity
+differ	V as to wh
+differ	V about n
+differ	V from n
+differ	V over n
+differ	V in n
+differ	V prep
+differ	pl-n V; V with n
+differ	V on n
+differentiate	V between pl-n
+diffuse	V n prep/adv, V n adv/prep
+diffuse	V prep
+diffuse	V prep/adv; V n
+diffuse	V prep/adv; V n prep
+diffuse	V prep/adv, V adv/prep
+dig	V into n
+dig	V through n
+dig	V n prep/adv, V n adv/prep
+dig	V way prep/adv
+dig	V prep/adv; V n prep
+dig	V prep/adv, V adv/prep
+dig	V for n
+dig in	V pron-refl
+digest	V; V n
+dignify	V n as n
+digress	V from n
+dilate	V; V n
+dilute	V; V n
+dim	V; V n
+diminish	V; V n
+dine	V on n
+dine	V prep/adv, V adv/prep
+dip	V into n
+dip	V to n
+dip	V by amount
+dip	V n prep/adv, V n adv/prep
+dip	V prep/adv, V adv/prep
+direct	V that
+direct	V n against n
+direct	V n prep/adv, V n adv/prep
+direct	V n to-inf
+direct	V
+disagree	[Pat comb]/Oth pat of reciprocal verbs
+disagree	Emphasizing reciprocity
+disagree	V as to wh
+disagree	V about n
+disagree	V that
+disagree	pl-n V; V with n
+disagree	V prep
+disagree	V with n
+disagree	V over n
+disagree	V on n
+disappear	V
+disappear	V prep
+disappoint	it V n clause
+disapprove	V of n
+disarm	V pron-refl
+disband	V; V n
+disbelieve	V that
+disbelieve	V in n
+discern	V that
+discern	V wh
+discharge	V n prep/adv, V n adv/prep
+discipline	V n to-inf
+discipline	V pron-refl
+disclose	V that
+disclose	V wh
+discolour	V; V n
+discontinue	V -ing 
+discourage	V -ing 
+discourse	V on n
+discourse	V about n
+discourse	V prep
+discover	V that
+discover	V wh-to-inf
+discover	V n to-inf
+discover	V wh
+discover	V n
+discriminate	V in favour of n
+discriminate	V against n
+discriminate	V between pl-n
+discuss	Emphasizing reciprocity
+discuss	V wh-to-inf
+discuss	pl-n V n; V n with n
+discuss	V wh
+discuss	V n
+disdain	V to-inf
+disembark	V from n
+disengage	[Intro/Erg Verb]
+disengage	V; V n
+disengage	V from n
+disengage	V prep/adv; V n prep
+disgrace	V pron-refl
+disguise	V pron-refl
+disguise	V n as n
+dislike	V n -ing
+dislike	V -ing 
+dislike	V it clause
+dislike	V n about n
+dismiss	V n as adj
+dismiss	V n as n
+dispatch	V n to-inf
+dispatch	V n prep/adv, V n adv/prep
+dispense	V with n
+disperse	V; V n
+display	V adv; V n
+display	V adv
+dispose	V of n
+dispute	V that
+dispute	V wh
+dispute	pl-n V n; V n with n
+dissent	V from n
+dissipate	V; V n
+dissolve	V into n
+dissolve	V; V n
+distend	V; V n
+distinguish	V pron-refl
+distinguish	V pl-n
+distinguish	V between pl-n
+distort	V; V n
+distress	it V n clause
+disturb	it V n clause
+ditch	V; V n
+ditch	V prep/adv; V n prep
+dither	V over n
+dither	V about n
+dive	V to n
+dive	V amount
+dive	V into n
+dive	V by amount
+dive	V adv
+dive	V prep/adv, V adv/prep
+dive	V way prep/adv
+diverge	pl-n V; V with n
+diverge	V from n
+diversify	V into n
+divert	V prep/adv; V n; V n prep/adv
+divert	V n prep/adv, V n adv/prep
+divert	V to n
+divert	V from n
+divide	V into n
+divide	V n prep/adv, V n adv/prep
+divide	V prep/adv; V n prep
+divide	V
+divide	V; V n
+divide	V n
+divide off	V n
+divide up	V n
+divine	V that
+divine	V wh
+divine	V for n
+divorce	pl-n V; V n
+divulge	V that
+divulge	V wh
+do	it V clause
+do	V so/not
+do	V amount
+do	V adv
+do	V n to-inf
+do	V n n
+do	V n about n
+do	pl-n V n; V n with n
+do	it V n clause
+do	V
+do	V n
+do away	V with n
+do for	V n
+do in	V n
+do out	V n prep/adv, V n adv/prep
+do over	V n
+do up	V n prep/adv, V n adv/prep
+do up	V n
+do without	V
+do without	V n
+dock	V n n
+dock	V with n
+dock	V; V n
+dock	V prep/adv; V n prep
+dock	V n prep/adv, V n adv/prep
+dodge	V way prep/adv
+dodge	V prep/adv, V adv/prep
+doll up	V pron-refl
+dominate	V way prep/adv
+dominate	V
+dominate	V n
+doom	V n to-inf
+doss	V prep/adv, V adv/prep
+doss down	V prep/adv, V adv/prep
+dote	V on n
+double	V as n
+double	V; V n
+double	V in n
+double up	V with n
+double up	V as n
+double up	V; V n
+double-check	V that
+double-check	V with n
+doubt	V that
+doubt	V wh
+dovetail	pl-n V; V with n; V pl-n; V n with n
+dovetail	V pl-n
+dovetail	Emphasizing reciprocity
+dowse	V for n
+drag	V way prep/adv
+drag	V adv
+drag	V n prep/adv, V n adv/prep
+drain	V prep/adv; V n; V n prep/adv
+drain	V adv; V n
+drain	V prep/adv; V n
+drain	V adv
+drain	V n prep/adv, V n adv/prep
+drain	V prep/adv, V adv/prep
+drain	V prep/adv; V n prep
+drain	V of n
+drain	V; V n
+drain	V from n
+drape	V n prep/adv, V n adv/prep
+draw	V against n
+draw	V n adj
+draw	V prep/adv, V adv/prep
+draw	pl-n V; V with n
+draw	V on n
+draw	V
+draw	V n prep/adv, V n adv/prep
+draw	V n
+draw in	V
+draw off	V n
+draw on	V
+draw on	V n
+draw out	V n
+draw up	V pron-refl
+draw up	V n
+drawl	V way prep/adv
+drawl	V with quote
+dread	V to-inf
+dread	V that
+dread	V -ing 
+dread	V n -ing
+dream	V way prep/adv
+dream	V that
+dream	V about n
+dream	V of n
+dreamed	V that
+dress	V pron-refl
+dress	V prep/adv, V adv/prep
+dress	V like n
+dress	V
+dress	V for n
+dress	V in n
+dress	V n
+dress down	V n
+dress up	V pron-refl
+dress up	V as n
+dress up	V n prep/adv, V n adv/prep
+dress up	V in n
+dress up	V n
+dribble	V n prep/adv, V n adv/prep
+dribble	V prep/adv; V n prep
+dribble	V prep/adv, V adv/prep
+drift	V prep
+drift	V adj
+drift	V prep/adv, V adv/prep
+drift off	V to n
+drill	V into n
+drill	V way prep/adv
+drill	V through n
+drill	V for n
+drink	V way prep/adv
+drink	V
+drink	V from n
+drink	V n
+drink in	V n
+drink to	V n
+drink up	V
+drink up	V n
+drip	V way prep/adv
+drip	V n prep/adv, V n adv/prep
+drip	V with n
+drip	V prep/adv; V n prep
+drip	V prep/adv, V adv/prep
+drive	it V n clause
+drive	V n adj
+drive	V prep/adv, V adv/prep
+drive	V n to-inf
+drive	V
+drive	V n prep/adv, V n adv/prep
+drive	V n
+drive out	V n
+drizzle	1 it V
+drizzle	V n prep/adv, V n adv/prep
+drone	V way prep/adv
+drone on	V about n
+drool	V over n
+drool	V at n
+drool	V prep
+droop	V prep/adv, V adv/prep
+drop	V n prep/adv, V n adv/prep
+drop	V to n
+drop	V amount
+drop	V by amount
+drop	V in n
+drop	V prep/adv, V adv/prep
+drop	V out of n
+drop	V prep/adv; V n prep
+drop	V
+drop	V prep
+drop	V; V n
+drop	V n
+drop away	V
+drop away	V prep/adv, V adv/prep
+drop by	V
+drop by	V n
+drop in	V on n
+drop in	V
+drop off	V to n
+drop off	V
+drop off	V n prep/adv, V n adv/prep
+drop off	V n
+drop out	V
+drown	V pron-refl
+drown	[Intro/Erg Verb]
+drown	V in n
+drown	V; V n
+drum	V it to n clause
+drum	V on n
+drum	V n against n
+drunk	V adj
+dry	V; V n
+dry off	V; V n
+dry out	V; V n
+dry up	V; V n
+dub	V n n
+dub	V n as n
+duck	V out of n
+duck	V prep/adv, V adv/prep
+duel	pl-n V; V with n
+dull	V; V n
+dump	V on n
+dump	V n prep/adv, V n adv/prep
+dupe	V way prep/adv
+dust	V n prep/adv, V n adv/prep
+dust down	V pron-refl
+dwell	V on n
+dwell	V prep/adv, V adv/prep
+earmark	V n to-inf
+earn	V way prep/adv
+earn	V amount
+earn	V n n
+earn	V
+earn	V n
+ease	V way prep/adv
+ease	V; V n
+ease	V n adj
+ease	V prep/adv, V adv/prep
+ease off	V; V n
+ease up	V on n
+eat	V into n
+eat	V from n
+eat	V way prep/adv
+eat	V prep/adv, V adv/prep
+eat	V
+eat	V n
+eat away	V at n
+eat away	V n
+eat up	V n
+eavesdrop	V on n
+echo	V with quote
+echo	V with n
+echo	V prep/adv, V adv/prep
+economize	V on n
+save	V on n
+eddy	V prep/adv, V adv/prep
+edge	V way prep/adv
+edge	V towards/toward n
+edge	V adj
+edge	V prep/adv, V adv/prep
+edit	V pl-n with together
+educate	V n as to wh
+egg on	V n to-inf
+ejaculate	V with quote
+eject	V from n
+elaborate	V on n
+elbow	V way prep/adv
+elbow	V n prep/adv, V n adv/prep
+elect	V n as n
+elect	V n n
+elect	V to-inf
+elect	V n
+electrocute	V pron-refl
+elongate	V; V n
+elope	pl-n V; V with n
+emanate	V prep/adv; V n
+emanate	V from n
+embark	V on n
+embarrass	it V n clause
+embed	V n prep/adv, V n adv/prep
+embrace	pl-n V; V n
+embroider	V on n
+emerge	V as n
+emerge	V adj
+emerge	it V clause
+emerge	V as adj
+emerge	V
+emerge	V from n
+emigrate	V to n
+emigrate	V from n
+empathize	V with n
+emphasize	V that
+emphasize	V wh
+employ	V n to-inf
+employ	V n as n
+employ	V n
+empower	V n to-inf
+empty	V into n
+empty	V n with adv
+empty	V; V n
+empty-handed	V adj
+emulsify	V; V n
+enable	V n to-inf
+encourage	V -ing 
+encourage	V n to-inf
+encourage	V n
+encroach	V on n
+encroach	V prep/adv, V adv/prep
+end	V as n
+end	V adv
+end	V with n
+end	V by -ing
+end	V n as n
+end	V in n
+end	V n
+end	1 V it
+end	V n -ing
+end	V prep/adv, V adv/prep
+end	V
+end	V n prep/adv, V n adv/prep
+end	V; V n
+end	V with quote
+end	V at n
+end	V adj
+end	V prep/adv; V n prep
+end	V n adj
+end up	V as n
+end up	V -ing 
+end up	V prep/adv, V adv/prep
+end up	V adj
+endeavour	V to-inf
+endure	V -ing 
+endure	V it clause
+endure	V for n
+engage	V with n
+engage	V; V n
+engage	V in n
+enjoin	V n to-inf
+enjoy	V -ing 
+enjoy	V pron-refl
+enjoy	V it clause
+enjoy	3 V it prep/adv
+enjoy	V n
+enlarge	V on n
+enlarge	V; V n
+enlighten	V n as to wh
+enlist	V n to-inf
+enlist	V as n
+enlist	V; V n
+enlist	V in n
+enlist	V prep/adv; V n prep
+enquire	V as to wh
+enrol	V for n
+enrol	V in n
+enrol	V n prep/adv, V n adv/prep
+enrol	V prep/adv; V n prep
+enrol	V prep
+enrol	V; V n
+ensconce	V n prep/adv, V n adv/prep
+ensure	V that
+ensure	V n
+entail	V n -ing
+entail	V -ing 
+enter	V into n
+enter	V n prep/adv, V n adv/prep
+enter	V
+enter	V for n
+enter	V n
+enter into	V n
+enthrone	V n as n
+enthuse	V about n
+enthuse	V with quote
+enthuse	V that
+enthuse	V over n
+entice	V n to-inf
+entice	V n prep/adv, V n adv/prep
+entitle	V n to-inf
+entranced	V adj
+entreat	V with quote
+entreat	V n to-inf
+entrench	V pron-refl
+entwine	pl-n V; V with n; V pl-n; V n with n
+entwine	V pl-n
+entwine	V; V n
+enunciate	V way prep/adv
+envisage	V that
+envisage	V -ing 
+envisage	V n -ing
+envisage	V wh
+envision	V that
+envision	V wh
+envy	V n n
+equal	V amount
+equate	V with n
+equate	V prep/adv; V n prep
+equate	V pl-n
+equate	V to n
+equip	V n to-inf
+equivocate	V over n
+equivocate	V about n
+erode	V; V n
+erupt	V into n
+erupt	V in n
+escalate	V into n
+escalate	V; V n
+escape	V -ing 
+escape	V prep/adv, V adv/prep
+escape	it V n clause
+escape	V to n
+escape	V
+escape	V from n
+escape	V n
+escort	V n prep/adv, V n adv/prep
+establish	V pron-refl
+establish	V n as n
+establish	V that
+establish	V wh-to-inf
+establish	pl-n V n; V n with n
+establish	V wh
+establish	V n
+estimate	V with quote
+estimate	V that
+estimate	V wh
+estimate	V n
+eulogize	V prep
+evade	V -ing 
+evaporate	V; V n
+even out	V; V n
+evolve	V from n
+evolve	V into n
+evolve	V towards/toward n
+evolve	V prep/adv; V n prep
+evolve	V; V n
+examine	V n
+excel	V pron-refl
+excel	V at n
+excel	V in n
+exchange	V pl-n
+exchange	pl-n V n; V n with n
+exclaim	V with quote
+exclaim	V that
+exclaim	V at n
+excuse	V pron-refl
+excuse	V n n
+exert	V pron-refl
+exhort	V with quote
+exhort	V n to-inf
+exile	V n prep/adv, V n adv/prep
+exist	V on n
+exist	V
+exit	V from n
+expand	V on n
+expand	V
+expand	V; V n
+expect	V n to-inf
+expect	V that
+expect	V to-inf
+expect	V n
+experience	V n
+experiment	V on n
+experiment	V with n
+expiate	V for n
+explain	V with quote
+explain	V pron-refl
+explain	V that
+explain	V wh-to-inf
+explain	V
+explain	V wh
+explain	V n
+explode	V with quote
+explode	V to n
+explode	V way prep/adv
+explode	V with n
+explode	V; V n
+explore	V for n
+export	V way prep/adv
+expose	V pron-refl
+expose	V n as adj
+expose	V n as n
+expostulate	V with quote
+expostulate	V with n
+express	V pron-refl
+express	V n prep/adv, V n adv/prep
+express	V n as n
+express	V n
+expressionless	V adj
+extend	V to n
+extend	V over n
+extend	V amount
+extend	V
+extend	V prep/adv, V adv/prep
+extend	V for n
+extend	V n
+extrapolate	V from n
+exude	V; V n
+exude	V prep/adv; V n
+exult	V with quote
+exult	V at n
+exult	V in n
+eye	V n prep/adv, V n adv/prep
+face	V -ing 
+face	V prep/adv, V adv/prep
+face	V n
+face down	V n
+face up to	V n
+factor	V n prep/adv, V n adv/prep
+fade	V into n
+fade	V; V n
+fade	V from n
+fade away	V into n
+fail	V on n
+fail	V to-inf
+fail	V
+fail	V in n
+fail	V n
+fake	V way prep/adv
+fall	V on n
+fall	V from n
+fall	V in n
+fall	V over n
+fall	V into n
+fall	V to n
+fall	V prep
+fall	V out of n
+fall	V across n
+fall	V
+fall	V prep/adv, V adv/prep
+fall	V amount
+fall	V by amount
+fall	it V to n clause
+fall	V adj
+fall about	V with n
+fall about	V
+fall about	V -ing 
+fall apart	V
+fall away	V
+fall away	V from n
+fall back	V
+fall back	V from n
+fall back on	V n
+fall behind	V
+fall behind	V with n
+fall behind	V n
+fall down	V
+fall down	V on n
+fall down	V adj
+fall for	V n
+fall in	V behind n
+fall in	V
+fall in	V with n
+fall in	V prep/adv, V adv/prep
+fall into	V n
+fall off	V
+fall on	V n
+fall out	V
+fall out	pl-n V; V with n
+fall over	V
+fall through	V
+fall to	V -ing 
+fan out	V; V n
+fancy	V pron-refl
+fancy	V n as n
+fancy	V n to-inf
+fancy	V that
+fancy	V n n
+fancy	V -ing 
+fantasize	V about n
+fantasize	V over n
+fantasize	V -ing 
+fantasize	V that
+fantasize	V wh
+fare	V adv
+fascinate	it V n clause
+fast	V n prep/adv, V n adv/prep
+fast-forward	V to n
+fasten	V prep/adv; V n; V n prep/adv
+fasten	V on to n, V onto n
+fasten	V n prep/adv, V n adv/prep
+fasten	V prep/adv; V n prep
+fasten	V pl-n with together
+fasten	V on n
+fasten	V prep
+fathom	V wh
+fathom out	V wh
+fatten	V; V n
+favour	V n -ing
+favour	V -ing 
+fawn	V on n
+fawn	V around/round n
+fawn	V over n
+fax	V n n
+fear	V so/not
+fear	V to-inf
+fear	V that
+fear	V -ing 
+fear	V n -ing
+fear	V for n
+fear	V n
+feast	V way prep/adv
+feast	V on n
+feature	V on n
+feature	V in n
+feature	V n
+feed	V n prep/adv, V n adv/prep
+feed	V n n
+feed	V on n
+feed	V
+feed	V; V n
+feed	V n
+feed up	V n
+feel	it V adj clause
+feel	V n -ing
+feel	it V to n clause
+feel	V it adj clause
+feel	V as if, V as though
+feel	V n
+feel	V way prep/adv
+feel	V that
+feel	V it n clause
+feel	V n prep/adv, V n adv/prep
+feel	V prep/adv, V adv/prep
+feel	V like n
+feel	V wh
+feel	V n n
+feel	V n to-inf
+feel	V n about n
+feel	V adj
+feel	V n inf
+feel	V for n
+feign	V to-inf
+feint	V prep/adv, V adv/prep
+fell	V n
+fend	V for n
+ferment	V; V n
+ferret	V prep/adv, V adv/prep
+ferret about	V for n
+ferret around	V for n
+ferry	V n prep/adv, V n adv/prep
+fetch	V n n
+fetch up	V prep/adv, V adv/prep
+feud	Emphasizing reciprocity
+feud	pl-n V; V with n
+fiddle	V way prep/adv
+fiddle	V with n
+fiddle about	V with n
+fidget	V with n
+fight	Emphasizing reciprocity
+fight	V against n
+fight	V about n
+fight	[Pat comb]/Oth pat of reciprocal verbs
+fight	V way prep/adv
+fight	V over n
+fight	pl-n V; V with n
+fight	V to-inf
+fight	V with n
+fight	V n about n
+fight	pl-n V n; V n with n
+fight	V
+fight	pl-n V; V n
+fight	V for n
+fight	V n
+fight back	V against n
+fight back	V n
+fight down	V n
+fight off	V n
+fight out	2 pl-n V it P; V it P with n
+fight out	pl-n V n; V n with n
+figure	V as n
+figure	V way prep/adv
+figure	V that
+figure	V wh-to-inf
+figure	it V clause
+figure	V wh
+figure	V in n
+figure on	V -ing 
+figure out	V wh-to-inf
+figure out	V that
+figure out	V wh
+file	V for n
+file	V prep/adv, V adv/prep
+fill	V with n
+fill	V prep/adv; V n prep
+fill	V
+fill	V; V n
+fill	V n
+fill in	V for n
+fill in	V n
+fill out	V
+fill out	V n
+fill up	V pron-refl
+fill up	V with n
+fill up	V prep/adv; V n prep
+fill up	V on n
+fill up	V
+fill up	V; V n
+fill up	V n
+filter	V into n
+filter	V through n
+filter	V adv
+filter	V prep/adv, V adv/prep
+filter	V way prep/adv
+filter	V out of n
+finalize	pl-n V n; V n with n
+finance	V way prep/adv
+find	V it n clause
+find	V n -ing
+find	V it adj clause
+find	V way prep/adv
+find	V that
+find	V n n
+find	V n adj
+find	V n prep/adv, V n adv/prep
+find	V n to-inf
+find	V wh
+find	V n
+find out	V about n
+find out	V that
+find out	V wh-to-inf
+find out	V n about n
+find out	V
+find out	V wh
+find out	V n
+finish	V as n
+finish	V with n
+finish	V by -ing
+finish	V n as n
+finish	V n
+finish	V -ing 
+finish	V n -ing
+finish	V prep/adv, V adv/prep
+finish	V
+finish	V n prep/adv, V n adv/prep
+finish	V with quote
+finish	V at n
+finish	V n adj
+finish	V adj
+finish	V prep/adv; V n prep
+finish off	V by -ing
+finish off	V n
+finish up	V by -ing
+finish up	V as n
+finish up	V -ing 
+finish up	V prep/adv, V adv/prep
+finish up	V adj
+finish up	V n
+fire	V on n
+fire	V
+fire	V at n
+fire	V n
+fire away	V
+fire off	V n
+firm up	V; V n
+fish	V
+fish	V for n
+fish	V adv; V n
+fish	V n
+fish out	V n
+fit	V into n
+fit	V prep/adv, V adv/prep
+fit	V n to-inf
+fit	V
+fit	V n
+fit firm	V n prep/adv, V n adv/prep
+fit in	V
+fit in	V with n
+fix	V that
+fix	V n prep/adv, V n adv/prep
+fix	V to-inf
+fix	V n n
+fix	V prep/adv; V n prep
+fix	V on n
+fix	V n
+fix on	V n
+fix up	V n
+fizzle	V into n
+flail	V; V n
+flake	V; V n
+flame	V adj
+flap	V way prep/adv
+flap	V; V n
+flare	V; V n
+flash	V prep/adv; V n; V n prep/adv
+flash	V into n
+flash	V through n
+flash	V adv
+flash	V prep/adv, V adv/prep
+flash	V n n
+flash	V adj
+flash	V n prep/adv, V n adv/prep
+flash	V; V n
+flash back	V to n
+flat	V adj
+flat-footed	V adj
+flatten	V pron-refl
+flatten	V n against n
+flatten	V; V n
+flatten out	V; V n
+flatter	V pron-refl
+flatter	V n that
+flaunt	V pron-refl
+flee	V
+flee	V prep/adv, V adv/prep
+flick	V through n
+flick	V n prep/adv, V n adv/prep
+flick	V n with adv
+flick	V prep/adv; V n prep
+flick	V prep/adv, V adv/prep
+flicker	V across n
+flicker	V over n
+flicker	V adj
+flicker	V prep/adv, V adv/prep
+flinch	V from n
+fling	V n prep/adv, V n adv/prep
+flip	V through n
+flip	V n prep/adv, V n adv/prep
+flip	V n with adv
+flip	V prep/adv; V n prep
+flip	V prep/adv, V adv/prep
+flip-flop	V on n
+flirt	V way prep/adv
+flirt	V with n
+flirt	pl-n V; V with n
+flit	V across n
+flit	V through n
+flit	V between pl-n
+flit	V prep/adv, V adv/prep
+float	V way prep/adv
+float	V in n
+float	V n prep/adv, V n adv/prep
+float	V prep/adv; V n prep
+float	V prep/adv, V adv/prep
+float	V; V n
+flock	V to n
+flock	V around/round n
+flock	V to-inf
+flock	V prep/adv, V adv/prep
+flood	V; V n
+flood	V prep/adv, V adv/prep
+flop	V prep/adv, V adv/prep
+flounce	V way prep/adv
+flounce	V prep/adv, V adv/prep
+flounder	V prep/adv, V adv/prep
+flow	V with n
+flow	V prep
+flow	V from n
+flow	V prep/adv, V adv/prep
+flush	V n with adv
+flush	V; V n
+flush	V adj
+flush	V n prep/adv, V n adv/prep
+flutter	V; V n
+flutter	V prep/adv, V adv/prep
+fly	V into n
+fly	V; V n
+fly	V prep/adv, V adv/prep
+fly	V adj
+fly	V
+fly	V n prep/adv, V n adv/prep
+fly	V at n
+fly	V n
+focus	V n prep/adv, V n adv/prep
+focus	V prep/adv; V n prep
+focus	V on n
+focus	V
+focus	V; V n
+focus	V n
+fog	V; V n
+fog up	V; V n
+fold	V adj; V n
+fold	V adv; V n
+fold	V adv
+fold	V n prep/adv, V n adv/prep
+fold	V adj
+fold	V prep/adv, V adv/prep
+fold up	V; V n
+follow	V after n
+follow	V from n
+follow	V n prep/adv, V n adv/prep
+follow	V
+follow	it V clause
+follow	V n
+follow through	V on n
+follow through	V
+follow through	V with n
+follow through	V n
+follow up	V n
+fool	V pron-refl
+fool	V with n
+fool	V n about n
+fool around	V with n
+forage	V for n
+forbear	V from n
+forbear	V to-inf
+forbear	V -ing 
+forbid	V -ing 
+forbid	V n to-inf
+force	V way prep/adv
+force	V n adj
+force	V n prep/adv, V n adv/prep
+force	V n to-inf
+force	V n
+force back	V n
+forecast	V that
+forecast	V wh
+foreclose	V on n
+foresee	V that
+foresee	V wh
+foretell	V that
+foretell	V wh
+forewarn	V n about n
+forewarn	V n that
+forge	V way prep/adv
+forge	pl-n V n; V n with n
+forge ahead	V with n
+forget	V pron-refl
+forget	V about n
+forget	V that
+forget	V to-inf
+forget	V wh-to-inf
+forget	V -ing 
+forget	V n -ing
+forget	V wh
+forget	V n
+forgive	V n n
+fork	V n prep/adv, V n adv/prep
+fork	V prep/adv, V adv/prep
+fork out	V amount
+fork out	V to-inf
+fork out	V on n
+fork out	V for n
+forlorn	V adj
+form	[Intro/Erg Verb]
+form	V into n
+form	pl-n V n; V n with n
+form	V prep/adv; V n prep
+form	V
+form	V n
+form	V; V n
+fornicate	pl-n V; V with n
+fortify	V pron-refl
+forward bring in bring up buy out buy out call off call up catch up check in check out close off cut off cut off cut up cut out draw in fit in fit out fix up	V n
+forward bring in bring up buy out buy out call off call up catch up check in check out close off cut off cut off cut up cut out draw in fit in fit up fix up	V n
+forward bring up do down explain away	V n
+come forward	V	
+come out	V
+dress down	V
+dress up	V
+fight back	V
+forward	V n prep/adv, V n adv/prep
+flip	V n prep/adv, V n adv/prep
+fold	V n prep/adv, V n adv/prep
+fossilize	V; V n
+found	V n
+fracture	V; V n
+fracture	V adv
+fragment	V prep/adv; V n prep
+fragment	V into n
+fragment	V; V n
+frame	V n prep/adv, V n adv/prep
+fraternize	pl-n V; V with n
+fray	V at n
+fray	V; V n
+freak	V; V n
+free	V n to-inf
+free	V adj
+freelance	V as n
+freewheel	V prep/adv, V adv/prep
+freeze	1 it V
+freeze	V adj
+freeze	V adj; V n adj
+freeze	V to n
+freeze	V
+freeze	V; V n
+freeze over	V
+freeze up	V
+freeze up	V; V n
+freight	V n prep/adv, V n adv/prep
+fret	V about n
+fret	V that
+fret	V over n
+frighten	it V n clause
+frog-march	V n prep/adv, V n adv/prep
+front	V on to n, V onto n
+froth	V with quote
+froth	V at n
+froth	V prep
+frown	V on n
+frown	V at n
+fulfil	V pron-refl
+fulminate	V against n
+fulminate	V about n
+fumble	V way prep/adv
+fumble	V with n
+fumble	V for n
+fumble	V prep/adv, V adv/prep
+fume	V with quote
+fume	V about n
+fume	V over n
+fume	V at n
+function	V as n
+fund	V way prep/adv
+fund	V n
+funnel	V n prep/adv, V n adv/prep
+funnel	V prep/adv; V n prep
+funnel	V prep/adv, V adv/prep
+fur up	V; V n
+furrow	V; V n
+fuse	V pl-n with together
+fuse	pl-n V; V with n; V pl-n; V n with n
+fuse	V pl-n
+fuse	V; V n
+fuse	Emphasizing reciprocity
+fuss	V over n
+fuss	V with n
+fuss	V around/round n
+fuss	V prep
+gabble	V with quote
+gad	V adv
+gain	V amount
+gain	V in n
+gain	V from n
+gain	V n
+gain on	V n
+gall	it V n clause
+gallivant	V prep/adv, V adv/prep
+gallop	V way prep/adv
+gallop	V prep/adv; V n prep
+gallop	V n prep/adv, V n adv/prep
+gallop	V adv
+gallop	V prep/adv, V adv/prep
+gamble	V with n
+gamble	V way prep/adv
+gamble	V that
+gamble	V on n
+gambol	V prep/adv, V adv/prep
+gang up	V on n
+gang up	V against n
+gang up	V to-inf
+gape	V at n
+gasp	V way prep/adv
+gasp	V with quote
+gasp	V for n
+gatecrash	V way prep/adv
+gather	pl-n V together
+gather	V around/round n
+gather	V that
+gather	V prep/adv, V adv/prep
+gather	V prep/adv; V n prep
+gather	V pl-n with together
+gather	V
+gather	V n prep/adv, V n adv/prep
+gather	V n
+gather up	V n
+gawk	V at n
+gawp	V at n
+gaze	V at n
+gaze	V adj
+gaze	V prep/adv, V adv/prep
+gear up	V n to-inf
+gear up	V for n
+gel	V into n
+gel	pl-n V; V with n
+gen up	V on n
+generalize	V about n
+generalize	V from n
+generalize	V n prep/adv, V n adv/prep
+generalize	V on n
+generalize	V prep
+genuflect	V to n
+germinate	V into n
+germinate	V; V n
+gesticulate	V prep
+gesture	V prep/adv, V adv/prep
+get	it V adj clause
+get	V through n
+get	V adv
+get	V n n
+get	V to n
+get	5 it V to n
+get	V n adj
+get	V out of n
+get	V n
+get	V into n
+get	pl-n V together
+get	V -ing 
+get	V to-inf
+get	V n prep/adv, V n adv/prep
+get	V pl-n with together
+get	V prep/adv, V adv/prep
+get	V amount
+get	V on to n, V onto n
+get	V n to-inf
+get	V adj
+get	2 it V adj
+get about	V
+get across	V prep/adv; V n prep
+get across	V; V n
+get across	V to n
+get ahead	V
+get along	pl-n V; V with n
+get along	V prep
+get around	V
+get around	V to n
+get around	it V clause
+get around	V n
+get at	V n
+get away	11 V prep it
+get away	V from n
+get away	V
+get away	V; V n
+get away	V n
+get away with	V -ing 
+get away with	V n
+get back	V into n
+get back	V on to n, V onto n
+get back	V at n
+get back	V n
+get back	V to n
+get by	V on n
+get by	V
+get by	V prep
+get divorced	pl-n V; V with n
+get down	V
+get down	V on n
+get down	V to n
+get down	V n
+get in	V on n
+get in	V
+get in	V with n
+get in on	V n
+get into	V n
+get off	V
+get off	V with n
+get off	V n
+get off on	V n
+get on	V
+get on	V with n
+get on	pl-n V; V with n
+get on	V prep/adv, V adv/prep
+get on to	V n
+get out	V that
+get out	V
+get over	V n
+get round	V
+get round	V to n
+get round	it V clause
+get round	V n
+get through	V
+get through	V to n
+get through	V n
+get up	V
+get up	V n prep/adv, V n adv/prep
+get up to	V n
+giggle	V way prep/adv
+giggle	V with quote
+give	V it as n/adj clause
+give	V n as n
+give	V n n
+give	it V n clause
+give	V
+give	V n
+give	V to n
+give away	V n
+give away	V n
+get across	V n
+give back	V n n
+give back	V n
+give in	V
+give in	V to n
+give off	V n
+give out	V
+give out	V n
+give over	V
+give over	V -ing 
+give over	V n
+give up	V
+give up	V pron-refl
+give up	V -ing 
+give up	V n
+give up on	V n
+gladden	it V n clause
+glance	V at n
+glance	V through n
+glance	V prep/adv, V adv/prep
+glare	V at n
+gleam	V with n
+gleam	V adj
+glide	V way prep/adv
+glide	V prep/adv, V adv/prep
+glint	V off n
+glint	V adj
+glisten	V with n
+glisten	V adj
+glitter	V with n
+gloat	V over n
+gloat	V about n
+globalize	V; V n
+glory	V in n
+gloss	V over n
+glow	V with n
+glow	V adj
+glower	V at n
+glower	V prep/adv, V adv/prep
+glue	V pl-n with together
+glue	V adv; V n
+glue	V adv
+glue	V n prep/adv, V n adv/prep
+gnaw	V way prep/adv
+gnaw	V on n
+gnaw	V at n
+go	V into n
+go	V through n
+go	V adv
+go	V like n
+go	V to n
+go	V and v
+go	V in n
+go	V out of n
+go	V after n
+go	V on n
+go	V to-inf
+go	V -ing 
+go	V that
+go	pl-n V; V with n
+go	V prep/adv, V adv/prep
+go	V inf
+go	it V prep clause
+go	V
+go	V with quote
+go	V against n
+go	11 V prep it
+go	V amount
+go	V adj
+go	V for n
+go about	V n prep/adv, V n adv/prep
+go about	V prep
+go about	V -ing 
+go about	V n
+go against	V n
+go ahead	V with n
+go ahead	V
+go ahead	V and v
+go along	V to n
+go along	V and v
+go along	V with n
+go along	V prep/adv, V adv/prep
+go around	V with n
+go around	V to-inf
+go around	V -ing 
+go around	V prep
+go around	V to n
+go around	V
+go at	V n
+go away	V
+go back	V to n
+go back	V on n
+go back	V amount
+go before	V
+go by	V
+go by	V n
+go down	V as n
+go down	V to n
+go down	V amount
+go down	V by amount
+go down	V in n
+go down	V prep/adv, V adv/prep
+go down	V on n
+go down	V
+go down with	V n
+go for	V n
+go in	V
+go in for	V n
+go into	V -ing 
+go into	V n
+go off	V with n
+go off	V
+go off	V prep/adv, V adv/prep
+go off	V n
+go on	V with quote
+go on	V about n
+go on	V -ing 
+go on	V and v
+go on	V to-inf
+go on	V prep/adv, V adv/prep
+go on	V with n
+go on	V
+go on	V at n
+go on	V n
+go out	V to-inf
+go out	V
+go out	pl-n V; V with n
+go out	V and v
+go out of	V n
+go over	V to n
+go over	V n
+go round	V with n
+go round	V to-inf
+go round	V -ing 
+go round	V prep
+go round	V to n
+go round	V
+go through	V
+go through	V with n
+go through	V n
+go through with	V n
+go towards	V -ing 
+go towards	V n
+go under	V
+go up	V to n
+go up	V amount
+go up	V by amount
+go up	V in n
+go up	V
+go with	V n
+go without	V -ing 
+go without	V
+go without	V n
+gob	V at n
+gob	V prep
+goggle	V at n
+goggle-eyed	V adj
+gorge	V on n
+gossip	V way prep/adv
+gossip	[Pat comb]/Oth pat of reciprocal verbs
+gossip	pl-n V; V with n
+gouge	V n prep/adv, V n adv/prep
+grab	V way prep/adv
+grab	V at n
+graduate	V; V n
+graduate	V in n
+graduate	V from n
+graduate	V to n
+grant	V that
+grant	V n n
+grapple	V way prep/adv
+grapple	V with n
+grapple	pl-n V; V with n
+grapple	V to-inf
+grasp	V way prep/adv
+grasp	V that
+grasp	V at n
+grass	V on n
+grate	V on n
+grate	V against n
+gravitate	V to n
+gravitate	V towards/toward n
+graze	V way prep/adv
+graze	V; V n
+greet	V n prep/adv, V n adv/prep
+grieve	V over n
+grieve	it V n clause
+grieve	V at n
+grieve	V prep
+grieve	V for n
+grill	V adv; V n
+grill	V n about n
+grill	V adv
+grimace	V at n
+grin	V way prep/adv
+grin	V at n
+grind	V way prep/adv
+grind	V to n
+grind	V n prep/adv, V n adv/prep
+grind	V prep/adv, V adv/prep
+gripe	V about n
+groan	V with quote
+groan	V with n
+groan	V under n
+groan	V way prep/adv
+groan	V that
+groan	V about n
+groom	V n to-inf
+grope	V way prep/adv
+grope	V towards/toward n
+grope	V for n
+grope	V prep/adv, V adv/prep
+ground	V; V n
+group	V pl-n with together
+group	V prep/adv; V n prep
+group	pl-n V together
+group	V n prep/adv, V n adv/prep
+grouse	V with quote
+grouse	V about n
+grouse	V that
+grovel	V way prep/adv
+grovel	V to n
+grovel	V prep/adv, V adv/prep
+grow	V into n
+grow	V way prep/adv
+grow	V to-inf
+grow	V out of n
+grow	V adj
+grow	V
+grow	V; V n
+grow	V n
+grow apart	pl-n V; V with n
+grow apart	V from n
+grow away	V from n
+grow on	V n
+grow out	V
+grow out	V; V n
+grow out	V n
+grow up	V
+grow up	V adj
+growl	V way prep/adv
+growl	V with quote
+growl	V at n
+grub	V prep/adv, V adv/prep
+grumble	V with quote
+grumble	V about n
+grumble	V way prep/adv
+grumble	V that
+grumble	V at n
+grunt	V way prep/adv
+grunt	V with quote
+guarantee	V that
+guarantee	V n that
+guarantee	V to-inf
+guarantee	V n n
+guarantee	V wh
+guard	V against n
+guess	V with quote
+guess	V as to wh
+guess	V way prep/adv
+guess	V that
+guess	V adv
+guess	V wh-to-inf
+guess	V at n
+guess	V wh
+guess	V n
+guest	V on n
+guest	V for n
+guffaw	V way prep/adv
+guffaw	V with quote
+guffaw	V at n
+guide	V n prep/adv, V n adv/prep
+gulp	V with quote
+gum	V n prep/adv, V n adv/prep
+gurgle	V prep/adv, V adv/prep
+gush	V with quote
+gush	V about n
+gush	V over n
+gush	V prep
+gush	V prep/adv, V adv/prep
+gush	V prep/adv; V n
+gust	V prep
+guzzle	V way prep/adv
+gyrate	V prep/adv, V adv/prep
+hack	1 V it
+hack	V into n
+hack	V prep
+hack	V way prep/adv
+hack	V at n
+hack	V prep/adv, V adv/prep
+hack away	V at n
+had best	MODAL inf
+had better	MODAL inf
+had better	MODAL
+haemorrhage	V to n
+haemorrhage	V prep/adv; V n
+haemorrhage	V from n
+haggle	V about n
+haggle	V way prep/adv
+haggle	V over n
+haggle	[Pat comb]/Oth pat of reciprocal verbs
+haggle	pl-n V; V with n
+hail	1 it V
+hail	V n n
+hail	V n as n
+hail	V from n
+hallucinate	V that
+halt	V; V n
+halt	V prep/adv; V n prep
+halve	V; V n
+hammer	V way prep/adv
+hammer	V on n
+hammer	V at n
+hammer	V n prep/adv, V n adv/prep
+hammer away	V at n
+hand	9 V it to n
+hand	V n n
+hand around	V n
+hand back	V n n
+hand back	V n
+hand down	V n
+hand in	V n
+hand on	V n
+hand out	V n
+hand over	V to n
+hand over	V n
+hand round	V n
+handle	V n prep/adv, V n adv/prep
+handle	V prep/adv, V adv/prep
+handle	V it clause
+handle	V n
+hang	V pron-refl
+hang	V n prep/adv, V n adv/prep
+hang	pl-n V together
+hang	V around/round n
+hang	[Intro/Erg Verb]
+hang	V on to n, V onto n
+hang	V prep/adv, V adv/prep
+hang	V adj
+hang	V prep/adv; V n prep
+hang	V on n
+hang	V
+hang	V over n
+hang	V; V n
+hang	V n
+hang about	V
+hang about	V -ing 
+hang around	V
+hang around	V -ing 
+hang around	pl-n V together
+hang back	V on n
+hang back	V
+hang on	V
+hang out	V
+hang out	V prep/adv, V adv/prep
+hang out	V n
+hang round	V
+hang round	V -ing 
+hang round	pl-n V together
+hang up	V on n
+hang up	V
+hang up	V; V n
+hang up	V n
+hanker	V after n
+hanker	V to-inf
+hanker	V for n
+happen	V
+happen	it V clause
+happen	V to-inf
+happen	V to n
+harden	V against n
+harden	V; V n
+harden	V prep/adv; V n
+hare	V prep/adv, V adv/prep
+hark back	V to n
+harmonize	pl-n V; V with n
+harness	V n prep/adv, V n adv/prep
+harp	V on n
+harp on	V about n
+hasten	V to-inf
+hasten	V prep/adv, V adv/prep
+hatch	V; V n
+hate	V to-inf
+hate	V n -ing
+hate	V n
+hate like	V to-inf
+hate like	V it clause
+hate like	3 V it prep/adv
+hate like	V -ing 
+hate like	V n about n
+hate like	V n to-inf
+haul	V way prep/adv
+haul	V n prep/adv, V n adv/prep
+have	V n -ing
+have	V it clause
+have	V n adj
+have	V n prep/adv, V n adv/prep
+have	6 V it -ed
+have	pl-n V n; V n with n
+have	V n inf
+have	V n
+have	V
+arrive	V
+cope	V
+deliver	V
+draw	V
+fail	V
+have away	2 pl-n V it P; V it P with n
+have got to	MODAL inf
+have got to	MODAL
+have had	1 V it
+have in for	10 V it P P n
+have off	2 pl-n V it P; V it P with n
+have out	2 pl-n V it P; V it P with n
+have to	MODAL inf
+have to	MODAL
+hazard	V that
+hazard	V with quote
+head	V n prep/adv, V n adv/prep
+head	V prep/adv, V adv/prep
+head	V towards/toward n
+head	V for n
+head	V n
+head off	V n
+heal	V; V n
+heap	V n prep/adv, V n adv/prep
+hear	V n -ing
+hear	V about n
+hear	V from n
+hear	V that
+hear	V n about n
+hear	V n inf
+hear	V
+hear	V wh
+hear	V of n
+hear	V n
+hear out	V n
+heard	V n to-inf
+heave	V way prep/adv
+heave	V n prep/adv, V n adv/prep
+hedge	V with quote
+hedge	V against n
+heighten	V; V n
+helicopter	V way prep/adv
+help	V pron-refl
+help	it V n clause
+help	V in n
+help	V with n
+help	it V clause
+help	V n
+help	V to-inf
+help	V n prep/adv, V n adv/prep
+help	V inf
+help	V it clause
+help	V
+help	V towards/toward n
+help	V n to-inf
+help	V n inf
+help out	V
+help out	V with n
+help out	V n
+helpless	V adj
+herald	V n as n
+herd	V n prep/adv, V n adv/prep
+hesitate	V to-inf
+hide	V
+hide	V n prep/adv, V n adv/prep
+hide	V n with adv
+hide	V pron-refl
+hide	V n
+hike	V way prep/adv
+hike	V prep/adv, V adv/prep
+hinge	V on n
+hint	V that
+hint	V at n
+hint	V wh
+hiss	V with quote
+hiss	V at n
+hiss	V prep
+hit	V n that
+hit	V way prep/adv
+hit	V n prep/adv, V n adv/prep
+hit	it V n clause
+hit	V n
+hit back	V
+hit back	V at n
+hit back	V n
+hit off	2 pl-n V it P; V it P with n
+hit on	V n
+hit out	V
+hit out	V against n
+hit out	V at n
+hitch	V way prep/adv
+hitch	V n prep/adv, V n adv/prep
+hitchhike	V way prep/adv
+hitchhike	V prep/adv, V adv/prep
+hive off	V n prep/adv, V n adv/prep
+hobble	V way prep/adv
+hobble	V prep/adv, V adv/prep
+hobnob	V with n
+hoist	V n prep/adv, V n adv/prep
+hold	V adj; V n adj
+hold	V n prep/adv, V n adv/prep
+hold	pl-n V together
+hold	1 V it
+hold	V that
+hold	V n n
+hold	V amount
+hold	V on to n, V onto n
+hold	V prep/adv, V adv/prep
+hold	V n adj
+hold	pl-n V n; V n with n
+hold	V prep/adv; V n prep
+hold	V pl-n with together
+hold	V; V n
+hold	V
+hold	V to n
+hold	V n against n
+hold	V n
+hold back	V
+hold back	V; V n
+hold back	V n
+hold down	V n
+hold in	V n
+hold off	V
+hold off	V -ing 
+hold off	V n
+hold on	V
+hold on to	V n
+hold out	V on n
+hold out	V
+hold out	V for n
+hold out	V n
+hold over	V n
+hold up	V
+hold up	V n as n
+hold up	V n
+hold with	V n
+holiday	V prep/adv, V adv/prep
+holler	V with quote
+holler	V way prep/adv
+holler	V at n
+holler	V for n
+holler out	V with quote
+home in	V on n
+honk	V; V n
+hook	V into n
+hook	V on to n, V onto n
+hook	V n prep/adv, V n adv/prep
+hook	V prep/adv; V n prep
+hook	V prep
+hook up	pl-n V; V with n
+hoot	V way prep/adv
+hoot	V with n
+hoot	V at n
+hoot	V; V n
+hop	1 V it
+hop	3 V it prep/adv
+hop	V prep/adv, V adv/prep
+hope	V so/not
+hope	V that
+hope	V to-inf
+hope	V
+hope	V for n
+horrify	it V n clause
+hot-foot	3 V it prep/adv
+house	V n prep/adv, V n adv/prep
+house	V amount
+house	V n
+hover	V between pl-n
+hover	V prep/adv, V adv/prep
+howl	V way prep/adv
+howl	V with quote
+howl	V at n
+howl	V for n
+howl	V with n
+huddle	pl-n V; V with n
+huddle	V prep/adv, V adv/prep
+huff	V with quote
+hug	pl-n V; V n
+hum	V way prep/adv
+hum	V with n
+hump	V n prep/adv, V n adv/prep
+hunch	V prep/adv, V adv/prep
+hunger	V after n
+hunger	V to-inf
+hunger	V for n
+hunt	V for n
+hurl	V n prep/adv, V n adv/prep
+hurry	V way prep/adv
+hurry	V n prep/adv, V n adv/prep
+hurry	V to-inf
+hurry	V prep/adv, V adv/prep
+hurry up	V with n
+hurry up	1 V it
+hurt	V pron-refl
+hurt	it V n clause
+hurt	it V clause
+hurt	V
+hurt	V n
+hush	V; V n
+hustle	V way prep/adv
+hustle	V to-inf
+hustle	V n prep/adv, V n adv/prep
+hybridize	pl-n V; V with n; V pl-n; V n with n
+hybridize	V pl-n
+hypothesize	V that
+hypothesize	V wh
+identify	V with n
+identify	V n as n
+identify	V n
+idle	V prep/adv, V adv/prep
+ignite	V; V n
+ignore	V n
+illustrate	V wh-to-inf
+illustrate	V that
+illustrate	V wh
+imagine	V n adj
+imagine	V it adj clause
+imagine	V so/not
+imagine	V that
+imagine	V wh-to-inf
+imagine	V -ing 
+imagine	V wh
+imagine	V n
+imagine	V n -ing
+like	V n -ing
+immigrate	V to n
+immigrate	V from n
+immunize	V n against n
+impact	V on n
+impact	V with n
+impel	V n to-inf
+impinge	V on n
+implant	V in n
+implant	V n prep/adv, V n adv/prep
+implore	V with quote
+implore	V n to-inf
+imply	V that
+import	V from n
+importune	V n to-inf
+impose	V on n
+impose	V n
+impress	V n as n
+impress	V n as adj
+improve	V on n
+improve	V
+improve	V; V n
+improve	V n
+improvise	V on n
+incarnate	V n prep/adv, V n adv/prep
+inch	V way prep/adv
+inch	V prep/adv; V n prep
+inch	V adj
+inch	V prep/adv, V adv/prep
+incite	V n to-inf
+incline	V to-inf; V n to-inf
+incline	V to-inf
+incline	V towards/toward n
+incline	V n to-inf
+incline	V prep/adv; V n prep
+incline	V to n
+include	V n
+incognito	V adj
+increase	V to n
+increase	V amount
+increase	V by amount
+increase	V in n
+increase	V prep/adv; V n prep
+increase	V
+increase	V; V n
+increase improve	V n
+incriminate	V pron-refl
+incubate	V; V n
+indemnify	V n against n
+indicate	V that
+indicate	V wh-to-inf
+indicate	V
+indicate	V wh
+indicate	V n
+induce	V n to-inf
+indulge	V in n
+indulge	V pron-refl
+industrialize	V; V n
+infer	V that
+infiltrate	V into n
+inflate	V; V n
+influence	V n to-inf
+influence	V wh
+inform	V n wh-to-inf
+inform	V n that
+inform	V n as to wh
+inform	V n wh
+inform	V n about n
+inform	V on n
+infringe	V on n
+infuriate	it V n clause
+infuse	V; V n
+ingratiate	V pron-refl
+inject	V pron-refl
+injure	V
+injure	V pron-refl
+injure	V n
+inoculate	V n against n
+inquire	V into n
+inquire	V with quote
+inquire	V as to wh
+inquire	V about n
+inquire	V wh
+insinuate	V way prep/adv
+insinuate	V that
+insist	V with quote
+insist	V that
+insist	V on n
+insist	V
+inspire	V n to-inf
+install	V n as n
+install	V n prep/adv, V n adv/prep
+instruct	V n that
+instruct	V n wh
+instruct	V n wh-to-inf
+instruct	V that
+instruct	V with quote
+instruct	V n as to wh
+instruct	V wh-to-inf
+instruct	V n to-inf
+insulate	V n against n
+insure	V against n
+insure	V n against n
+insure	V for n
+intact	V adj
+integrate	V with n
+integrate	V into n
+integrate	V prep/adv; V n prep
+integrate	pl-n V; V with n; V pl-n; V n with n
+integrate	V pl-n
+integrate	V; V n
+intend	V n as n
+intend	V to-inf
+intend	V that
+intend	V -ing 
+intend	V n n
+intend	V n to-inf
+intend	V n
+intensify	V; V n
+interact	Emphasizing reciprocity
+interact	pl-n V; V with n
+intercede	V with n
+intercede	V for n
+interchange	pl-n V; V with n; V pl-n; V n with n
+interchange	V pl-n
+interconnect	pl-n V; V with n; V pl-n; V n with n
+interest	it V n clause
+interest	V n
+interface	pl-n V; V with n; V pl-n; V n with n
+interfere	V with n
+interfere	V in n
+interject	V that
+interject	V with quote
+interlink	pl-n V; V with n; V pl-n; V n with n
+interlink	V pl-n
+interlock	pl-n V; V with n; V pl-n; V n with n
+interlock	V pl-n
+intermarry	dpl-n V; V with n
+get married	dpl-n V; V with n
+intermingle	pl-n V; V with n
+interpose	V with quote
+interpret	V n as adj
+interpret	V n as n
+interrelate	pl-n V; V with n; V pl-n; V n with n
+interrogate	V n as to wh
+interrogate	V n about n
+interrupt	V with quote
+interrupt	V with n
+intersect	pl-n V; V with n
+intersect	pl-n V; V n
+intertwine	pl-n V; V with n; V pl-n; V n with n
+intertwine	V pl-n
+intertwine	pl-n V; V with n
+intervene	V with quote
+intervene	V in n
+interview	V n about n
+interview	V; V n
+interweave	pl-n V; V with n; V pl-n; V n with n
+interweave	V pl-n
+intimate	V that
+intimate	V wh
+intone	V with quote
+intrigue	it V n clause
+introduce	V pron-refl
+introduce	V pl-n
+introduce	V n
+intrude	V into n
+intrude	V on n
+intuit	V that
+inveigh	V against n
+inveigle	V way prep/adv
+invest	V way prep/adv
+invest	V
+invest	V in n
+investigate	V wh-to-inf
+investigate	V
+investigate	V wh
+investigate	V n
+invite	V n to-inf
+invite	V n prep/adv, V n adv/prep
+invite	V n
+involve	V n -ing
+involve	V -ing 
+involve	V n
+irk	it V n clause
+irritate	it V n clause
+isolate	V pron-refl
+issue	V from n
+issue	V n
+itch	V to-inf
+itch	V for n
+jab	V way prep/adv
+jab	V at n
+jab	V n prep/adv, V n adv/prep
+jack-knife	V way prep/adv
+jam	V into n
+jam	V n adj
+jam	V n prep/adv, V n adv/prep
+jam	V way prep/adv
+jam	V adj; V n adj
+jam	V; V n
+jangle	V; V n
+jar	V on n
+jar	V; V n
+jeer	V with quote
+jeer	V at n
+jerk	V adj; V n adj
+jerk	V n prep/adv, V n adv/prep
+jerk	V prep/adv; V n; V n prep/adv
+jerk	V n adj
+jerk	V prep/adv, V adv/prep
+jest	V with quote
+jet	V prep/adv, V adv/prep
+jib	V at n
+jibe	V with quote
+jibe	pl-n V; V with n
+jig	V prep/adv, V adv/prep
+jiggle	V adv
+jingle	V; V n
+jink	V prep/adv, V adv/prep
+jockey	[Pat comb]/Oth pat of reciprocal verbs
+jockey	V to-inf
+jockey	pl-n V; V with n
+jockey	V for n
+join	V in n
+join	V n prep/adv, V n adv/prep
+join	V pl-n with together
+join	pl-n V; V n
+join	V pl-n
+join	V n
+join in	V with n
+join in	V
+join up	V
+join up	pl-n V; V with n
+joke	V with quote
+joke	V with n
+joke	Emphasizing reciprocity
+joke	V way prep/adv
+joke	V that
+joke	[Pat comb]/Oth pat of reciprocal verbs
+joke	pl-n V; V with n
+joke	V about n
+jolt	V; V n
+jolt	V n adj
+jolt	V prep/adv, V adv/prep
+jostle	V to-inf
+jostle	V way prep/adv
+jostle	pl-n V; V with n
+jostle	V n prep/adv, V n adv/prep
+jostle	[Pat comb]/Oth pat of reciprocal verbs
+jostle	V for n
+jot	V n prep/adv, V n adv/prep
+jot down	V n prep/adv, V n adv/prep
+journey	V to n
+journey	V prep/adv, V adv/prep
+joust	pl-n V; V with n
+judge	V n adj
+judge	V wh-to-inf
+judge	V n to-inf
+judge	V it adj clause
+judge	V
+judge	V wh
+juggle	V with n
+jumble	V pl-n with together
+jumble	V; V n
+jumble	V n prep/adv, V n adv/prep
+jumble up	V; V n
+jumble up	V n prep/adv, V n adv/prep
+jump	V to n
+jump	V amount
+jump	V way prep/adv
+jump	V by amount
+jump	V prep/adv, V adv/prep
+jump	V adj
+jump	V on n
+jump	V
+jump	V at n
+jump	V n
+jump in	V
+jump out	V
+jump out	V at n
+justify	V n -ing
+justify	V -ing 
+jut	V n prep/adv, V n adv/prep
+jut	V; V n
+jut	V prep/adv; V n prep
+jut	V prep/adv, V adv/prep
+juxtapose	V pl-n
+keep	V n -ing
+keep	V n prep/adv, V n adv/prep
+keep	V n as n
+keep	V -ing 
+keep	11 V prep it
+keep	[Intro/Erg Verb]
+keep	V n adj
+keep	V prep/adv, V adv/prep
+keep	V from n
+keep	V adj
+keep	V prep/adv; V n prep
+keep	V
+keep	V to n
+keep	V n
+keep back	V n
+keep down	V n
+keep in	V with n
+keep on	V at n
+keep on	V about n
+keep on	V -ing 
+keep on	V n
+keep to	V n
+keep up	1 V it
+keep up	V
+keep up	V with n
+keep up	V n
+kick	V way prep/adv
+kick	V
+kick	V n adj
+kick	V n prep/adv, V n adv/prep
+kick in	V
+kick off	V with n
+kick off	V
+kick off	V; V n
+kick out	V
+kid	V pron-refl
+kid	V n about n
+kid	V n that
+kill	V pron-refl
+kill	it V n clause
+kill	V way prep/adv
+kill	V n -ing
+kill	V
+kill	V n
+kill off	V n
+kink	V; V n
+kip	V prep/adv, V adv/prep
+kiss	V n n
+kiss	pl-n V; V n
+knee-deep	V adj
+kneel	V prep/adv, V adv/prep
+knife	V n prep/adv, V n adv/prep
+knit	pl-n V together
+knit	V n prep/adv, V n adv/prep
+knit	V n n
+knit	V pl-n with together
+knock	V against n
+knock	V n adj
+knock	V n prep/adv, V n adv/prep
+knock	V pl-n with together
+knock	V on n
+knock	V
+knock	V at n
+knock about	V
+knock about	pl-n V together
+knock about	V prep/adv, V adv/prep
+knock around	V
+knock around	pl-n V together
+knock around	V prep/adv, V adv/prep
+knock off	1 V it
+knock off	V
+knock off	V amount
+knot	V pl-n with together
+knot	V; V n
+know	V about n
+know	V n as n
+know	V that
+know	V wh-to-inf
+know	V n to-inf
+know	V n with adv
+know	V n about n
+know	V
+know	V wh
+know	V of n
+know	V n
+knuckle down	V to n
+knuckle under	V to n
+kowtow	V to n
+label	V n as n
+label	V n n
+label	V n adj
+label	V n as adj
+labour	V way prep/adv
+labour	V under n
+labour	V to-inf
+lace	V pl-n
+lack	V; V n
+ladle	V n prep/adv, V n adv/prep
+lag	V behind n
+lag	V adv
+laid down	it be V-ed clause
+lament	V that
+lament	V with quote
+land	V in n
+land	V prep/adv, V adv/prep
+land	V n n
+land	V prep/adv; V n prep
+land	V
+land	V; V n
+land up	V prep/adv, V adv/prep
+languish	V prep/adv, V adv/prep
+lap	V at n
+lap	V prep
+lapse	V into n
+lash	V into n
+lash	V n prep/adv, V n adv/prep
+lash	V prep/adv; V n prep
+lash	V pl-n with together
+lash	V prep/adv, V adv/prep
+lash out	V against n
+lash out	V at n
+last	V prep/adv, V adv/prep
+last	V
+last	V amount
+last	V for n
+last	V n
+last out	V
+last out	V n
+latch	V on to n, V onto n
+laud	V n as n
+laugh	V with quote
+laugh	V with n
+laugh	V way prep/adv
+laugh	V
+laugh	V at n
+laugh off	V n
+launch	V into n
+launch	V n
+lay	V
+lay	V n that
+lay	V n prep/adv, V n adv/prep
+lay	V n
+lay aside	V n
+lay down	V n
+lay in	V n
+lay into	V n
+lay off	V
+lay off	V n
+lay on	4 V it adj/adv
+lay on	V n
+lay out	V n
+lay up	V n
+laze	V prep/adv, V adv/prep
+lead	V n prep/adv, V n adv/prep
+lead	V amount
+lead	V by amount
+lead	V on to n, V onto n
+lead	V prep/adv, V adv/prep
+lead	V n to-inf
+lead	V
+lead	V to n
+lead	V towards/toward n
+lead	V n
+lead off	V
+lead off	V prep/adv, V adv/prep
+lead off	V n
+lead on	V n
+lead on to	V n
+lead up to	V n
+leaf	V way prep/adv
+leaf	V through n
+leak	V prep/adv; V n prep
+leak	V; V n
+leak	V prep/adv, V adv/prep
+leak out	it V clause
+lean	V on n
+lean	V n prep/adv, V n adv/prep
+lean	V towards/toward n
+lean	V n against n
+lean	V prep/adv, V adv/prep
+leap	V way prep/adv
+leap	V at n
+leap	V prep
+leap	V adj
+leap	V prep/adv, V adv/prep
+leap out	V at n
+leapfrog	V prep
+learn	V about n
+learn	V from n
+learn	V that
+learn	V wh-to-inf
+learn	V to-inf
+learn	V n about n
+learn	V
+learn	V wh
+learn	V of n
+learn	V n
+lease	V n n
+leave	V n -ing
+leave	V it to n clause
+leave	V n adj
+leave	V n prep/adv, V n adv/prep
+leave	V n to-inf
+leave	V n n
+leave	V it adj clause
+leave	V
+leave	V n
+leave	V for n
+leave behind	V n
+leave off	V
+leave off	V -ing 
+leave off	V n
+leave out	V n
+lecture	V on n
+lecture	V in n
+lecture	V n about n
+leer	V at n
+leer	V prep/adv, V adv/prep
+leg	1 V it
+leg	3 V it prep/adv
+legislate	V against n
+legislate	V to-inf
+legislate	V on n
+legislate	V for n
+lend	V n n
+lend	V to n
+lengthen	V; V n
+lessen	V; V n
+lessen	V in n
+let	7 V it inf
+let	V n inf
+let	V n prep/adv, V n adv/prep
+let	V n
+let down	V n
+let off	V n n
+let off	V n prep/adv, V n adv/prep
+let off	V n
+let on	V that
+let on	V
+let on	V wh
+let out	V n
+let up	V
+level	V n against n
+level	V with n
+level off	V at n
+level out	V at n
+lever	V n adj
+lever	V n prep/adv, V n adv/prep
+liaise	pl-n V; V with n
+liaise	V between pl-n
+license	V n to-inf
+lick	V way prep/adv
+lick	V prep/adv, V adv/prep
+lie	V about n
+lie	V around/round n
+lie	V way prep/adv
+lie	V in n
+lie	V adj
+lie	V
+lie	V prep/adv, V adv/prep
+lie	V to n
+lie about	V
+lie around	V
+lie back	V
+lie behind	V n
+lie down	V
+lift	V adv; V n
+lift	V adv
+lift	V n prep/adv, V n adv/prep
+lift	V
+lift	V; V n
+lift	V n
+lift off	V
+lift up	V n
+light	V; V n
+light up	V with n
+light up	V; V n
+lighten	V; V n
+like	V n adj
+like	V n prep/adv, V n adv/prep
+limit	V n as to wh
+limit	V pron-refl
+limit	V n
+limp	V way prep/adv
+limp	V prep/adv, V adv/prep
+line up	V n to-inf
+line up	pl-n V; V with n; V pl-n; V n with n
+line up	V pl-n
+line up	V prep
+linger	V prep/adv, V adv/prep
+link	V pl-n
+link	V n prep/adv, V n adv/prep
+link up	V pl-n
+link up	pl-n V; V with n
+lionize	V n as n
+liquefy	V; V n
+lisp	V way prep/adv
+lisp	V with quote
+list	V
+list	V n prep/adv, V n adv/prep
+listen	V way prep/adv
+listen	V
+listen	V for n
+listen	V to n
+listen in	V on n
+listen in	V
+listen in	V to n
+listen out	V
+listen out	V for n
+live	V by -ing
+live	V with n
+live	V to-inf
+live	pl-n V together
+live	V through n
+live	V prep/adv, V adv/prep
+live	V like n
+live	V n
+live	V in n
+live	V to n
+live	V on n
+live	V for n
+live down	V n
+live off	V n
+live on	V
+live on	V amount
+live on	V in n
+live on	V n
+live out	V n prep/adv, V n adv/prep
+live out	V n
+live up	1 V it
+live up to	V n
+liven up	V; V n
+load	V n prep/adv, V n adv/prep
+loan	V n n
+loathe	V -ing 
+loathe	V it clause
+lob	V n prep/adv, V n adv/prep
+lobby	V against n
+lobby	V for n
+locate	V n prep/adv, V n adv/prep
+locate	V prep/adv, V adv/prep
+lock	V n prep/adv, V n adv/prep
+lock	V prep/adv; V n prep
+lock	V prep/adv, V adv/prep
+lock away	V pron-refl
+lock out	V pron-refl
+lock up	V
+lodge	V n prep/adv, V n adv/prep
+lodge	V in n
+lodge	V prep/adv, V adv/prep
+loll	V prep/adv, V adv/prep
+loll about	V prep/adv, V adv/prep
+lollop	V prep/adv, V adv/prep
+long	V to-inf
+long	V for n
+look	it V adj clause
+look	V through n
+look	V towards/toward n
+look	it V clause
+look	it V to n clause
+look	V at n
+look	V as if, V as though
+look	V n
+look	V into n
+look	V prep/adv, V adv/prep
+look	V
+look	V wh
+look	V adj
+look	V and v
+look	V like n
+look	V for n
+look	V to n
+look after	V n
+look ahead	V
+look around	V n
+look back	V
+look down on	V n
+look forward to	V -ing 
+look forward to	V n
+look in	V on n
+look in	V
+look into	V -ing 
+look on	V
+look on	V n prep/adv, V n adv/prep
+look out	V for n
+look out	V prep/adv, V adv/prep
+look out for	V n
+look over	V n
+look round	V
+look round	V n
+look through	V n
+look to	V n
+look up	V n
+look up to	V n
+loom	V prep/adv, V adv/prep
+loop	V n prep/adv, V n adv/prep
+loop	V prep/adv, V adv/prep
+loosen	V; V n
+loosen up	V; V n
+lope	V prep/adv, V adv/prep
+lord	8 V it over n
+lose	1 V it
+lose	V against n
+lose	V amount
+lose	V by amount
+lose	V n n
+lose	V
+lose	V n
+lose out	V on n
+lose out	V
+lose out	V to n
+lose 	V n n
+save	V n n
+lounge	V prep/adv, V adv/prep
+love	V to-inf
+love	V it clause
+love	3 V it prep/adv
+love	V -ing 
+love	V n about n
+love	V n to-inf
+love	V n
+lower	V pron-refl
+lower	V; V n
+lower	V n prep/adv, V n adv/prep
+lug	V n prep/adv, V n adv/prep
+lumber	V prep/adv, V adv/prep
+lump	V pl-n with together
+lunch	V prep/adv, V adv/prep
+lunge	V prep/adv, V adv/prep
+lurch	V way prep/adv
+lurch	V prep/adv, V adv/prep
+lure	V n prep/adv, V n adv/prep
+lust	V after n
+lust	V for n
+luxuriate	V in n
+macerate	V; V n
+magnetize	V n prep/adv, V n adv/prep
+mail	V n n
+mail	V n prep/adv, V n adv/prep
+maintain	V that
+maintain	V with quote
+maintain	V n
+major	V in n
+make	V it n clause
+make	1 V it
+make	V n n
+make	it V n clause
+make	V it adj clause
+make	V n adj
+make	V amount
+make	4 V it adj/adv
+make	pl-n V n; V n with n
+make	V n
+make	Emphasizing reciprocity
+make	12 V n for it
+make	V way prep/adv
+make	V to-inf
+make	V n prep/adv, V n adv/prep
+make	V n inf
+make	5 V it n
+make	V for n
+make for	V n
+make off	V
+make off	V with n
+make out	V that
+make out	V n against n
+make out	pl-n V; V with n
+make out	V prep/adv, V adv/prep
+make out	V n to-inf
+make out	V wh
+make out	V n
+make up	V pron-refl
+make up	2 pl-n V it P; V it P with n
+make up	pl-n V; V with n
+make up	pl-n V n; V n with n
+make up	V n
+make up	V for n
+make up for	V n
+make up	V n
+save up	V n
+make up to	10 V it P P n
+manacle	V n prep/adv, V n adv/prep
+manage	V way prep/adv
+manage	V
+manage	V to-inf
+manage	V n
+mandate	V that
+mandate	V n to-inf
+manhandle	V n prep/adv, V n adv/prep
+manifest	V pron-refl
+manifest	[Intro/Erg Verb]
+manifest	V; V n
+manipulate	V way prep/adv
+manipulate	V n to-inf
+manoeuvre	V way prep/adv
+manoeuvre	V n prep/adv, V n adv/prep
+march	V way prep/adv
+march	V n prep/adv, V n adv/prep
+march	V prep/adv, V adv/prep
+march	V prep/adv; V n prep
+march	V amount
+marinade	V; V n
+marinate	V; V n
+mark	V; V n
+mark	V
+mark	V n as n
+mark	V adv
+mark	V n
+mark down	V n as n
+mark down	V n
+mark off	V n as n
+mark off	V n
+mark out	V n as adj
+mark out	V n as n
+mark out	V n
+mark up	V n
+market	V way prep/adv
+market	V n as n
+maroon	V n prep/adv, V n adv/prep
+married	pl-n V; V with n
+marry	V into n
+marry	pl-n V; V n; V pl-n; V n to/with n
+marry	V adj
+marry	V
+marry	V n
+marry	pl-n V; V n
+marry off	V n
+marvel	V with quote
+marvel	V that
+marvel	V at n
+marvel	V wh
+masquerade	V as adj
+masquerade	V as n
+mass	V; V n
+massacre	V way prep/adv
+match	pl-n V; V n; V pl-n; V n to/with n
+match	V n against n
+match	pl-n V; V with n; V pl-n; V n with n
+match	V pl-n
+match	V n
+match up	V prep/adv; V n prep
+match up	pl-n V; V with n; V pl-n; V n with n
+match up	V to n
+match up to	V n
+mate	pl-n V; V with n
+matter	it V clause
+matter	it V to n clause
+matter	V
+matter	V to n
+mature	V; V n
+may	[2 Modals]
+mean	it V n clause
+mean	V -ing 
+mean	V that
+mean	V amount
+mean	V to-inf
+mean	V n -ing
+mean	V n to-inf
+mean	V n
+meander	V way prep/adv
+meander	V prep/adv, V adv/prep
+measure	V amount
+measure	V n prep/adv, V n adv/prep
+measure up	V
+measure up	V to n
+meddle	V with n
+meddle	V in n
+mediate	V between pl-n
+meditate	V way prep/adv
+meditate	V on n
+meet	Emphasizing reciprocity
+meet	V with n
+meet	[Pat comb]/Oth pat of reciprocal verbs
+meet	pl-n V; V with n
+meet	V n prep/adv, V n adv/prep
+meet	V prep/adv; V n prep
+meet	V
+meet	V n
+meet	pl-n V; V n
+meet up	pl-n V; V with n
+mellow	V; V n
+melt	V into n
+melt	V way prep/adv
+melt	V; V n
+mend	V; V n
+mention	V n as n
+mention	V that
+mention	V n as adj
+mention	V -ing 
+mention	V n -ing
+mention	V wh
+mention	V n
+merge	Emphasizing reciprocity
+merge	V into n
+merge	pl-n V; V with n
+merge	V way prep/adv
+merge	pl-n V; V with n; V pl-n; V n with n
+merge	V pl-n
+mesh	pl-n V; V with n; V pl-n; V n with n
+mesh	Emphasizing reciprocity
+mess	V with n
+mess about	V with n
+metamorphose	V into n
+metamorphose	V prep/adv; V n prep
+metamorphose	V; V n
+might	[2 Modals]
+migrate	V prep/adv, V adv/prep
+militate	V against n
+mime	V -ing 
+mime	V to n
+mince	V way prep/adv
+mince pace	V prep/adv, V adv/prep
+mind	V that
+mind	V -ing 
+mind	V it clause
+mind	V n -ing
+mind	V
+mind	V wh
+mind	V n
+mingle	pl-n V; V with n
+minister	V to n
+misinform	V n as to wh
+mislead	V way prep/adv
+mislead	V n as to wh
+mismatch	V pl-n
+misrepresent	V n as adj
+misrepresent	V n as n
+miss	V -ing 
+miss	V
+miss	V n
+miss out	V on n
+miss out	V
+miss out	V n
+mist	V; V n
+mistake	V wh
+misunderstand	V wh
+mix	1 V it
+mix	pl-n V; V with n
+mix	V n n
+mix	V pl-n with together
+mix	pl-n V; V with n; V pl-n; V n with n
+mix	V
+mix	V pl-n
+mix	V n
+mix up	V pl-n
+moan	V with quote
+moan	V about n
+moan	V way prep/adv
+moan	V that
+mobilize	V; V n
+mock	V with quote
+model	V for n
+moderate	V; V n
+mooch	V way prep/adv
+moon	V over n
+moonlight	V as n
+mosey	V prep/adv, V adv/prep
+motion	V n to-inf
+motion	V n prep/adv, V n adv/prep
+motionless	V adj
+motivate	V n to-inf
+motor	V prep/adv, V adv/prep
+mould	V prep/adv; V n prep
+mould	V to n
+mount	V
+mount up	V
+mourn	V for n
+mouth	V with quote
+move	V towards/toward n
+move	V to n
+move	V in n
+move	V out of n
+move	V n
+move	V around/round n
+move	V way prep/adv
+move	V that
+move	V prep
+move	V n prep/adv, V n adv/prep
+move	V
+move	V prep/adv, V adv/prep
+move	V; V n
+move	V into n
+move	V on to n, V onto n
+move	V n to-inf
+move	V adj
+move	V prep/adv; V n prep
+move about	V
+move along	V
+move along	V; V n
+move along	V n
+move away	V
+move down	V
+move down	V amount
+move in	V on n
+move in	V
+move in	pl-n V together
+move in	V with n
+move off	V
+move on	V
+move on	V prep/adv, V adv/prep
+move on	V to n
+move on	V n
+move out	V
+move over	V
+move over	V to n
+move up	V
+move up	V amount
+muck about	V with n
+muck in	V with n
+muck in	pl-n V together
+muddle	V way prep/adv
+muddle	V through n
+muddle	V pl-n
+muddle up	V pl-n
+mug up	V on n
+multiply	V pl-n
+multiply	V; V n
+mumble	V way prep/adv
+mumble	V with quote
+mumble	V to n
+munch	V way prep/adv
+munch	V on n
+munch away	V on n
+munch away	V at n
+murder	V way prep/adv
+murmur	V that
+murmur	V with quote
+muscle	V way prep/adv
+muscle in	V on n
+muse	V with quote
+muse	V about n
+muse	V that
+muse	V over n
+muse	V on n
+mushroom	V to n
+mushroom	V into n
+must	[2 Modals]
+muster	V; V n
+mutate	V prep/adv; V n prep
+mutate	V into n
+mutate	V; V n
+mutiny	V against n
+mutter	V with quote
+mutter	V about n
+mutter	V way prep/adv
+mutter	V that
+mutter	V to n
+nag	V n to-inf
+nag	V n about n
+nag	V at n
+nail	V n adj
+nail	V n prep/adv, V n adv/prep
+naked	V adj
+name	V n n
+name	V n as n
+name	V n
+narrow	V; V n
+natter	V way prep/adv
+natter	[Pat comb]/Oth pat of reciprocal verbs
+natter	pl-n V; V with n
+natter	V to n
+naturalize	V; V n
+navigate	V way prep/adv
+navigate	V through n
+navigate	V prep/adv; V n prep
+navigate	V; V n
+navigate	V prep/adv, V adv/prep
+necessitate	V n -ing
+necessitate	V -ing 
+neck	pl-n V; V with n
+need	V n adj
+need	V inf
+need	V to-inf
+need	V n prep/adv, V n adv/prep
+need	V -ing 
+need	[2 Modals]
+need	V n to-inf
+need	V n
+neglect	V to-inf
+neglected	V adj
+negotiate	V to-inf
+negotiate	V way prep/adv
+negotiate	[Pat comb]/Oth pat of reciprocal verbs
+negotiate	pl-n V; V with n
+negotiate	pl-n V n; V n with n
+negotiate	V
+negotiate	V for n
+negotiate	V n
+nerve	V n to-inf
+nestle	V n prep/adv, V n adv/prep
+nestle	V prep/adv; V n prep
+nestle	V prep/adv, V adv/prep
+network	V way prep/adv
+nibble	V way prep/adv
+nibble	V on n
+nibble	V at n
+nibble away	V on n
+nibble away	V at n
+nick	V pron-refl
+nickname	V n n
+niggle	V at n
+nip	V at n
+nip	V prep/adv, V adv/prep
+nod	V with quote
+nod	V n prep/adv, V n adv/prep
+nod	V at n
+nod	V prep
+nod	V to n
+nod off	V to n
+nominate	V n as n
+nominate	V n n
+nominate	V n to-inf
+normalize	V; pl-n V n; V n with n
+normalize	V; V n
+nose	V way prep/adv
+nose	V n prep/adv, V n adv/prep
+nose	V prep/adv; V n prep
+nose	V prep/adv, V adv/prep
+nosh	V way prep/adv
+note	V with quote
+note	V that
+note	V wh
+note	V n
+note down	V wh
+note down	V n
+notice	V n -ing
+notice	V that
+notice	V n inf
+notice	V
+notice	V wh
+notice	V n
+notify	V n about n
+notify	V n that
+nude	V adj
+nudge	V way prep/adv
+nudge	V n prep/adv, V n adv/prep
+nudge	V n to-inf
+number	V amount
+nurse	V; V n
+nuzzle	V way prep/adv
+nuzzle	V prep/adv, V adv/prep
+object	V with quote
+object	V that
+object	V to n
+obligate	V n to-inf
+oblige	V with n
+oblige	V n to-inf
+observe	V with quote
+observe	V n -ing
+observe	V that
+observe	V n inf
+observe	V
+observe	V wh
+obsess	V over n
+obsess	V about n
+obsess	V prep/adv; V n
+obtain	V
+obtrude	V; V n
+occupy	V pron-refl
+occupy	V n -ing
+occupy	V n
+occur	it V to n clause
+occur	V
+occur	V prep/adv, V adv/prep
+occur	V to n
+offend	V against n
+offer	V with quote
+offer	V amount
+offer	V to-inf
+offer	V n n
+offer	V n
+offer up	V n
+officiate	V in n
+ogle	V at n
+omit	V to-inf
+omit	V -ing 
+ooze	V way prep/adv
+ooze	V with n
+ooze	V prep/adv; V n
+ooze	V prep/adv, V adv/prep
+open	V into n
+open	V by -ing
+open	V at n
+open	V on to n, V onto n
+open	V prep/adv, V adv/prep
+open	V adj; V n adj
+open	V n adj
+open	V adj
+open	V with n
+open	V to n
+open	V
+open	V prep/adv; V n prep
+open	V; V n
+open	V n
+open out	V into n
+open out	V
+open out	V on to n, V onto n
+open up	V prep/adv; V n prep
+open up	V
+open up	V n
+open up	V; V n
+open up	V to n
+open-mouthed	V adj
+operate	V as n
+operate	V prep/adv, V adv/prep
+operate	V n
+operate	V on n
+operate	V
+operate	V; V n
+opine	V that
+opine	V with quote
+oppose	V n
+opt	V to-inf
+opt	V out of n
+opt	V for n
+ordain	V n as n
+ordain	V that
+ordain	V n n
+order	V with quote
+order	V that
+order	V n prep/adv, V n adv/prep
+order	V n to-inf
+order	V n n
+order	V n
+order about	V n
+order around	V n
+organize	V way prep/adv
+organize	V pron-refl
+organize	V; V n
+orient	V pron-refl
+orient pace	V pron-refl
+originate	V as n
+originate	V prep/adv; V n
+originate	V prep/adv, V adv/prep
+oscillate	V between pl-n
+ossify	V into n
+ossify	V; V n
+ought to	MODAL inf
+ought to	MODAL
+overdo	1 V it
+overdose	V on n
+overflow	V with n
+overheat	V; V n
+overindulge	V in n
+overlap	pl-n V; V n; V pl-n; V n to/with n
+overlap	V pl-n
+overlap	pl-n V; V with n
+overlap	pl-n V; V n
+overpay	V for n
+overreach	V pron-refl
+overreact	V to n
+overrun	V by amount
+overspend	V on n
+overspend	V by amount
+overstretch	V pron-refl
+overstretch	[Intro/Erg Verb]
+overstretch	V; V n
+overturn	V; V n
+overwork	V; V n
+owe	V n n
+owe	V it to n clause
+own	V n
+own up	V
+own up	V to n
+oxidize	V; V n
+pack	V into n
+pack	V
+pack up	V
+package	V n as n
+pad	V prep/adv, V adv/prep
+paddle	V way prep/adv
+paddle	V prep/adv, V adv/prep
+padlock	V n prep/adv, V n adv/prep
+pain	it V n clause
+paint	V way prep/adv
+paint	V n adj
+paint	V n prep/adv, V n adv/prep
+paint	V
+paint	V n
+pair off	pl-n V; V with n; V pl-n; V n with n
+pair up	pl-n V; V with n; V pl-n; V n with n
+pair up	V pl-n
+pan	V prep/adv; V n; V n prep/adv
+pan	V for n
+pan	V prep/adv, V adv/prep
+pander	V to n
+panhandle	V for n
+panic	V; V n
+pant	V way prep/adv
+parachute	V n prep/adv, V n adv/prep
+parachute	V prep/adv; V n prep
+parachute	V prep/adv, V adv/prep
+parade	V as n
+parade	V n as n
+parade	V n prep/adv, V n adv/prep
+parade	V prep/adv; V n prep
+parade	V prep/adv, V adv/prep
+pare	V n prep/adv, V n adv/prep
+park	V prep/adv, V adv/prep
+parley	pl-n V; V with n
+part	V with n
+part	pl-n V; V with n
+part	V from n
+part	V; V n
+partake	V of n
+partake	V in n
+participate	V in n
+partner	V n prep/adv, V n adv/prep
+party	V way prep/adv
+pass	V as adj
+pass	V as n
+pass	V through n
+pass	V adv
+pass	V n n
+pass	V for n
+pass	V on n
+pass	V n adj
+pass	V n
+pass	V n -ing
+pass	V n prep/adv, V n adv/prep
+pass	V
+pass	V prep/adv, V adv/prep
+pass	V adj
+pass	V prep/adv; V n prep
+pass	V to n
+pass around	V n
+pass away	V
+pass by	V
+pass by	V n
+pass off	V n as adj
+pass off	V n as n
+pass off	V prep/adv, V adv/prep
+pass on	V
+pass on	V n
+pass out	V
+pass over	V n
+pass round	V n
+pass up	V n
+paste	V n prep/adv, V n adv/prep
+pat	V n adj
+patch	V pl-n with together
+patch up	pl-n V n; V n with n
+patter	V prep/adv, V adv/prep
+pause	V for n
+pave	V way prep/adv
+paw	V way prep/adv
+paw	V at n
+pay	it V clause
+pay	V to-inf
+pay	V amount
+pay	V adv
+pay	V n prep/adv, V n adv/prep
+pay	V n to-inf
+pay	V n n
+pay	V
+pay	it V n clause
+pay	V for n
+pay	V n
+pay back	V n n
+pay back	V n
+pay off	V
+pay off	V n
+pay out	V
+pay out	V to-inf
+pay out	V n
+pay	V for n
+save	V for n
+pay up	V
+peak	V at n
+peck	V way prep/adv
+peck	V at n
+peck	V n prep/adv, V n adv/prep
+pedal	V way prep/adv
+pedal	V prep/adv, V adv/prep
+peek	V at n
+peel	V adv
+peel	V n prep/adv, V n adv/prep
+peel	V off n
+peel	V prep/adv; V n prep
+peel	V from n
+peep	V at n
+peep	V prep/adv, V adv/prep
+peer	V at n
+peer	V prep/adv, V adv/prep
+peg	V n prep/adv, V n adv/prep
+pelt	1 it V
+pelt	V adv
+pelt	V prep/adv, V adv/prep
+pen post	V n n
+perceive	V that
+perceive	V n as adj
+perceive	V wh
+perceive	V n as n
+perch	V n prep/adv, V n adv/prep
+perch	V prep/adv, V adv/prep
+percolate	V way prep/adv
+percolate	V; V n
+percolate	V prep/adv, V adv/prep
+perform	V
+perform	V adv
+perform	V n
+perish	V; V n
+perjure	V pron-refl
+perk up	V; V n
+permeate	V through n
+permit	V -ing 
+permit	V n n
+permit	V of n
+permit	V n to-inf
+perpetrate	V n against n
+persevere	V in n
+persevere	V with n
+persevere	V prep
+persist	V with quote
+persist	V with n
+persist	V in n
+persuade	V n that
+persuade	V n to-inf
+persuade	V n
+persuade post post	V n prep/adv, V n adv/prep
+pertain	V to n
+pester	V n to-inf
+pester	V n about n
+petition	V to-inf
+petition	V for n
+petition	V n to-inf
+petrify	V; V n
+philosophize	V with quote
+philosophize	V about n
+philosophize	V on n
+phone	V about n
+phone	V adv
+phone up	V about n
+photograph	V n -ing
+phrase	V n prep/adv, V n adv/prep
+pick	V way prep/adv
+pick	V at n
+pick	V n prep/adv, V n adv/prep
+pick	V n
+pick off	V n
+pick on	V n
+pick out	V n
+pick over	V n
+pick up	V
+pick up	V pron-refl
+pick up	V n
+pick up on	V n
+picture	V n -ing
+picture	V n adj
+picture	V n prep/adv, V n adv/prep
+piece	V pl-n with together
+piece	V wh
+pierce	V through n
+pig	V pron-refl
+pigeon-hole	V n as adj
+pigeon-hole	V n as n
+piggyback	V on n
+pile	V into n
+pile	V out of n
+pile	V adv
+pile	V n prep/adv, V n adv/prep
+pile up	V; V n
+pillage	V way prep/adv
+pimp	V way prep/adv
+pin post	V n prep/adv, V n adv/prep
+pine	V for n
+pinpoint	V wh
+pinpoint	V n as n
+pipe	V way prep/adv
+pipe	V with quote
+pipe	V n prep/adv, V n adv/prep
+pipe up	V with quote
+pirouette	V prep
+pit	V n against n
+pitch	V n prep/adv, V n adv/prep
+pitch	V prep
+pitch	V for n
+pitch	V n adj
+pitch	V prep/adv, V adv/prep
+pitch in	V with n
+pitch in	V to-inf
+pivot	V on n
+pivot	V n prep/adv, V n adv/prep
+pivot	V prep/adv, V adv/prep
+place	V n prep/adv, V n adv/prep
+place	V n
+plagiarize	V from n
+plan	V it clause
+plan	V wh-to-inf
+plan	V to-inf
+plan	V wh
+plan	V for n
+plan	V n
+plan on	V -ing 
+plan on	V n
+plan out	V n
+plane	V across n
+plane	V n adj
+plant	V n prep/adv, V n adv/prep
+play	Emphasizing reciprocity
+play	V against n
+play	V with n
+play	pl-n V n; V n with n
+play	V way prep/adv
+play	4 V it adj/adv
+play	V; V n
+play	V prep
+play	V n n
+play	V n
+play	V adj
+play	V
+play	V for n
+play along	V
+play along	V with n
+play around	V
+play around	V with n
+play at	V -ing 
+play at	V n
+play back	V n
+play down	V n
+play off	V n against n
+play on	V n
+play out	V n
+play up	V
+play up	V n
+plead	V with quote
+plead	V with n
+plead	V way prep/adv
+plead	V that
+plead	V to-inf
+plead	V adj
+plead	V for n
+please	it V n clause
+please	V
+please	V n
+pledge	V that
+pledge	V to-inf
+pledge	V n to-inf
+plod	V way prep/adv
+plod	V prep/adv, V adv/prep
+plonk	V n prep/adv, V n adv/prep
+plop	V n prep/adv, V n adv/prep
+plop	V prep/adv, V adv/prep
+plop down	V pron-refl
+plot	V way prep/adv
+plot	V to-inf
+plot	V against n
+plough	V into n
+plough	V way prep/adv
+plough	V through n
+plough on	V with n
+pluck	V at n
+plug	V into n
+plug	V n prep/adv, V n adv/prep
+plummet	V by amount
+plummet	V to n
+plummet	V amount
+plump	V for n
+plunder	V way prep/adv
+plunge	V into n
+plunge	[Intro/Erg Verb]
+plunge	V to n
+plunge	V amount
+plunge	V by amount
+plunge	V n prep/adv, V n adv/prep
+plunge	V prep/adv; V n prep
+plunge	V prep/adv, V adv/prep
+plunk	V n prep/adv, V n adv/prep
+ply	V way prep/adv
+ply	V for n
+ply	V prep
+point	V at n
+point	V prep/adv, V adv/prep
+point	V to n
+point	V n
+point out	V that
+point out	V wh
+point out	V n
+poke	V way prep/adv
+poke	V through n
+poke	V n prep/adv, V n adv/prep
+poke	V prep/adv; V n prep
+poke	V out of n
+poke	V at n
+poke	V prep/adv, V adv/prep
+poker-faced	V adj
+polarize	V prep/adv; V n prep
+polarize	V into n
+polarize	V; V n
+ponder	V over n
+ponder	V wh-to-inf
+ponder	V on n
+ponder	V wh
+pontificate	V on n
+pontificate	V about n
+pony up	V for n
+save up	V for n
+pop	V n prep/adv, V n adv/prep
+pop	V prep/adv, V adv/prep
+pop off	V prep/adv, V adv/prep
+pore	V over n
+pore	V through n
+portray	V n as adj
+portray	V n as n
+pose	V as n
+posit	V that
+position	V n prep/adv, V n adv/prep
+post up	V n prep/adv, V n adv/prep
+postpone	V -ing 
+postulate	V that
+pounce	V on n
+pound	V on n
+pound	V n prep/adv, V n adv/prep
+pound	V prep/adv, V adv/prep
+pour	1 it V
+pour	V adv
+pour	V n prep/adv, V n adv/prep
+pour	V n n
+pour	V prep/adv, V adv/prep
+pour in	V
+pour in	V; V n
+pour into	V prep/adv; V n prep
+pout	V way prep/adv
+pout	V with quote
+power	V way prep/adv
+practise	V -ing 
+practise	V as n
+prance	V way prep/adv
+prance	V prep/adv, V adv/prep
+prattle on	V about n
+pray	V with quote
+pray	V that
+pray	V to-inf
+pray	V for n
+pray	V to n
+preach	V against n
+preach	V about n
+preach	V way prep/adv
+preach	V that
+preach	V on n
+preach	V at n
+preach	V to n
+preclude	V n -ing
+preclude	V -ing 
+predict	V that
+predict	V with quote
+predict	V wh
+predict	V n
+predispose	V n to-inf
+preen	V way prep/adv
+preen	V pron-refl
+prefer	V n adj
+prefer	V to-inf
+prefer	V that
+prefer	3 V it prep/adv
+prefer	V n to-inf
+prefer	V -ing 
+prefer	V it clause
+prefer	V n prep/adv, V n adv/prep
+prefer	V n
+premiere	V; V n
+prepare	V n to-inf
+prepare	V to-inf
+prepare	V
+prepare	V for n
+prepare	V n
+prescribe	V n n
+present	V pron-refl
+present	V n as n
+present	V n prep/adv, V n adv/prep
+present	V n as adj
+present	V n
+preside	V over n
+press	V way prep/adv
+press	V n against n
+press	V adv
+press	V n prep/adv, V n adv/prep
+press	V n to-inf
+press	V n about n
+press	V on n
+press	V for n
+press	V n
+press on	V
+press on	V with n
+pressure	V n to-inf
+pressurize	V n to-inf
+presume	V so/not
+presume	V that
+presume	V to-inf
+presume	V n to-inf
+presume	V n adj
+presuppose	V that
+pretend	V to-inf
+pretend	V that
+prevail	V over n
+prevail	V against n
+prevaricate	V on n
+prevaricate	V over n
+prevent	V n -ing
+prevent	V n
+prevent	V -ing
+save	V -ing 
+prey	V on n
+prey round	V on n
+prick	V pron-refl
+prick up	V; V n
+prime	V n to-inf
+print	V n prep/adv, V n adv/prep
+prize	V way prep/adv
+prize	V n adj
+prize	V n prep/adv, V n adv/prep
+probe	V into n
+probe	V for n
+probe	V prep/adv, V adv/prep
+proceed	V with n
+proceed	V to-inf
+proceed	V prep/adv, V adv/prep
+proclaim	V with quote
+proclaim	V wh
+proclaim	V n as n
+proclaim	V that
+proclaim	V n n
+procrastinate	V on n
+procrastinate	V over n
+prod	V n to-inf
+prod	V at n
+produce	V way prep/adv
+produce	V n
+profess	V to-inf
+profess	V n adj
+profess	V that
+proffer	V n n
+profit	V by -ing
+profit	V prep/adv; V n
+profit	V from n
+profit	it V n clause
+program	V n to-inf
+programme	V n to-inf
+progress	V to n
+progress	V prep/adv, V adv/prep
+prohibit	V n -ing
+prohibit	V -ing 
+project	V n to-inf
+project	V n as n
+project	V prep/adv, V adv/prep
+promenade	V prep/adv, V adv/prep
+promise	V with quote
+promise	V that
+promise	V n that
+promise	V to-inf
+promise	V n n
+promise	V
+promise	V n
+promote	V n as n
+promote	V n
+prompt	V with quote
+prompt	V n to-inf
+prone	V adj
+pronounce	V with quote
+pronounce	V that
+pronounce	V n n
+pronounce	V n adj
+pronounce	V on n
+prop	V n against n
+prop	V n prep/adv, V n adv/prep
+prop up	V n prep/adv, V n adv/prep
+propel	V n prep/adv, V n adv/prep
+prophesy	V that
+propose	V to-inf
+propose	V that
+propose	V -ing 
+propose	V
+propose	V to n
+propose	V wh
+propose	V n
+prospect	V for n
+prostitute	V pron-refl
+prostrate	V pron-refl
+prostrate	V adj
+protect	V against n
+protect	V n against n
+protect	V n
+save	V n
+protest	V with quote
+protest	V against n
+protest	V about n
+protest	V way prep/adv
+protest	V that
+protest	V at n
+proud	V adj
+prove	it V adj clause
+prove	V pron-refl
+prove	V wh
+prove	V that
+prove	V n n
+prove	V to-inf
+prove	V n to-inf
+prove	V n adj
+prove	V adj
+prove	V n
+provide	V that
+provide	V for n
+provide	V n
+prowl	V prep/adv, V adv/prep
+pry	V into n
+pry	V n adj
+pry	V n prep/adv, V n adv/prep
+psych up	V pron-refl
+publish	V
+publish	V n
+pucker	V; V n
+puff	V way prep/adv
+puff	V on n
+puff	V at n
+puff	V prep/adv; V n
+puff	V from n
+pull	V to n
+pull	V adj; V n adj
+pull	V pron-refl
+pull	pl-n V together
+pull	V through n
+pull	V prep/adv; V n prep
+pull	V adv
+pull	V out of n
+pull	V n adj
+pull	V adj
+pull	V pl-n with together
+pull	V on n
+pull	V
+pull	V n prep/adv, V n adv/prep
+pull	V at n
+pull	V n
+pull away	V
+pull away	V from n
+pull back	V
+pull back	V from n
+pull back	V n
+pull down	V n
+pull in	V prep/adv, V adv/prep
+pull in	V
+pull in	V amount
+pull in	V n
+pull into	V n
+pull off	V n
+pull out	V
+pull out	V prep
+pull out	V n
+pull over	V
+pull over	V n
+pull through	V
+pull through	V; V n
+pull through	V n
+pull up	V
+pull up	V pron-refl
+pull up	V; V n
+pull up	V n
+pummel	V way prep/adv
+pump	V n about n
+pump	V n prep/adv, V n adv/prep
+punch	V way prep/adv
+puncture	V; V n
+punt	V prep/adv, V adv/prep
+purport	V to-inf
+purr	V way prep/adv
+purr	V with quote
+purr	V prep/adv, V adv/prep
+pursue	V way prep/adv
+push	V past n
+push	1 V it
+push	V into n
+push	V n adj
+push	V prep/adv, V adv/prep
+push	V n to-inf
+push	V
+push	V n prep/adv, V n adv/prep
+push	V way prep/adv
+push	V for n
+push	V n
+push ahead	V
+push ahead	V with n
+push around	V n
+push aside	V n
+push in	V
+push off	V
+push on	V
+push over	V n
+push through	V n
+put	V it to n clause
+put	V with quote
+put	V n with adv
+put	V into n
+put	V n prep/adv, V n adv/prep
+put	V pl-n with together
+put	V n
+put about	V it clause
+put about	V n
+put across	V n
+put aside	V n
+put away	V n
+put back	V n
+put by	V n
+put down	V n as n
+put down	V that
+put down	V wh
+put down	V n
+put forth	V n
+put forward	V n
+put in	V with quote
+put in	V prep/adv, V adv/prep
+put in	V for n
+put in	V n
+put off	V -ing 
+put off	V n n
+put off	V n
+put on	V n
+put out	V pron-refl
+put out	V n
+put over	V n
+put through	V n
+put up	V prep/adv, V adv/prep
+put up	V as n
+put up	V prep/adv; V n
+put up	V n
+put up with	V n -ing
+put up with	V n
+puzzle	V about n
+puzzle	it V n clause
+puzzle	V over n
+puzzle out	V wh-to-inf
+quadruple	V; V n
+quail	V at n
+quake	V way prep/adv
+quake	V with n
+qualify	V as n
+qualify	V to-inf
+qualify	V n as n
+qualify	V to-inf; V n to-inf
+qualify	V as adj; V n as adj
+qualify	V n to-inf
+qualify	V prep/adv; V n prep
+qualify	V
+qualify	V as adj
+qualify	V for n
+qualify	V in n
+qualify	V n
+quarrel	Emphasizing reciprocity
+quarrel	V with n
+quarrel	V over n
+quarrel	[Pat comb]/Oth pat of reciprocal verbs
+quarrel	pl-n V; V with n
+quarrel	V about n
+quarter	V n prep/adv, V n adv/prep
+query	V with quote
+query	V wh
+question	V n as to wh
+question	V n about n
+queue	V to-inf
+queue	V for n
+queue up	V to-inf
+queue up	V for n
+quibble	V over n
+quibble	V with n
+quibble	V about n
+quibble	pl-n V; V with n
+quicken	V; V n
+quiet	V; V n
+quiet down	V; V n
+quieten	V; V n
+quieten down	V; V n
+quip	V that
+quip	V with quote
+quit	V -ing 
+quiver	V with n
+quiz	V n as to wh
+quiz	V n about n
+quote	V n n
+quote	V n as n
+quote	V from n
+quote	V n
+rabbit on	V about n
+race	V against n
+race	V towards/toward n
+race	V through n
+race	V adv
+race	V prep/adv, V adv/prep
+radiate	V from n
+radiate	V prep/adv, V adv/prep
+radio	V that
+radio	V prep/adv, V adv/prep
+rage	V with quote
+rage	V against n
+rage	V about n
+rage	V at n
+rail	V against n
+rail	V at n
+rain	1 it V
+rain	V on n
+rain	V prep/adv; V n prep
+rain down	V on n
+rain down	V; V n
+rain down	V prep/adv; V n prep
+raise	V pron-refl
+raise	V n prep/adv, V n adv/prep
+raise	V n
+rake	V through n
+rake	V n prep/adv, V n adv/prep
+rake	V prep
+rally	V to n
+rally	V prep/adv; V n
+ram	V n prep/adv, V n adv/prep
+ramble	V way prep/adv
+ramble	V prep/adv, V adv/prep
+ramble on	V about n
+rampage	V prep/adv, V adv/prep
+range	V n prep/adv, V n adv/prep
+range	V between pl-n
+range	V over n
+range	V prep/adv, V adv/prep
+rank	[Intro/Erg Verb]
+rank	V with n
+rank	V n as n
+rank	V among pl-n
+rank	V in n
+rank	V as n
+rank	V adv
+rank	V adj
+rank	V prep/adv; V n prep
+rank	V ord prep; V n ord prep
+rank	V n as adj
+rank	V as adj; V n as adj
+rank	V adj among pl-n
+rankle	it V clause
+rankle	V with n
+rant	V with quote
+rant	V against n
+rant	V about n
+rant	V at n
+rant on	V about n
+rap	V way prep/adv
+rap	V on n
+rap	V about n
+rap out	V with quote
+rape	V way prep/adv
+rasp	V with quote
+rasp	V n prep/adv, V n adv/prep
+rasp	V prep/adv; V n prep
+rasp	V prep
+rat	V on n
+ratchet	V; V n
+ratchet up	V; V n
+rate	[Intro/Erg Verb]
+rate	V as n
+rate	V n as n
+rate	V n n
+rate	V n adj
+rate	V n prep/adv, V n adv/prep
+rate	V adj among pl-n
+rate	V adv
+rate	V adj
+rate	V prep/adv; V n prep
+rate	V n as adj
+rationalize	V way prep/adv
+rattle	V way prep/adv
+rattle	V prep/adv; V n prep
+rattle	V; V n
+rattle	V adj
+rattle	V prep/adv, V adv/prep
+rattle on	V about n
+rave	V with quote
+rave	V about n
+re-elect	V n n
+re-form	V; V n
+reach	V to n
+reach	Emphasizing reciprocity
+reach	V prep/adv, V adv/prep
+reach	pl-n V n; V n with n
+reach	V n
+react	V by -ing
+react	V against n
+react	V to n
+react	pl-n V; V with n
+react	V prep/adv, V adv/prep
+read	V through n
+read	V adv
+read	V n n
+read	V n as n
+read	V n as adj
+read	V n
+read	V about n
+read	V way prep/adv
+read	V that
+read	V n prep/adv, V n adv/prep
+read	V
+read	V prep/adv, V adv/prep
+read	V with quote
+read	V adv; V n
+read	V wh
+read	V for n
+read	V to n
+read out	V n
+read up	V on n
+readjust	V to n
+ready	V n to-inf
+reaffirm	V that
+realize	V that
+realize	V wh-to-inf
+realize	V
+realize	V wh
+realize	V n
+rear	V n prep/adv, V n adv/prep
+rear	V prep/adv, V adv/prep
+rearm	V; V n
+reason	V way prep/adv
+reason	V that
+reason	V with n
+reason	V with quote
+reassemble	V; V n
+reassert	V pron-refl
+reassure	V n about n
+reassure	V n that
+rebel	V against n
+rebound	V on n
+rebound	V off n
+rebound	V from n
+recall	V with quote
+recall	V that
+recall	V wh-to-inf
+recall	V -ing 
+recall	V n -ing
+recall	V
+recall	V wh
+recall	V n
+recede	V into n
+recede	V from n
+recede	V prep
+receive	V
+receive	V n prep/adv, V n adv/prep
+receive	V n
+recess	V for n
+reciprocate	V by -ing
+reckon	V to-inf
+reckon	V it n clause
+reckon	V n to-inf
+reckon	V that
+reckon on	V -ing 
+recline	V; V n
+recline	V prep/adv, V adv/prep
+recognize	V that
+recognize	V n as adj
+recognize	V wh
+recognize	V n as n
+re-elect	V n as n
+recoil	V at n
+recoil	V from n
+recollect	V that
+recollect	V -ing 
+recollect	V n -ing
+recollect	V wh
+recommence	V; V n
+recommend	V that
+recommend	V -ing 
+recommend	V wh
+recommend	V n to-inf
+recommend	V n
+reconcile	V pl-n
+reconstruct	V wh
+reconvene	V; V n
+record	V n
+recount	V that
+recount	V wh
+recover	V
+recover	V from n
+recover	V n
+recruit	V n to-inf
+recuperate	V from n
+red-faced	V adj
+redden	V; V n
+redeploy	V; V n
+redouble	V; V n
+redound	V to n
+reduce	V
+reduce	V; V n
+reduce	V n
+reek	V of n
+reel	V with n
+reel	V from n
+reel	V prep/adv, V adv/prep
+refer	V to n
+refer	V n
+reflect	V prep/adv; V n; V n prep/adv
+reflect	V that
+reflect	V off n
+reflect	V on n
+reflect	V
+reflect	V wh
+reflect	V n
+reform	V; V n
+refract	V; V n
+refrain	V from n
+refuel	V; V n
+refund	V n n
+refuse	V
+refuse	V n n
+refuse	V to-inf
+refuse	V n
+refuse	V n
+save	V n
+regard	V it as n/adj clause
+regard	V n as n
+regard	V n prep/adv, V n adv/prep
+regard	V n as adj
+regard	V n
+regenerate	V; V n
+register	V with n
+register	V to-inf
+register	V that
+register	V for n
+register	V wh
+register	V; V n
+regress	V into n
+regress	V to n
+regret	V that
+regret	V to-inf
+regret	V -ing 
+regret	V it clause
+regroup	V; V n
+rehearse	V wh-to-inf
+rehearse	V wh
+rehearse	V for n
+reign	V over n
+reiterate	V that
+reiterate	V with quote
+reject	V n as n
+reject	V n
+rejoice	V that
+rejoice	V at n
+rejoice	V in n
+rejoin	V that
+rejoin	V with quote
+relapse	V into n
+relate	pl-n V; V with n; V pl-n; V n with n
+relate	V to n
+relate	V pl-n
+relate	V n
+relax	V
+relax	V; V n
+release	V n
+relieve	V pron-refl
+relish	V -ing 
+relocate	V; V n
+rely	V on n
+remain	V as n
+remain	it V n clause
+remain	it V adj clause
+remain	V n
+remain	V that
+remain	it V clause
+remain	V to-inf
+remain	V prep/adv, V adv/prep
+remain	V
+remain	V wh
+remain	V adj
+remark	V with quote
+remark	V that
+remark	V on n
+remark	V wh
+remember	V n with adv
+remember	V n as n
+remember	V that
+remember	V n as adj
+remember	V to-inf
+remember	V wh-to-inf
+remember	V -ing 
+remember	V n -ing
+remember	V
+remember	V wh
+remember cannot	V n
+remind	V n wh-to-inf
+remind	V n that
+remind	V n wh
+remind	V n to-inf
+remind	V n about n
+reminisce	V with quote
+remonstrate	V that
+remonstrate	V with n
+remove	V n
+remove	V n
+save	V n
+rename	V n n
+render	V it adj clause
+render	V n n
+render	V n adj
+rendezvous	pl-n V; V with n
+renege	V on n
+renew	pl-n V n; V n with n
+reopen	V; pl-n V n; V n with n
+reopen	V; V n
+reopen	pl-n V n; V n with n
+reorganize	V; V n
+repair	V to n
+repeat	V with quote
+repeat	V pron-refl
+repeat	V that
+repeat	V
+repeat	V n
+repel	pl-n V; V n
+repent	V of n
+replace	V n prep/adv, V n adv/prep
+replace	V n as n
+replace	V n
+replicate	V pron-refl
+reply	V by -ing
+reply	V with quote
+reply	V that
+reply	V with n
+reply	V
+reply	V to n
+report	V -ing 
+report	V on n
+report	V n -ing
+report	V to n
+report	V n adj
+report	V wh
+report	V n
+report	V that
+report	V
+report	V with quote
+report	V n to-inf
+report	V for n
+report back	V that
+report back	V to n
+report back	V on n
+report back	V
+report back	V n
+report back	V for n
+repose	V prep/adv, V adv/prep
+represent	V n as n
+represent	V n
+represent	V n as adj
+reproach	V pron-refl
+reproduce	V pron-refl
+reprove	V with quote
+request	V that
+request	V n to-inf
+request	V with quote
+require	V n to-inf
+require	V that
+require	V -ing 
+require	V n
+research	V into n
+resent	V n -ing
+resent	V -ing 
+resent	V it clause
+resettle	V; V n
+reside	V in n
+reside	V prep/adv, V adv/prep
+resign	V in favour of n
+resign	V
+resign	V as n
+resign	V n
+resist	V -ing 
+resist	V n -ing
+save	V n -ing
+resolve	Emphasizing reciprocity
+resolve	[Intro/Erg Verb]
+resolve	V that
+resolve	V into n
+resolve	V to-inf
+resolve	pl-n V n; V n with n
+resolve	V prep/adv; V n prep
+resolve	V wh
+resonate	V with n
+resort	V to n
+resound	V to n
+resound	V with n
+resound	V prep/adv, V adv/prep
+respond	V by -ing
+respond	V with quote
+respond	V that
+respond	V with n
+respond	V
+respond	V to n
+respond order	V
+rest	V against n
+rest	V with n
+rest	V n prep/adv, V n adv/prep
+rest	V prep/adv; V n prep
+rest	V on n
+rest	V prep/adv, V adv/prep
+restart	V; V n
+restore	V n
+restore	V n
+save	V n
+restrict	V n as to wh
+result	V
+result	V in n
+result	V from n
+resume	V with quote
+resume	V; V n
+resume	V -ing 
+retail	V at n
+retail	V for n
+retaliate	V by -ing
+retaliate	V against n
+retaliate	V for n
+retaliate	V with n
+retire	V to n
+retire	V
+retire	V n
+retire	V from n
+retort	V that
+retort	V with quote
+retrace	V way prep/adv
+retract	V; V n
+retrain	V; V n
+retreat	V into n
+retreat	V from n
+retreat	V prep/adv, V adv/prep
+return	V prep/adv, V adv/prep
+return	V adj
+return	V to n
+return	V
+return	V n
+return	V from n
+reunite	V; V n
+rev	V; V n
+rev up	V; V n
+reveal	V wh
+reveal	V n as n
+reveal	V that
+reveal	V wh-to-inf
+reveal	V n about n
+reveal	V n as adj
+reveal	V n
+revel	V in n
+reverberate	V prep/adv, V adv/prep
+reverse	V; V n
+reverse	V prep/adv; V n prep
+revert	V to n
+review	V n
+revise	V for n
+revive	V; V n
+revolt	V against n
+revolve	V; V n
+revolve	V around/round n
+rewind	V; V n
+rhapsodize	V with quote
+rhapsodize	V about n
+rhapsodize	V over n
+rhyme	pl-n V; V with n; V pl-n; V n with n
+ricochet	V off n
+ricochet	V prep/adv, V adv/prep
+ride	V adv; V n
+ride	V in n
+ride	V prep/adv, V adv/prep
+ride	V on n
+ride	V
+ride	V n prep/adv, V n adv/prep
+ride	V n
+ride out	V n
+ride	V way prep/adv
+save	V way prep/adv
+ride up	V
+riffle	V through n
+rifle	V through n
+rig	V way prep/adv
+rig out	V n prep/adv, V n adv/prep
+ring	V with n
+ring	V adv
+ring	V; V n
+ring	V about n
+ring	V
+ring	V for n
+ring	V n
+ring around	V n
+ring back	V
+ring back	V n
+ring in	V
+ring off	V
+ring out	V
+ring round	V
+ring round	V n
+ring up	V about n
+ring up	V
+ring up	V n
+rip	V n prep/adv, V n adv/prep
+rip	V n with adv
+rip	V; V n
+rip	V adv
+rip	V prep
+ripen	V; V n
+riposte	V with quote
+ripple	V; V n
+ripple	V prep
+rise	V against n
+rise	V to n
+rise	V amount
+rise	V by amount
+rise	V in n
+rise	V prep/adv, V adv/prep
+rise	V
+rise	V prep
+rise	V from n
+rise above	V n
+rise up	V against n
+rise up	V prep
+rise up	V to n
+rise up	V
+rise up	V prep/adv, V adv/prep
+rise up	V from n
+risk	V n -ing
+risk	V -ing 
+roam	V prep/adv, V adv/prep
+roar	V with quote
+roar	V way prep/adv
+roar	V prep/adv, V adv/prep
+roar	V with n
+roar	V for n
+rock	V prep/adv; V n; V n prep/adv
+rock	V; V n
+rock	V prep/adv, V adv/prep
+roll	V into n
+roll	V down n
+roll	V prep/adv, V adv/prep
+roll	V adj
+roll	V prep/adv; V n prep
+roll	V
+roll	V n prep/adv, V n adv/prep
+roll	V; V n
+roll	V n
+roll back	V n
+roll in	V
+roll round	V n prep/adv, V n adv/prep
+roll up	V
+roll up	V prep/adv, V adv/prep
+roll up	V n
+romp	V prep/adv, V adv/prep
+room	pl-n V together
+roost	V prep/adv, V adv/prep
+root	V; V n
+root	V for n
+root	V prep/adv, V adv/prep
+rope	V pl-n with together
+rope in	V n to-inf
+rot	V; V n
+rotate	V; V n
+rough	1 V it
+rouse	V n to-inf
+rouse	V; V n
+route	V n prep/adv, V n adv/prep
+rove	V prep/adv, V adv/prep
+row	Emphasizing reciprocity
+row	V about n
+row	[Pat comb]/Oth pat of reciprocal verbs
+row	V way prep/adv
+row	V over n
+row	pl-n V; V with n
+row	V n prep/adv, V n adv/prep
+row	V prep/adv, V adv/prep
+rub	V pl-n with together
+rub	V against n
+rub	V prep/adv; V n prep
+rub	pl-n V together
+rub	V n prep/adv, V n adv/prep
+rub along	pl-n V; V with n
+rub off	V on n
+ruck up	V; V n
+ruffle	V; V n
+rule	V against n
+rule	V that
+rule	V n n
+rule	V n adj
+rule	V it adj clause
+rule	V over n
+rule	V in favour of n
+rule	V on n
+rule	V
+rule	V n
+rule out	V n
+rumble	V prep/adv, V adv/prep
+ruminate	V about n
+ruminate	V over n
+ruminate	V on n
+rummage	V prep
+rummage	V for n
+rummage	V prep/adv, V adv/prep
+rummage about	V for n
+rummage around	V for n
+rummage round	V for n
+run	V into n
+run	V as n
+run	V adv
+run	V on n
+run	V with n
+run	V through n
+run	V out of n
+run	V n
+run	V after n
+run	V around/round n
+run	V way prep/adv
+run	V prep
+run	V n prep/adv, V n adv/prep
+run	V
+run	V prep/adv, V adv/prep
+run	V; V n
+run	V with quote
+run	V against n
+run	11 V prep it
+run	V amount
+run	V at n
+run	V adj
+run	V off n
+run	V for n
+run across	V n
+run around	V after n
+run around	V
+run around	V with n
+run away	V to n
+run away	V
+run away	pl-n V together
+run away	V from n
+run away with	V n
+run down	V
+run down	V n
+run into	V amount
+run into	V n
+run off	pl-n V together
+run off	V n
+run out	V on n
+run out	V
+run over	V n
+run	V
+save	V
+run	V n
+save	V n
+run through	V n
+run to	V n
+run up	V n
+run up against	V n
+rupture	V pron-refl
+rupture	V; V n
+rush	V into n
+rush	V n prep/adv, V n adv/prep
+rush	V to-inf
+rush	V towards/toward n
+rush	V prep/adv; V n prep
+rush	V at n
+rush	V prep/adv, V adv/prep
+rustle	V way prep/adv
+rustle	V; V n
+rustle	V prep
+sadden	it V n clause
+sail	V way prep/adv
+sail	V through n
+sail	V n prep/adv, V n adv/prep
+sail	V prep/adv; V n prep
+sail	V prep/adv, V adv/prep
+sail	V; V n
+salivate	V over n
+salivate	V at n
+sally	V prep/adv, V adv/prep
+sandwich	V pl-n with together
+sashay	V prep/adv, V adv/prep
+satisfy	V n as to wh
+satisfy	V n that
+saunter	V prep/adv, V adv/prep
+saw	V prep
+say	V with quote
+say	1 V it
+say	V so/not
+say	V that
+say	6 it V prep/adv that
+say	V wh-to-inf
+say	V n about n
+say	it V n clause
+say	V wh
+say	V n
+scamper	V prep/adv, V adv/prep
+scan	V through n
+scan	V for n
+scare	it V n clause
+scare	V adv; V n
+scare	V n adj
+scare	V adv
+scatter	V; V n
+scatter	V n prep/adv, V n adv/prep
+scavenge	V for n
+scavenge	V prep/adv, V adv/prep
+schedule	V n to-inf
+scheme	V way prep/adv
+scheme	V to-inf
+scheme	V against n
+schlep	V n prep/adv, V n adv/prep
+schlep	V prep/adv, V adv/prep
+school	V n to-inf
+scoff	V with quote
+scoff	V at n
+scold	V with quote
+scold	V n about n
+scoop	V n prep/adv, V n adv/prep
+scoot	V prep/adv, V adv/prep
+scorch	V; V n
+scorch	V adv
+scorch	V prep/adv, V adv/prep
+score	V
+score	V adv
+score	V n
+scorn	V n as adj
+scorn	V n as n
+scout	V for n
+scout around	V for n
+scout round	V for n
+scowl	V at n
+scrabble	V way prep/adv
+scrabble	V for n
+scrabble	V to-inf
+scrabble about	V for n
+scrabble around	V for n
+scramble	V way prep/adv
+scramble	V for n
+scramble	V to-inf
+scramble	V prep/adv, V adv/prep
+scrape	V way prep/adv
+scrape	V through n
+scrape	V n prep/adv, V n adv/prep
+scrape	V prep/adv; V n prep
+scrape	V pl-n with together
+scrape	V prep
+scratch	V way prep/adv
+scratch	V pron-refl
+scratch	V adv
+scrawl	V with quote
+scrawl	V n prep/adv, V n adv/prep
+scream	V with quote
+scream	V that
+scream	V prep/adv, V adv/prep
+scream	V with n
+scream	V at n
+scream	V for n
+screech	V with quote
+screech	V at n
+screech	V prep/adv, V adv/prep
+screen	V for n
+screw	V n prep/adv, V n adv/prep
+screw	V prep/adv; V n prep
+screw	V prep/adv, V adv/prep
+screw up	V; V n
+scribble	V prep
+scrimp	V on n
+scroll	V prep/adv, V adv/prep
+scrounge	V for n
+scrub	V n adj
+scrub	V n prep/adv, V n adv/prep
+scrunch	V way prep/adv
+scud	V prep/adv, V adv/prep
+scuff	V; V n
+scuff	V adv
+scuffle	pl-n V; V with n
+scurry	V to-inf
+scurry	V prep/adv, V adv/prep
+scuttle	V prep/adv, V adv/prep
+seal	V n prep/adv, V n adv/prep
+search	V
+search	V for n
+search	V prep/adv, V adv/prep
+seat	V pron-refl
+seat	V amount
+seat	V n prep/adv, V n adv/prep
+secede	V from n
+second	V n to-inf
+second	V n prep/adv, V n adv/prep
+secrete	V n prep/adv, V n adv/prep
+secure	V n n
+secure	V n prep/adv, V n adv/prep
+see	V n -ing
+see	V it as n/adj clause
+see	V n as n
+see	V way prep/adv
+see	V that
+see	V n as adj
+see	V n prep/adv, V n adv/prep
+see	V wh-to-inf
+see	V n inf
+see	V
+see	V n
+see	V wh
+see	V to n
+see about	V -ing 
+see about	V n
+see off	V n
+see through	V n
+seed	V pron-refl
+seek	V to-inf
+seek	V n
+seek out	V n
+seem	it V adj clause
+seem	it V n clause
+seem	it V to n clause
+seem	V to-inf
+seem	it V clause
+seem	V adj
+seem	V like n
+seem	V n
+seep	V prep/adv, V adv/prep
+seethe	V with n
+seethe	V over n
+seethe	V prep
+seethe	V at n
+segregate	V n prep/adv, V n adv/prep
+segue	V into n
+select	V n as n
+sell	V adv; V n
+sell	V way prep/adv
+sell	V at n
+sell	V prep/adv, V adv/prep
+sell	V n n
+sell	V to n
+sell	V
+sell	V out of n
+sell	V for n
+sell	V n
+sell off	V n
+sell on	V n
+sell out	V
+sell out	V to n
+sell up	V
+sell up	V n
+sellotape	V n prep/adv, V n adv/prep
+send	V n -ing
+send	V n adj
+send	V n prep/adv, V n adv/prep
+send	V n n
+send	V for n
+send	V n
+send away	V for n
+send down	V n
+send in	V n
+send off	V for n
+send off	V n
+send on	V n
+send out	V for n
+send out	V n
+send up	V n
+sense	V that
+sense	V wh
+senseless	V adj
+sentence	V n to-inf
+separate	V into n
+separate	pl-n V; V with n
+separate	V prep/adv; V n prep
+separate	pl-n V; V with n; V pl-n; V n with n
+separate	V pl-n
+separate	V from n
+serve	V as n
+serve	V n as n
+serve	V n adj
+serve	V amount
+serve	V to-inf
+serve	V prep/adv, V adv/prep
+serve	V n n
+serve	V n with adv
+serve	V for n
+serve	V
+serve	V prep
+serve	V n
+serve out	V n
+serve up	V n
+set	V n -ing
+set	V n against n
+set	V n adj
+set	V n prep/adv, V n adv/prep
+set	V n n
+set	V adj
+set	V on n
+set	V
+set	V n
+set apart	V n
+set aside	V n
+set back	V n n
+set back	V n
+set down	V n
+set forth	V
+set forth	V n
+set in	V
+set off	V
+set off	V prep/adv, V adv/prep
+set off	V n
+set out	V to-inf
+set out	V
+set out	V prep/adv, V adv/prep
+set out	V wh
+set out	V n
+set up	V n prep/adv, V n adv/prep
+set up	V prep/adv, V adv/prep
+set up	V n
+set upon	V n
+settle	V into n
+settle	Emphasizing reciprocity
+settle	V on n
+settle	1 V it
+settle	V; V n
+settle	V prep/adv, V adv/prep
+settle	V with n
+settle	pl-n V n; V n with n
+settle	V prep/adv; V n prep
+settle	V
+settle	V n prep/adv, V n adv/prep
+settle	V for n
+settle	V n
+settle down	V
+settle down	V to n
+settle down	V to-inf
+settle down	V prep/adv, V adv/prep
+settle in	V
+settle on	V n
+settle up	V
+sew	V pl-n with together
+sew	V n prep/adv, V n adv/prep
+shack up	pl-n V; V with n
+shade	V to n
+shade	V into n
+shake	V pron-refl
+shake	V n adj
+shake	V n prep/adv, V n adv/prep
+shake	V adj
+shake	V adj; V n adj
+shake	V with n
+shake	V
+shake	V; V n
+shake	V n
+shake down	V n
+shake off	V n
+shake out	V n
+shake up	V n
+shall	[2 Modals]
+shamble	V prep/adv, V adv/prep
+shame	it V n clause
+shape up	V as n
+shape up	V into n
+shape up	V to-inf
+shape up	V prep/adv, V adv/prep
+share	Emphasizing reciprocity
+share	pl-n V n; V n with n
+share	V
+share	V in n
+share	V n
+share out	V n
+sharpen	V; V n
+sharpen up	V; V n
+shatter	V prep/adv; V n prep
+shatter	V into n
+shatter	V adv
+shatter	V; V n
+shave	V n prep/adv, V n adv/prep
+shear off	V; V n
+shell out	V to-inf
+shell out	V on n
+shell out	V for n
+shelter	V prep/adv, V adv/prep
+shelve	V prep/adv, V adv/prep
+shepherd	V n prep/adv, V n adv/prep
+shift	V n prep/adv, V n adv/prep
+shift	V towards/toward n
+shift	V; V n
+shift	V prep/adv; V n prep
+shift	V prep/adv, V adv/prep
+shimmy	V prep/adv, V adv/prep
+shine	V with n
+shine	V adj
+shine	V n prep/adv, V n adv/prep
+ship	V n prep/adv, V n adv/prep
+shirk	V from n
+shiver	V way prep/adv
+shock	it V n clause
+shoo	V n prep/adv, V n adv/prep
+shoot	V n prep/adv, V n adv/prep
+shoot	V way prep/adv
+shoot	V n adj
+shoot	V prep/adv, V adv/prep
+shoot	V n n
+shoot	V n
+shoot	V prep/adv; V n prep
+shoot	V at n
+shoot	V prep
+shoot	V
+shoot	V to n
+shoot down	V n
+shoot up	V
+shoot up	V by amount
+shoot up	V to n
+shoot up	V n
+shop	V way prep/adv
+shop	V for n
+shop	V prep/adv, V adv/prep
+shop around	V for n
+short-circuit	V; V n
+shorten	V; V n
+should	[2 Modals]
+shoulder	V way prep/adv
+shoulder	V past n
+shoulder	V through n
+shoulder	V n prep/adv, V n adv/prep
+shout	V with quote
+shout	V way prep/adv
+shout	V that
+shout	V at n
+shout	V
+shout	V for n
+shout out	V with quote
+shout out	V
+shove	V way prep/adv
+shove	V n adj
+shove	V n prep/adv, V n adv/prep
+shovel	V way prep/adv
+shovel	V n prep/adv, V n adv/prep
+show	V n -ing
+show	V n that
+show	V that
+show	V n wh-to-inf
+show	V n wh
+show	V n prep/adv, V n adv/prep
+show	V wh-to-inf
+show	V n to-inf
+show	V n n
+show	V
+show	V wh
+show	V; V n
+show	V n
+show around	V n
+show off	V
+show off	V n
+show round	V n
+show up	V; V n
+show up	V
+show up	V for n
+show up	V n as n
+show up	V n
+shriek	V way prep/adv
+shriek	V with quote
+shriek	V at n
+shriek	V with n
+shrill	V with quote
+shrink	V to n
+shrink	V from n
+shrink	V amount
+shrink	V way prep/adv
+shrink	V by amount
+shrink	V in n
+shrink	V prep/adv, V adv/prep
+shrink	V; V n
+shrivel	V; V n
+shrug	V way prep/adv
+shudder	V way prep/adv
+shudder	V to n
+shudder	V at n
+shudder	V with n
+shuffle	V way prep/adv
+shuffle	V prep/adv, V adv/prep
+shun	V -ing 
+shunt	V n prep/adv, V n adv/prep
+shut	V
+shut	V; V n
+shut	V n adj
+shut	V n prep/adv, V n adv/prep
+shut away	V pron-refl
+shut down	V
+shut down	V; V n
+shut off	V pron-refl
+shut up	V
+shut up	V; V n
+shuttle	V n prep/adv, V n adv/prep
+shuttle	V prep/adv; V n prep
+shuttle	V prep/adv, V adv/prep
+shy away	V from n
+side	V against n
+side	V with n
+sidestep	V way prep/adv
+sidle	V prep/adv, V adv/prep
+sift	V way prep/adv
+sift	V through n
+sigh	V with quote
+sigh	V with n
+sigh	V prep
+sign	Emphasizing reciprocity
+sign	V with n
+sign	V; V n
+sign	pl-n V n; V n with n
+sign	V
+sign	V n
+sign	V for n
+sign	V to n
+sign away	V n
+sign for	V n
+sign in	V
+sign off	V
+sign off	V n
+sign on	V
+sign on	V for n
+sign on	V n
+sign over	V n
+sign up	V prep/adv; V n
+sign up	V as n
+sign up	V for n
+sign up	V n
+signal	V that
+signal	V prep/adv, V adv/prep
+signal	V wh
+signal	V to n
+signify	V that
+silt up	V; V n
+simmer	V; V n
+sin	V against n
+sing	V with quote
+sing	V about n
+sing	V way prep/adv
+sing	V n n
+sing	V
+sing	V n
+sing	V to n
+sing along	V to n
+sing along	V
+sing along	V with n
+sing out	V with quote
+sing out	V n
+singe	V; V n
+single out	V n as n
+sink	V into n
+sink	V to n
+sink	V amount
+sink	V by amount
+sink	V prep/adv, V adv/prep
+sink	V prep/adv; V n prep
+sink	V; V n
+sip	V at n
+sip	V from n
+siphon	V n prep/adv, V n adv/prep
+sit	V on n
+sit	V through n
+sit	V in n
+sit	V prep/adv, V adv/prep
+sit	V adj
+sit	V and v
+sit	V
+sit	V n prep/adv, V n adv/prep
+sit	V for n
+sit	V n
+sit about	V
+sit around	V
+sit back	V to-inf
+sit by	V and v
+sit by	V
+sit down	V to-inf
+sit down	V prep/adv, V adv/prep
+sit down	V and v
+sit down	V
+sit down	V n prep/adv, V n adv/prep
+sit down	V n
+sit in	V on n
+sit on	V n
+sit out	V n
+sit up	V and v
+sit up	V
+sit up	V adj
+sit up	V n
+site	V n prep/adv, V n adv/prep
+situate	V n prep/adv, V n adv/prep
+skate	V way prep/adv
+skate	V over n
+skate	V around/round n
+skate	V prep/adv, V adv/prep
+skewer	V n prep/adv, V n adv/prep
+ski	V way prep/adv
+ski	V prep/adv, V adv/prep
+skim	V way prep/adv
+skim	V across n
+skim	V through n
+skim	V n prep/adv, V n adv/prep
+skim	V over n
+skimp	V on n
+skin	V n adj
+skip	V way prep/adv
+skip	V over n
+skip	V to n
+skip	V prep/adv, V adv/prep
+skirmish	pl-n V; V with n
+skirt	V around/round n
+skitter	V prep/adv, V adv/prep
+skulk	V prep/adv, V adv/prep
+slacken	V; V n
+slam	V into n
+slam	V against n
+slam	V way prep/adv
+slam	V n against n
+slam	V n adj
+slam	V n prep/adv, V n adv/prep
+slam	V adj
+slam	V adj; V n adj
+slam	V; V n
+slant	V n prep/adv, V n adv/prep
+slant	V prep/adv, V adv/prep
+slap	V n prep/adv, V n adv/prep
+slash	V way prep/adv
+slash	V at n
+slather	V n prep/adv, V n adv/prep
+slave	V over n
+slave	V for n
+slaver	V over n
+sledge	V prep
+sleep	V way prep/adv
+sleep	V
+sleep	V amount
+sleep	pl-n V together
+sleep	V through n
+sleep around	V
+sleep around	V with n
+sleep off	V n
+sleep with	V n
+slew	V n prep/adv, V n adv/prep
+slew	V prep/adv; V n prep
+slew	V prep/adv, V adv/prep
+slice	V way prep/adv
+slice	V through n
+slice	V n adj
+slice	V n prep/adv, V n adv/prep
+slick	V n prep/adv, V n adv/prep
+slide	V into n
+slide	V adj; V n adj
+slide	V n prep/adv, V n adv/prep
+slide	V to n
+slide	V amount
+slide	V way prep/adv
+slide	V by amount
+slide	V n adj
+slide	V prep
+slide	V adj
+slide	V prep/adv; V n prep
+slide	V prep/adv, V adv/prep
+slim down	V; V n
+sling	V n prep/adv, V n adv/prep
+slink	V way prep/adv
+slink	V prep/adv, V adv/prep
+slip	V into n
+slip	V n prep/adv, V n adv/prep
+slip	V n with adv
+slip	V to n
+slip	V amount
+slip	V by amount
+slip	V prep/adv, V adv/prep
+slip	V n n
+slip	V
+slip	V out of n
+slip through	V
+slip up	V
+slither	V way prep/adv
+slither	V prep/adv, V adv/prep
+slobber	V prep
+slog	V way prep/adv
+slog	V prep
+slog	V prep/adv, V adv/prep
+slog out	2 pl-n V it P; V it P with n
+slop	V n prep/adv, V n adv/prep
+slop	V; V n
+slop	V prep/adv; V n prep
+slop	V prep/adv, V adv/prep
+slope	V prep/adv, V adv/prep
+slosh	V way prep/adv
+slosh	V n prep/adv, V n adv/prep
+slosh	V; V n
+slosh	V prep/adv; V n prep
+slosh	V prep/adv, V adv/prep
+slot	V into n
+slot	V on to n, V onto n
+slot	V n prep/adv, V n adv/prep
+slot	V prep/adv; V n prep
+slouch	V way prep/adv
+slouch	V prep/adv, V adv/prep
+slow	V; V n
+slow down	V; V n
+slow up	V; V n
+slug	V way prep/adv
+slug out	2 pl-n V it P; V it P with n
+sluice	V prep/adv, V adv/prep
+slum	1 V it
+slump	V by amount
+slump	V to n
+slump	V prep/adv, V adv/prep
+slur	V way prep/adv
+slur	V with quote
+slur	V; V n
+slurp	V way prep/adv
+smack	V of n
+smack	V n prep/adv, V n adv/prep
+smart	V under n
+smart	V from n
+smart	V over n
+smart	V prep
+smart	V at n
+smash	V into n
+smash	V against n
+smash	V way prep/adv
+smash	V through n
+smash	V prep/adv; V n prep
+smash	V prep/adv; V n
+smear	V n prep/adv, V n adv/prep
+smell	V like n
+smell	V way prep/adv
+smell	V adj
+smell	V as if, V as though
+smell	V of n
+smile	V with quote
+smile	V way prep/adv
+smile	V on n
+smile	V
+smile	V at n
+smile	V n
+smirk	V at n
+smoke	V way prep/adv
+smoke	V
+smooch	pl-n V; V with n
+smooth	V n prep/adv, V n adv/prep
+smoulder	V with n
+smuggle	V n prep/adv, V n adv/prep
+snack	V on n
+snag	V on n
+snag	V; V n
+snag	V prep/adv; V n prep
+snake	V way prep/adv
+snake	V prep/adv, V adv/prep
+snap	V with quote
+snap	V n prep/adv, V n adv/prep
+snap	11 V prep it
+snap	V way prep/adv
+snap	V adj; V n adj
+snap	V adv
+snap	V out of n
+snap	V adj
+snap	V prep/adv; V n prep
+snap	V at n
+snap	V prep/adv, V adv/prep
+snap	V; V n
+snarl	V way prep/adv
+snarl	V with quote
+snarl	V at n
+snatch	V at n
+snatch	V n prep/adv, V n adv/prep
+sneak	V way prep/adv
+sneak	V n n
+sneak	V n prep/adv, V n adv/prep
+sneak	V prep/adv, V adv/prep
+sneak up	V on n
+sneer	V with quote
+sneer	V way prep/adv
+sneer	V that
+sneer	V at n
+snicker	V at n
+sniff	V way prep/adv
+sniff	V with quote
+sniff	V at n
+sniffle	V with quote
+snigger	V with quote
+snigger	V about n
+snigger	V at n
+snip	V n prep/adv, V n adv/prep
+snipe	V at n
+snitch	V on n
+snog	pl-n V; V with n
+snog	pl-n V; V n
+snoop	V on n
+snoop	V prep/adv, V adv/prep
+snore	V way prep/adv
+snort	V with quote
+snort	V with n
+snow	1 it V
+snuff	1 V it
+snuggle	V prep/adv, V adv/prep
+soak	V prep/adv, V adv/prep
+soap	V pron-refl
+soar	V by amount
+soar	V to n
+soar	V adj
+soar	V prep/adv, V adv/prep
+sob	V way prep/adv
+sob	V with quote
+sober	V adj
+sober up	V; V n
+socialize	V with n
+soft-pedal	V on n
+soften	V; V n
+soften	V towards/toward n
+solder	V pl-n with together
+solder	V n prep/adv, V n adv/prep
+solidify	V; V n
+somersault	V prep
+sort	V through n
+sort	V n
+sort out	V n
+sound	V like n
+sound	it V to n clause
+sound	it V clause
+sound	V adj
+sound	V
+sound	V as if, V as though
+sound	V n
+sound	V; V n
+sound off	V on n
+sound off	V
+sound off	V about n
+sound out	V n
+sour	V; V n
+space	V n prep/adv, V n adv/prep
+spar	[Pat comb]/Oth pat of reciprocal verbs
+spar	pl-n V; V with n
+spare	V n n
+spark	V into n
+sparkle	V with n
+spatter	V n prep/adv, V n adv/prep
+spatter	V prep/adv; V n prep
+spatter	V prep/adv, V adv/prep
+speak	Emphasizing reciprocity
+speak	V about n
+speak	[Pat comb]/Oth pat of reciprocal verbs
+speak	pl-n V; V with n
+speak	V of n
+speak	V to n
+speak	V in favour of n
+speak	V on n
+speak	V
+speak	V as if, V as though
+speak	V for n
+speak	V n
+speak out	V in favour of n
+speak out	V
+speak out	V against n
+speak out	V prep
+speak up	V
+speak up	V for n
+speak up	V prep
+specialize	V in n
+specify	V wh-to-inf
+specify	V that
+specify	V wh
+speculate	V as to wh
+speculate	V on n
+speculate	V wh
+speculate	V about n
+speculate	V over n
+speculate	V that
+speculate	V prep
+speculate	V in n
+speculate	V with quote
+speechless	V adj
+speed	V way prep/adv
+speed	V prep/adv, V adv/prep
+speed up	V; V n
+spellbound	V adj
+spend	V way prep/adv
+spend	V n prep/adv, V n adv/prep
+spend	V n -ing
+spend	V n
+spew	V prep/adv; V n prep
+spew	V n prep/adv, V n adv/prep
+spill	V n prep/adv, V n adv/prep
+spill	V prep/adv; V n; V n prep/adv
+spill	V prep/adv; V n prep
+spill	V prep/adv, V adv/prep
+spill out	V; V n
+spin	V n n
+spin	V; V n
+spin	V prep/adv; V n prep
+spiral	V way prep/adv
+spiral	V prep/adv; V n
+spiral	V prep/adv, V adv/prep
+spirit	V n prep/adv, V n adv/prep
+spit	V with quote
+spit	V at n
+spit	V n prep/adv, V n adv/prep
+spit	V prep
+spit out	V with quote
+splash	V into n
+splash	V adv
+splash	V n prep/adv, V n adv/prep
+splash	V way prep/adv
+splash	V prep/adv; V n prep
+splash	V prep/adv, V adv/prep
+splash out	V on n
+splatter	V prep/adv; V n prep
+splay	V prep/adv; V n
+splay	V prep/adv, V adv/prep
+splinter	V into n
+splinter	V prep/adv; V n
+split	V prep/adv; V n prep
+split	V into n
+split	V; V n
+split off	V from n
+split up	pl-n V; V with n; V pl-n; V n with n
+split up	V; V n
+splurge	V on n
+splutter	V way prep/adv
+splutter	V with quote
+spoil	V pron-refl
+spoil	V; V n
+sponge	V off n
+sponge	V on n
+spook	V adv; V n
+spook	V adv
+spoon-feed	V n n
+spout	V n prep/adv, V n adv/prep
+spout	V prep/adv; V n; V n prep/adv
+spout	V prep/adv, V adv/prep
+spout forth	V about n
+spout off	V about n
+sprawl	V prep/adv, V adv/prep
+sprawl out	V prep/adv, V adv/prep
+sprawled	V adj
+spray	V against n
+spray	V n against n
+spray	V n adj
+spray	V n prep/adv, V n adv/prep
+spray	V prep/adv; V n prep
+spray	V prep/adv, V adv/prep
+spread	V prep
+spread	V n adj
+spread	V prep/adv, V adv/prep
+spread	V prep/adv; V n prep
+spread	V
+spread	V n prep/adv, V n adv/prep
+spread	V; V n
+spread	V n
+spread out	V
+spread out	V n
+spring	V from n
+spring	V into n
+spring	V prep/adv, V adv/prep
+spring	V adj
+spring	V adj; V n adj
+spring	V to n
+sprint	V prep/adv, V adv/prep
+sprout	V prep/adv; V n
+sprout	V prep/adv, V adv/prep
+spur	V n to-inf
+spur on	V n to-inf
+spurt	V prep/adv; V n
+spurt	V; V n
+spurt	V prep/adv, V adv/prep
+spurt out	V; V n
+sputter	V with quote
+sputter	V prep/adv, V adv/prep
+spy	V on n
+spy	V against n
+spy	V for n
+squabble	Emphasizing reciprocity
+squabble	V about n
+squabble	V over n
+squabble	[Pat comb]/Oth pat of reciprocal verbs
+squabble	pl-n V; V with n
+square	V with n
+square	V prep/adv; V n prep
+square up	V to n
+squash	V n adj
+squash	V n prep/adv, V n adv/prep
+squat	V on n
+squat	V prep/adv, V adv/prep
+squat down	V prep/adv, V adv/prep
+squawk	V that
+squawk	V with quote
+squeak	V way prep/adv
+squeak	V with n
+squeak	V prep/adv, V adv/prep
+squeal	V with quote
+squeal	V with n
+squeeze	V way prep/adv
+squeeze	V prep/adv; V n prep
+squeeze	V n adj
+squeeze	V n prep/adv, V n adv/prep
+squeeze	V adj; V n adj
+squeeze	V prep/adv, V adv/prep
+squelch	V prep/adv, V adv/prep
+squint	V at n
+squint	V prep/adv, V adv/prep
+squirm	V way prep/adv
+squirm	V with n
+squirm	V adj
+squirm	V prep/adv, V adv/prep
+squirt	V n prep/adv, V n adv/prep
+squirt	V prep/adv; V n prep
+squirt	V prep/adv, V adv/prep
+stab	V at n
+stabilize	V at n
+stabilize	V; V n
+stack up	V against n
+stack up	V to n
+stagger	V way prep/adv
+stagger	V prep/adv, V adv/prep
+stalk	V prep/adv, V adv/prep
+stall	V on n
+stall	V; V n
+stall	V over n
+stammer	V way prep/adv
+stammer	V with quote
+stamp	V on n
+stamp	V n prep/adv, V n adv/prep
+stamp	V n as n
+stamp	V prep/adv, V adv/prep
+stampede	V way prep/adv
+stampede	V; V n
+stand	V as n
+stand	V it clause
+stand	V n n
+stand	V n -ing
+stand	V to-inf
+stand	V prep/adv, V adv/prep
+stand	it V prep clause
+stand	V
+stand	V in n
+stand	V against n
+stand	V -ing 
+stand	V at n
+stand	3 V it prep/adv
+stand	V adj
+stand	V n
+stand	V for n
+stand aside	V
+stand aside	V from n
+stand back	V and v
+stand back	V
+stand by	V to-inf
+stand by	V for n
+stand by	V and v
+stand by	V
+stand by	V n
+stand down	V in favour of n
+stand down	V
+stand down	V as n
+stand for	V n
+stand in	V
+stand in	V for n
+stand out	V
+stand out	V from n
+stand up	V
+stand up	V to n
+stand up	V for n
+stand up	V adj
+stand up	V n
+stand up to	V n
+staple	V n prep/adv, V n adv/prep
+star	V in n
+stare	V
+stare	V at n
+stare	V adj
+stare	V prep/adv, V adv/prep
+stark naked	V adj
+start	V by -ing
+start	V as n
+start	V n as n
+start	V -ing 
+start	V; V n
+start	V prep/adv; V n prep
+start	V n -ing
+start	V to-inf
+start	V prep/adv, V adv/prep
+start	V with n
+start	V on n
+start	V
+start	V n prep/adv, V n adv/prep
+start	V n adj
+start	V n
+start off	V by -ing
+start off	V as n
+start off	V n as n
+start off	V with n
+start off	V n
+start off	V -ing 
+start out	V by -ing
+start out	V as n
+start out	V n as n
+start over	V
+start over	V n
+start up	V
+start up	V; V n
+start up	V n
+starve	V to n
+starve	V pron-refl
+state	V with quote
+state	V that
+state	V wh
+station	V n prep/adv, V n adv/prep
+stay	V adv
+stay	V prep/adv, V adv/prep
+stay	V adj
+stay	V and v
+stay	V
+stay	V out of n
+stay	V n
+stay in	V
+stay on	V
+stay out	V
+stay up	V prep/adv, V adv/prep
+steady	V pron-refl
+steady	V; V n
+steal	V way prep/adv
+steal	V
+steal	V prep/adv, V adv/prep
+steal	V n
+steam	V; V n
+steamroller	V way prep/adv
+steel	V n to-inf
+steel	V n against n
+steer	V way prep/adv
+steer	V n prep/adv, V n adv/prep
+stem	V from n
+step	11 V prep it
+step	V prep/adv, V adv/prep
+step back	V and v
+step back	V from n
+step back	V
+stay out	V
+step down	V in favour of n
+step down	V
+step down	V as n
+step in	V
+step up	V n
+stereotype	V n as adj
+stereotype	V n as n
+stick	V with n
+stick	pl-n V together
+stick	V around/round n
+stick	V in n
+stick	V prep/adv, V adv/prep
+stick	V prep/adv; V n prep
+stick	V pl-n with together
+stick	V
+stick	V n prep/adv, V n adv/prep
+stick	V to n
+stick around	V
+stick at	V n
+stick by	V n
+stick out	1 V it
+stick out	V
+stick out	V for n
+stick out	V from n
+stick out	V n
+stick to	V n
+stick up	V for n
+stick with	V n
+stiffen	V; V n
+stiffen up	V; V n
+stigmatize	V n as n
+still	V; V n
+still	V adj
+stimulate	V n to-inf
+sting	V; V n
+stink	V of n
+stipulate	V that
+stipulate	V wh
+stir	V pron-refl
+stir	V in n
+stir	V n to-inf
+stir	V prep/adv; V n prep
+stir	V; V n
+stir	V from n
+stitch	V pl-n with together
+stitch	V n prep/adv, V n adv/prep
+stock up	V on n
+stock up	V with n
+stock-still	V adj
+stomach	V -ing 
+stomp	V prep/adv, V adv/prep
+stonewall	V on n
+stony-faced	V adj
+stoop	V to n
+stoop	V adj
+stoop	V over n
+stop	V -ing 
+stop	V; V n
+stop	V to-inf
+stop	V prep/adv, V adv/prep
+stop	V adv
+stop	V n -ing
+stop	V and v
+stop	V
+stop	V for n
+stop	V n
+stop by	V
+stop by	V n
+stop off	V
+stop up	V n
+storm	V way prep/adv
+storm	V with quote
+storm	V prep/adv, V adv/prep
+straggle	V way prep/adv
+straggle	V prep/adv, V adv/prep
+straight	V adj
+straight-faced	V adj
+straighten	V; V n
+straighten out	V; V n
+strain	V to-inf
+strap	V n prep/adv, V n adv/prep
+stray	V prep/adv, V adv/prep
+streak	V way prep/adv
+streak	V prep/adv, V adv/prep
+stream	V prep/adv, V adv/prep
+strengthen	V; V n
+stress	V with quote
+stress	V that
+stress	V wh
+stretch	V into n
+stretch	V; V n
+stretch	V adv
+stretch	V prep/adv, V adv/prep
+stretch	V prep/adv; V n prep
+stretch	V to n
+stretch	V
+stretch	V n prep/adv, V n adv/prep
+stretch	V for n
+stretch out	V
+stretch out	V n prep/adv, V n adv/prep
+stretch out	V pron-refl
+stretch out	V prep/adv, V adv/prep
+stretcher	V n prep/adv, V n adv/prep
+strew spoon spread sprinkle stamp stand stash stir store stow	V n prep/adv, V n adv/prep
+stride	V prep/adv, V adv/prep
+strike	V against n
+strike	V n as n
+strike	V n that
+strike	it V n clause
+strike	V n against n
+strike	V n as adj
+strike	V n adj
+strike	V n prep/adv, V n adv/prep
+strike	4 V it adj/adv
+strike	pl-n V n; V n with n
+strike	V prep/adv; V n prep
+strike	V
+strike	V at n
+strike	V for n
+strike	V n
+strike back	V
+strike back	V at n
+strike down	V n
+strike off	V n
+strike out	V
+strike out	V prep/adv, V adv/prep
+strike out	V at n
+strike out	V; V n
+strike out	V n
+strike up	V
+strike up	V; V n
+strike up	V n
+string	V pl-n with together
+string	V n prep/adv, V n adv/prep
+strip	V adj
+strive	V for n
+strive	V to-inf
+strive	V towards/toward n
+stroll	V prep/adv, V adv/prep
+strong-arm	V way prep/adv
+struggle	V against n
+struggle	V with n
+struggle	V way prep/adv
+struggle	V to-inf
+struggle	V prep
+struggle	[Pat comb]/Oth pat of reciprocal verbs
+struggle	pl-n V; V with n
+struggle	V adj
+struggle	V
+struggle	V prep/adv, V adv/prep
+struggle	V for n
+struggle on	V
+struggle on	V with n
+strum	V way prep/adv
+strum	V on n
+strut	V way prep/adv
+strut	V prep/adv, V adv/prep
+study	V
+study	V for n
+study	V n
+stuff	V n adj
+stuff	V n prep/adv, V n adv/prep
+stumble	V way prep/adv
+stumble	V over n
+stumble	V prep/adv, V adv/prep
+stump	V for n
+stump	V prep/adv, V adv/prep
+stutter	V way prep/adv
+stutter	V prep/adv, V adv/prep
+submerge	V; V n
+submit	V that
+submit	V to n
+subscribe	V for n
+subscribe	V to n
+subsist	V on n
+substitute	V prep/adv; V n prep
+substitute	V for n
+substitute	V; V n
+subsume	V n prep/adv, V n adv/prep
+succeed	V in n
+succeed	V
+succeed	V to n
+succeed	V n
+succumb	V to n
+suck	V on n
+suck	V at n
+suck	V n prep/adv, V n adv/prep
+suck up	V to n
+suction	V n prep/adv, V n adv/prep
+suffer	V
+suffer	V from n
+suffer	V n
+suffice	V to-inf
+suffocate	V; V n
+suggest	V with quote
+suggest	V that
+suggest	V wh-to-inf
+suggest	V -ing 
+suggest	V wh
+suggest	V n
+suit	V pron-refl
+suit	it V n clause
+sulk	V way prep/adv
+summarize	V with quote
+summarize	V n prep/adv, V n adv/prep
+summon	V n to-inf
+summon	V n prep/adv, V n adv/prep
+summons	V n to-inf
+sun	V pron-refl
+superimpose	V n prep/adv, V n adv/prep
+supplant	V n as n
+supply	V n
+support	V pron-refl
+support	V n
+suppose	V that
+surge	V to n
+surge	V amount
+surge	V through n
+surge	V by amount
+surge	V in n
+surge	V prep/adv, V adv/prep
+surge up	V in n
+surmise	V that
+surmise	V wh
+surprise	it V n clause
+surprise	V n
+surrender	V to n
+surround	V n
+survive	V to-inf
+survive	V on n
+survive	V
+survive	V n
+suspect	V that
+suspect	V wh
+suspect	V so/not
+suspect	V n
+suss	V that
+suss	V wh
+swagger	V way prep/adv
+swagger	V prep/adv, V adv/prep
+swan	V prep/adv, V adv/prep
+swank	V about n
+swap	Emphasizing reciprocity
+swap	V pl-n
+swap	pl-n V n; V n with n
+swarm	V with n
+swarm	V prep/adv, V adv/prep
+sway	V prep/adv, V adv/prep
+swear	V that
+swear	V to-inf
+swear	V at n
+swear	V to n
+sweat	V way prep/adv
+sweat out	1 V it
+sweep	V way prep/adv
+sweep	V through n
+sweep	V n adj
+sweep	V prep/adv, V adv/prep
+sweep	V across n
+sweep	V prep/adv; V n prep
+sweep	V to n
+sweep	V
+sweep	V n prep/adv, V n adv/prep
+sweep up	V
+sweet	V way prep/adv
+swell	V to n
+swell	V amount
+swell	V by amount
+swell	V prep/adv; V n prep
+swell	V with n
+swell	V; V n
+swerve	V prep/adv; V n prep
+swerve	V; V n
+swerve	V prep/adv, V adv/prep
+swig	V n prep/adv, V n adv/prep
+swill	V n with adv
+swill	V adv
+swill	V prep/adv; V n prep
+swim	V way prep/adv
+swim	V
+swim	V prep/adv, V adv/prep
+swim	V in n
+swim	V amount
+swing	V prep/adv; V n; V n prep/adv
+swing	V adj; V n adj
+swing	V adv
+swing	V prep
+swing	V prep/adv, V adv/prep
+swing	V adj
+swing	V prep/adv; V n prep
+swing	V at n
+swing	V n prep/adv, V n adv/prep
+swipe	V at n
+swirl	V n prep/adv, V n adv/prep
+swirl	V; V n
+swirl	V prep/adv; V n prep
+swirl	V prep/adv, V adv/prep
+swish	V n prep/adv, V n adv/prep
+swish	V prep/adv; V n prep
+swish	V prep/adv, V adv/prep
+switch	V n with adv
+switch	V prep/adv; V n prep
+switch	V
+switch	V pl-n
+switch	V to n
+switch off	V
+switch on	V
+switch over	V
+switch over	V to n
+swivel	V n prep/adv, V n adv/prep
+swivel	V prep/adv; V n; V n prep/adv
+swivel	V; V n
+swivel	V prep/adv; V n prep
+swivel	V prep/adv, V adv/prep
+swoon	V over n
+swoop	V on n
+swoop	V adj
+swoop	V prep/adv, V adv/prep
+swot	V for n
+swot up	V on n
+sympathize	V with n
+synchronize	pl-n V; V with n; V pl-n; V n with n
+synchronize	V pl-n
+syndicate	V n prep/adv, V n adv/prep
+tack	V pl-n with together
+tack	V n prep/adv, V n adv/prep
+tack	V; V n
+tack	V prep/adv; V n prep
+tack	V prep/adv, V adv/prep
+tackle	V n about n
+tag	V n n
+tag	V n as n
+tag along	V with n
+tailor	V n to-inf
+take	V n with adv
+take	it V n clause
+take	V it as n/adj clause
+take	V amount
+take	V n -ing
+take	V n prep/adv, V n adv/prep
+take	V n to-inf
+take	V n n
+take	4 V it adj/adv
+take	V it clause
+take	V
+take	V n
+take after	V n
+take against	V n
+take apart	V n
+take away	V from n
+take away	V n
+take back	V n
+take down	V n
+take in	V amount
+take in	V n
+take off	V
+take off	V n prep/adv, V n adv/prep
+take off	V pron-refl
+take off	V n
+take on	V n
+take out	V n
+take over	V
+take over	V from n
+take over	V n
+take to	V -ing 
+take to	V n
+take up	V with n
+take up	V n
+talk	Emphasizing reciprocity
+talk	V about n
+talk	V way prep/adv
+talk	[Pat comb]/Oth pat of reciprocal verbs
+talk	V to n
+talk	V n
+talk	pl-n V; V with n
+talk	V on n
+talk	V
+talk	V as if, V as though
+talk	V of n
+talk back	V
+talk back	V to n
+talk down	V to n
+talk down	V n
+talk out	V n
+talk over	pl-n V n; V n with n
+talk over	V n
+talk round	V n
+talk through	pl-n V n; V n with n
+talk through	V n
+talk up	V n
+tally	pl-n V; V with n
+tamp	V n prep/adv, V n adv/prep
+tamper	V with n
+tan	V; V n
+tangle	V with n
+tangle	V; V n
+tap	V into n
+tap	V way prep/adv
+tap	V n prep/adv, V n adv/prep
+tap	V on n
+tap	V at n
+tap	V prep
+tape	V n adj
+tape	V n prep/adv, V n adv/prep
+taper	V; V n
+taper	V prep/adv, V adv/prep
+taper off	V; V n
+tarnish	V; V n
+taste	V like n
+taste	V way prep/adv
+taste	V adj
+taste	V as if, V as though
+taste	V of n
+taunt	V n about n
+tauten	V; V n
+tax	V way prep/adv
+taxi	V n prep/adv, V n adv/prep
+taxi	V prep/adv; V n prep
+taxi	V prep/adv, V adv/prep
+teach	V n wh-to-inf
+teach	V n that
+teach	V n wh
+teach	V n to-inf
+teach	V n n
+teach	V n about n
+teach	V
+teach	V n
+team up	pl-n V; V with n
+tear	V n with adv
+tear	V way prep/adv
+tear	V adj; V n adj
+tear	V n adj
+tear	V n prep/adv, V n adv/prep
+tear	V adv
+tear	V prep/adv; V n prep
+tear	V at n
+tear	V prep/adv, V adv/prep
+tear	V; V n
+tear away	V pron-refl
+tease	V with quote
+tease	V n about n
+teem	V with n
+teeter	V on n
+teeter	V prep/adv, V adv/prep
+telegraph	V with quote
+telegraph	V to n
+telephone	V adv
+tell	V n wh-to-inf
+tell	V n that
+tell	V that
+tell	V n wh
+tell	V n to-inf
+tell	V n n
+tell	V n about n
+tell	V on n
+tell	V
+tell	V wh
+tell	V of n
+tell	V n
+tell against	V n
+tell apart	V n
+tell off	V n
+temporize	V with quote
+tempt	V n prep/adv, V n adv/prep
+tempt	V n to-inf
+tend	V to n
+tend	V towards/toward n
+tend	V to-inf
+tend	V n
+tender	V for n
+tense up	V; V n
+term	V n n
+term	V n as n
+terminate	V; V n
+terminate	V prep/adv, V adv/prep
+test	V n
+testify	V against n
+testify	V about n
+testify	V that
+testify	V as to wh
+testify	V for n
+testify	V to n
+thank	V n
+thaw	V; V n
+thaw out	V; V n
+the fat compare notes cross swords do battle do business fall in love go hand in hand go to bed go to	Reciprocal phrases
+the hatchet change places chew	Reciprocal phrases
+theorize	V that
+theorize	V about n
+thicken	V; V n
+thin	V; V n
+thin out	V; V n
+think	V it n clause
+think	V as to wh
+think	V like n
+think	V it adj clause
+think	V n adj
+think	V n
+think	V wh
+think	V n about n
+think	V about n
+think	V way prep/adv
+think	V that
+think	V prep/adv, V adv/prep
+think	V
+think	V with quote
+think	V so/not
+think	V wh-to-inf
+think	V n to-inf
+think	V of n
+think back	V
+think back	V prep
+think out	V n
+think over	V n
+think through	V n
+think up	V n
+thirst	V after n
+thirst	V for n
+thrash	V at n
+thrash	V n prep/adv, V n adv/prep
+thrash	V n n
+thrash	V; V n
+thrash	V prep/adv, V adv/prep
+thread	V way prep/adv
+thread	V through n
+thread	V n prep/adv, V n adv/prep
+threaten	V that
+threaten	V to-inf
+threaten	V
+threaten	V n
+thrill	V to n
+thrill	V at n
+thrill	V prep/adv; V n
+thrive	V on n
+throb	V with n
+throng	V into n
+throng	V to n
+throng	V around/round n
+throw	V pl-n with together
+throw	V n n
+throw	V n prep/adv, V n adv/prep
+throw	V n
+throw around	V n
+throw aside	V n
+throw away	V n
+throw down	V n
+throw in	V n
+throw off	V n
+throw out	V n
+throw up	V
+throw up	V n
+thrust	V way prep/adv
+thrust	V n prep/adv, V n adv/prep
+thrust	V prep/adv, V adv/prep
+thud	V prep/adv, V adv/prep
+thumb	V way prep/adv
+thumb	V through n
+thump	V way prep/adv
+thump	V on n
+thump	V n prep/adv, V n adv/prep
+thump	V prep/adv; V n prep
+thump	V prep/adv, V adv/prep
+thunder	V way prep/adv
+thunder	V with quote
+thunder	1 it V
+thunder	V prep/adv, V adv/prep
+tickle	it V n clause
+tidy up	V after n
+tie	pl-n V; V with n
+tie	V n prep/adv, V n adv/prep
+tie	V pl-n with together
+tie	V pl-n
+tie	V; V n
+tie in	V with n
+tie in	V prep/adv; V n prep
+tighten	V prep/adv; V n prep
+tighten	V; V n
+tighten	V prep
+tighten up	V on n
+tilt	V n prep/adv, V n adv/prep
+tilt	V; V n
+tilt	V prep/adv; V n prep
+tilt	V prep/adv, V adv/prep
+time	V n to-inf
+time	V n prep/adv, V n adv/prep
+timetable	V n to-inf
+tingle	V with n
+tinker	V with n
+tinkle	V way prep/adv
+tinkle	V; V n
+tip	V n to-inf
+tip	V n n
+tip	V prep/adv; V n prep
+tip	V n prep/adv, V n adv/prep
+tip over	V; V n
+tip up	V; V n
+tiptoe	V way prep/adv
+tiptoe	V prep/adv, V adv/prep
+tire	V of n
+tire	V; V n
+title	V n n
+titter	V way prep/adv
+toady	V to n
+toddle	V prep/adv, V adv/prep
+piece together	V wh
+line up	V; V n
+pull back	V; V n
+pull out	V wh
+split up	V; V n
+pin down	V wh
+puzzle out	V wh
+suss out	V wh
+think through	V wh
+pull together	V pron-refl
+sort out	V pron-refl
+toil	V way prep/adv
+toil	V on n
+toil	V at n
+toil	V prep/adv, V adv/prep
+toil away	V on n
+toil away	V at n
+tolerate	V n -ing
+tolerate	V -ing 
+toll	V; V n
+tone	V with n
+tone in	V with n
+toot	V way prep/adv
+toot	V; V n
+tootle	V prep/adv, V adv/prep
+top	V n
+topless	V adj
+topple	V prep/adv; V n
+topple	V prep/adv, V adv/prep
+toss	V n n
+toss	V n prep/adv, V n adv/prep
+total	V amount
+totter	V prep/adv, V adv/prep
+touch	pl-n V; V n; V pl-n; V n to/with n
+touch	V on n
+touch	V; pl-n V n; V n with n
+touch	it V n clause
+touch	V pl-n
+touch	V n
+touch down	V
+touch off	V n
+toughen	V; V n
+tout	V n as adj
+tout	V for n
+tout	V n as n
+tow	V n prep/adv, V n adv/prep
+towel	V n adj
+tower	V over n
+tower	V prep/adv, V adv/prep
+toy	V with n
+trace	V way prep/adv
+trade	V way prep/adv
+trade	pl-n V; V with n
+trade	pl-n V n; V n with n
+trade	V on n
+trade	V
+trade	V in n
+trade in	V n
+trade off	V n against n
+trade off	V n
+trade on	V n
+traffic	V in n
+trail	V behind n
+trail	V prep/adv, V adv/prep
+trail	V n prep/adv, V n adv/prep
+trail	V prep/adv; V n; V n prep/adv
+trail	V amount
+train	V as n
+train	V to-inf
+train	V n as n
+train	V way prep/adv
+train	V; V n
+train	V to-inf; V n to-inf
+train	V n prep/adv, V n adv/prep
+train	V n to-inf
+train	V prep/adv; V n prep
+train	V
+train	V for n
+train	V in n
+train	V n
+train up	V n
+traipse	V prep/adv, V adv/prep
+tramp	V prep/adv, V adv/prep
+trample	V way prep/adv
+trample	V on n
+transfer	V n prep/adv, V n adv/prep
+transfer	V prep/adv; V n prep
+transfer	V to n
+transfer	V from n
+transfixed	V adj
+transgress	V against n
+translate	V into n
+translate	V prep/adv; V n prep
+transmit	V to n
+transmute	V into n
+transmute	V prep/adv; V n prep
+transpire	it V clause
+transport	V n prep/adv, V n adv/prep
+transpose	V n prep/adv, V n adv/prep
+travel	V prep/adv, V adv/prep
+travel	V
+travel	V amount
+travel	V n
+trawl	V through n
+trawl	V for n
+tread	V on n
+tread	V prep/adv, V adv/prep
+treat	V n prep/adv, V n adv/prep
+treat	V n as n
+treat	V n
+treble	V; V n
+trek	V prep/adv, V adv/prep
+tremble	V with n
+trespass	V on n
+trespass	V prep/adv, V adv/prep
+trick	V way prep/adv
+trickle	V prep/adv; V n prep
+trickle	V prep/adv, V adv/prep
+trifle	V with n
+trill	V with quote
+trim	V n prep/adv, V n adv/prep
+trip	V on n
+trip	V over n
+trip	V prep/adv, V adv/prep
+trip up	V on n
+trip up	V; V n
+trip up	V over n
+triple	V; V n
+triple	V in n
+triumph	V over n
+troop	V prep/adv, V adv/prep
+trot	V prep/adv; V n prep
+trot	V prep/adv, V adv/prep
+trouble	V n to-inf
+trouble	V n about n
+trouble	V to-inf
+truck	V n prep/adv, V n adv/prep
+trudge	V way prep/adv
+trudge	V prep/adv, V adv/prep
+trumpet	V about n
+trumpet	V n as n
+trundle	V way prep/adv
+trundle	V n prep/adv, V n adv/prep
+trundle	V prep/adv, V adv/prep
+trust	V that
+trust	V in n
+trust	V n to-inf
+try	V -ing 
+try	V to-inf
+try	V
+try	V for n
+try	V n
+try on	1 V it
+try on	V n
+try out	V for n
+try out	V n
+try up	V and v
+tuck	V n prep/adv, V n adv/prep
+tug	V at n
+tug	V n adj
+tumble	V into n
+tumble	V to n
+tumble	V amount
+tumble	V by amount
+tumble	V in n
+tumble	V prep
+tumble	V prep/adv, V adv/prep
+tune in	V to n
+tunnel	V way prep/adv
+tunnel	V prep/adv, V adv/prep
+turn	V n with adv
+turn	V n against n
+turn	V towards/toward n
+turn	V on n
+turn	[Intro/Erg Verb]
+turn	V n adj
+turn	V n
+turn	V to n
+turn	V into n
+turn	V n prep/adv, V n adv/prep
+turn	V
+turn	V prep/adv, V adv/prep
+turn	V; V n
+turn	V n to-inf
+turn	V adj
+turn	V prep/adv; V n prep
+turn against	V n
+turn around	V
+turn around	V and v
+turn around	V; V n
+turn around	V n
+turn away	V from n
+turn away	V n
+turn back	V
+turn back	V prep/adv, V adv/prep
+turn back	V; V n
+turn back	V n
+turn down	V
+turn down	V n adj
+turn down	V n
+turn in	V
+turn in	V n
+turn off	V
+turn off	V n n
+turn off	V n
+turn on	V n
+turn out	V to-inf
+turn out	V adj
+turn out	2 it V adj
+turn out	V
+turn out	it V clause
+turn out	V for n
+turn out	V n
+turn over	V
+turn over	V; V n
+turn over	V n
+turn round	V
+turn round	V and v
+turn round	V; V n
+turn round	V n
+turn up	V
+turn up	V; V n
+turn up	V n adj
+tussle	[Pat comb]/Oth pat of reciprocal verbs
+tussle	V over n
+tussle	V with n
+tussle	V for n
+tussle	pl-n V; V with n
+tut	V way prep/adv
+tut-tut	V about n
+tutor	V in n
+twang	V; V n
+twiddle	V with n
+twig	V that
+twig	V wh
+twine	V n prep/adv, V n adv/prep
+twine	V prep/adv; V n prep
+twine	V prep
+twirl	V way prep/adv
+twirl	V; V n
+twirl	V prep/adv, V adv/prep
+twist	V way prep/adv
+twist	V n prep/adv, V n adv/prep
+twist	V prep/adv; V n prep
+twist	V prep/adv, V adv/prep
+twitch	V way prep/adv
+twitch	V; V n
+twitter	V with quote
+twitter	V about n
+type	V n prep/adv, V n adv/prep
+typecast	V n as n
+tyrannize	V over n
+unabated	V adj
+unaccompanied	V adj
+unafraid	V adj
+unaided	V adj
+unaltered	V adj
+unannounced	V adj
+unarmed	V adj
+unasked	V adj
+unassisted	V adj
+unattended	V adj
+unbidden	V adj
+unburden	V pron-refl
+unchallenged	V adj
+unchecked	V adj
+unclothed	V adj
+uncoil	V; V n
+uncoil	V prep/adv; V n prep
+unconscious	V adj
+uncontrolled	V adj
+uncovered	V adj
+underestimate	V wh
+underline	V that
+underline	V wh
+underscore	V that
+underscore	V wh
+understand	V that
+understand	V wh-to-inf
+understand	V n to-inf
+understand	V it clause
+understand	V wh
+understand	V n
+undertake	V to-inf
+undetected	V adj
+undisturbed	V adj
+unescorted	V adj
+unfinished	V adj
+unfold	V; V n
+unfurl	V; V n
+unhampered	V adj
+unharmed	V adj
+unheard	V adj
+unheeded	V adj
+unhurt	V adj
+unify	pl-n V; V with n; V pl-n; V n with n
+unify	V pl-n
+unimpaired	V adj
+unimpeded	V adj
+uninterrupted	V adj
+uninvited	V adj
+unite	V; V n
+unite	V prep/adv; V n prep
+unmolested	V adj
+unnoticed	V adj
+unobserved	V adj
+unopened	V adj
+unplugged	V adj
+unprotected	V adj
+unpunished	V adj
+unravel	V; V n
+unread	V adj
+unrecognized	V adj
+unroll	V; V n
+unscathed	V adj
+unscrew	V; V n
+unseeing	V adj
+unseen	V adj
+unstick	V; V n
+untouched	V adj
+untreated	V adj
+unused	V adj
+unwind	V; V n
+unzip	V; V n
+upright	V adj
+uproot	V pron-refl
+upset	it V n clause
+upset	V n
+urge	V with quote
+urge	V n to-inf
+urge	V that
+urge	V n prep/adv, V n adv/prep
+urge	V -ing 
+urge	V n
+urge on	V n
+use	V n to-inf
+use	V n as n
+use	V n
+use up	V n
+used to	MODAL inf
+used to	MODAL
+usher	V n prep/adv, V n adv/prep
+vacation	V prep/adv, V adv/prep
+vaccinate	V n against n
+vacillate	V between pl-n
+vanish	V into n
+vanish	V from n
+vaporize	V; V n
+vary	V
+vary	V; V n
+vary	V in n
+vary	V between pl-n
+veer	V towards/toward n
+veer	V prep/adv, V adv/prep
+venture	V into n
+venture	V with quote
+venture	V that
+venture	V to-inf
+venture	V prep/adv, V adv/prep
+verbalize	V way prep/adv
+verify	V that
+verify	V wh
+vibrate	V; V n
+vie	[Pat comb]/Oth pat of reciprocal verbs
+vie	V to-inf
+vie	pl-n V; V with n
+vie	V for n
+view	V it as n/adj clause
+view	V n as n
+view	V n prep/adv, V n adv/prep
+view	V n as adj
+vilify	V n as n
+visit	V
+visit	V with n
+visit	V n
+visualize	V n as n
+visualize	V -ing 
+visualize	V n -ing
+visualize	V wh
+volley	V n prep/adv, V n adv/prep
+volunteer	V with quote
+volunteer	V as n
+volunteer	V that
+volunteer	V to-inf
+volunteer	V for n
+vomit	V n prep/adv, V n adv/prep
+vote	V against n
+vote	V n to-inf
+vote	V n n
+vote	V prep
+vote	V to-inf
+vote	V n
+vote	V in favour of n
+vote	V on n
+vote	V
+vote	V for n
+vote down	V n
+vote in	V n
+vote out	V n
+vouchsafe	V n n
+vow	V with quote
+vow	V that
+vow	V to-inf
+voyage	V prep/adv, V adv/prep
+waddle	V prep/adv, V adv/prep
+wade	V into n
+wade	V way prep/adv
+wade	V through n
+wade	V prep/adv, V adv/prep
+waffle	V about n
+waffle	V over n
+waffle	V on n
+waffle on	V about n
+waft	V way prep/adv
+waft	V n prep/adv, V n adv/prep
+waft	V prep/adv; V n prep
+waft	V prep/adv, V adv/prep
+wag	V n prep/adv, V n adv/prep
+wager	V that
+wager	V on n
+waggle	V; V n
+wail	V with quote
+wail	V about n
+wail	V way prep/adv
+wail	V that
+wail	V for n
+wait	V at n
+wait	V to-inf
+wait	11 V prep it
+wait	V on n
+wait	V and v
+wait	V
+wait	V for n
+wait	V n
+wait about	V
+wait around	V
+wait around	V to-inf
+wait around	V for n
+wait in	V
+wait in	V for n
+wait up	V
+wait up	V for n
+wake	V to n
+wake	V to-inf
+wake	V; V n
+wake up	V; V n
+wake up	V prep/adv; V n prep
+wake up	V to-inf
+wake up	V to n
+waken	V; V n
+waken up	V; V n
+walk	V into n
+walk	V n prep/adv, V n adv/prep
+walk	V amount
+walk	V way prep/adv
+walk	V prep/adv, V adv/prep
+walk	V n
+walk	V prep/adv; V n prep
+walk	V
+walk	V out of n
+walk away	V
+walk away	V from n
+walk away with	V n
+walk in	V on n
+walk off	V with n
+walk off with	V n
+walk out	V on n
+walk out	V
+walk over	V n
+wallop	V n prep/adv, V n adv/prep
+wallow	V in n
+waltz	V way prep/adv
+waltz	V n prep/adv, V n adv/prep
+waltz	V prep/adv, V adv/prep
+wander	V way prep/adv
+wander	V prep/adv, V adv/prep
+wangle	V way prep/adv
+wangle	V n n
+want	V n adj
+want	V to-inf
+want	V out of n
+want	V -ing 
+want	V n -ing
+want	V n prep/adv, V n adv/prep
+want	V n to-inf
+want	V n
+want out	V
+warble	V way prep/adv
+warm	V towards/toward n
+warm	V to n
+warm up	V; V n
+warn	V n against n
+warn	V n that
+warn	V wh
+warn	V n wh-to-inf
+warn	V that
+warn	V n wh
+warn	V n prep/adv, V n adv/prep
+warn	V with quote
+warn	V against n
+warn	V n as to wh
+warn	V n to-inf
+warn	V n about n
+warn	V of n
+warn away	V n
+warn off	V n
+warp	V; V n
+warrant	V that
+wash	V n prep/adv, V n adv/prep
+wash	V with n
+wash	V adv; V n
+wash	V through n
+wash	V adv
+wash	V over n
+wash	V prep/adv; V n prep
+wash	V
+wash	V prep/adv, V adv/prep
+wash out	V
+wash up	V
+wash up	V n prep/adv, V n adv/prep
+waste	V n -ing
+watch	1 V it
+watch	V n -ing
+watch	V adj
+watch	V n inf
+watch	V
+watch	V for n
+watch	V n
+watch out	V
+watch out	V for n
+watch over	V n
+wave	V at n
+wave	V n prep/adv, V n adv/prep
+wave	V to n
+waver	V about n
+waver	V from n
+waver	V between pl-n
+waver	V over n
+waver	V prep
+waver	V on n
+wax	V adj
+weaken	V; V n
+wear	V
+wear	V n prep/adv, V n adv/prep
+wear	V adv
+wear	V adj
+wear	V n
+wear away	V
+wear away	V; V n
+wear away	V n
+wear down	V
+wear down	V; V n
+wear down	V n
+wear off	V
+wear on	V
+wear out	V
+wear out	V pron-refl
+wear out	V; V n
+wear out	V n
+weary	V of n
+weasel	V way prep/adv
+weather	V; V n
+weave	V pl-n with together
+weave	V way prep/adv
+weave	V prep
+wed	pl-n V; V n; V pl-n; V n to/with n
+wedge	V n adj
+wedge	V n prep/adv, V n adv/prep
+weep	V way prep/adv
+weigh	V against n
+weigh	V adv
+weigh	V amount
+weigh	V n against n
+weigh	V adj
+weigh	V on n
+weigh	V wh
+weigh in	V on n
+weigh in	V at n
+weigh up	V wh-to-inf
+weigh up	V wh
+welcome	V n prep/adv, V n adv/prep
+welcome	V it clause
+welcome	V n
+weld	V pl-n with together
+weld	V n prep/adv, V n adv/prep
+well	V in n
+well up	V in n
+wend	V way prep/adv
+whack	V way prep/adv
+whack	V n prep/adv, V n adv/prep
+wheedle	V way prep/adv
+wheedle	V with quote
+wheel	V adv
+wheel	V n prep/adv, V n adv/prep
+wheel and deal	V way prep/adv
+wheeze	V way prep/adv
+wheeze	V with quote
+whimper	V with quote
+whine	V with quote
+whine	V about n
+whine	V that
+whinge	V way prep/adv
+whinge	V with quote
+whinge	V about n
+whip	V n prep/adv, V n adv/prep
+whip	V n with adv
+whip	V prep/adv, V adv/prep
+whirl	V n prep/adv, V n adv/prep
+whirl	V; V n
+whirl	V prep/adv; V n prep
+whirl	V prep/adv, V adv/prep
+whirr	V way prep/adv
+whisk	V pl-n with together
+whisk	V n prep/adv, V n adv/prep
+whisper	V with quote
+whisper	V about n
+whisper	V way prep/adv
+whisper	V that
+whisper	V prep
+whisper	V to n
+whistle	V way prep/adv
+whistle	V at n
+whistle	V to n
+whiten	V; V n
+whittle away	V at n
+whizz	V way prep/adv
+whizz	V prep/adv, V adv/prep
+whoosh	V prep/adv, V adv/prep
+wide-eyed	V adj
+widen	V by amount
+widen	V to n
+widen	V; V n
+widen	V prep/adv; V n prep
+wiggle	V way prep/adv
+wiggle	V; V n
+will	V way prep/adv
+will	[2 Modals]
+will	V n to-inf
+win	V against n
+win	V amount
+win	V way prep/adv
+win	V by amount
+win	V n n
+win	V
+win	V n
+win back	V n
+win out	V over n
+win out	V
+win out	V against n
+win over	V n
+win through	V
+win through	V against n
+win through	V to n
+wince	V with quote
+wince	V at n
+winch	V n prep/adv, V n adv/prep
+wind	V way prep/adv
+wind	V n prep/adv, V n adv/prep
+wind	V prep/adv, V adv/prep
+wind down	V; V n
+wind up	V -ing 
+wind up	V adj
+wing	V way prep/adv
+wing	V prep/adv, V adv/prep
+wink	V at n
+winter	V n prep/adv, V n adv/prep
+winter	V prep/adv; V n prep
+winter	V prep/adv, V adv/prep
+wipe	V n adj
+wipe	V n prep/adv, V n adv/prep
+wire	V n to-inf
+wire	V n n
+wire	V n prep/adv, V n adv/prep
+wise up	V to n
+wisecrack	V way prep/adv
+wish	V n with adv
+wish	V n adj
+wish	V that
+wish	V to-inf
+wish	V n to-inf
+wish	V n n
+wish	V for n
+withdraw	V from n
+withdraw	V into n
+withdraw	V prep/adv; V n prep
+withdraw	V to n
+withdraw	V
+withdraw	V; V n
+withdraw	V n
+witter	V about n
+witter on	V about n
+wobble	V way prep/adv
+wobble	V prep/adv, V adv/prep
+wolf-whistle	V at n
+wonder	V with quote
+wonder	V about n
+wonder	V that
+wonder	V
+wonder	V wh
+wonder	V at n
+word	V n prep/adv, V n adv/prep
+work	V for n
+work	V n prep/adv, V n adv/prep
+work	V as n
+work	V way prep/adv
+work	V; V n
+work	V adv
+work	V prep/adv, V adv/prep
+work	V with n
+work	V n
+work	V adj
+work	V adj; V n adj
+work	V in favour of n
+work	V on n
+work	V
+work	V prep
+work	V towards/toward n
+work	V at n
+work	V in n
+work away	V at n
+work off	V n
+work out	V pron-refl
+work out	V that
+work out	V at n
+work out	V prep/adv, V adv/prep
+work out	V wh-to-inf
+work out	V adj
+work out	V
+work out	V wh
+work out	V n
+work over	V n
+work up	V pron-refl
+work up	V n
+worm	V way prep/adv
+worry	V about n
+worry	it V n clause
+worry	V that
+worry	V
+worry	V wh
+worry	V; V n
+worry	V n
+worsen	V; V n
+would	[2 Modals]
+would do well to	MODAL inf
+would just as soon	MODAL inf
+would just as soon	MODAL inf than/as inf
+would just as soon	MODAL that
+would rather	MODAL inf
+would rather	MODAL inf than/as inf
+would rather	MODAL that
+would rather	MODAL
+would sooner	MODAL inf
+would sooner	MODAL inf than/as inf
+would sooner	MODAL that
+would sooner	MODAL
+wrangle	V way prep/adv
+wrangle	V over n
+wrangle	[Pat comb]/Oth pat of reciprocal verbs
+wrangle	pl-n V; V with n
+wrangle	Emphasizing reciprocity
+wrap	V n prep/adv, V n adv/prep
+wrap up	V adj
+wrap up	V prep/adv, V adv/prep
+wrench	V adj; V n adj
+wrench	V n adj
+wrench	V adj
+wrench	V n prep/adv, V n adv/prep
+wrest	V n prep/adv, V n adv/prep
+wrestle	V way prep/adv
+wrestle	pl-n V; V n
+wrestle	V with n
+wrestle	pl-n V; V with n
+wrestle	V n prep/adv, V n adv/prep
+wriggle	V way prep/adv
+wriggle	V out of n
+wriggle	V adj
+wriggle	V prep/adv, V adv/prep
+wrinkle	V; V n
+write	V with quote
+write	V about n
+write	V way prep/adv
+write	V that
+write	V adv
+write	V n prep/adv, V n adv/prep
+write	V n n
+write	V on n
+write	V
+write	V to n
+write	V for n
+write	V n
+write back	V
+write back	V to n
+write down	V n prep/adv, V n adv/prep
+write down	V n
+write in	V about n
+write in	V
+write in	V to n
+write in	V n
+write off	V n as n
+write off	V
+write off	V n
+write off	V n as adj
+write off	V to n
+write out	V n
+write up	V n
+writhe	V adv
+yank	V at n
+yank	V n adj
+yank	V n prep/adv, V n adv/prep
+yap	V at n
+yap	V about n
+yaw	V prep/adv, V adv/prep
+yawn	V way prep/adv
+yearn	V after n
+yearn	V to-inf
+yearn	V for n
+yell	V with quote
+yell	V way prep/adv
+yell	V that
+yell	V at n
+yield	V to n
+yoke	V pl-n with together
+zap	V way prep/adv
+zero in	V on n
+zigzag	V way prep/adv
+zigzag	V prep/adv, V adv/prep
+zip	V prep/adv, V adv/prep
+zip up	V; V n
+zoom	V way prep/adv
+zoom	V prep/adv, V adv/prep
+zoom in	V on n
