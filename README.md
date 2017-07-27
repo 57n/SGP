@@ -9,7 +9,7 @@ Step1. 處理英文資料
 	$ perl truecase.perl --model truecaser-bnc.model <ltn_news.en.token> ltn_news.en.truecase
 
 	iii. 將做完 Truecasing 後的英文語料用 geniatagger 來做 tagging
-	note: geniatagger 在 ioronman 上已安裝
+	note: geniatagger 在 ironman 上已安裝
 	$ cat ltn_news.en.truecase | ./geniatagger > ltn_news.en.genia
 
 	iv. 將產生出來的genia格式轉檔成每行一句子的格式
@@ -47,7 +47,7 @@ Step5. 取得最終可用資料以及產生結果
 	i. 將所有資訊合併，輸出後檔案的格式為 ： 斷詞後的英文 ||| 斷詞後的中文 ||| 中英 alignment ||| 英文 lemma ||| 英文 POS tags |||  英文 BIO 格式 chunk tags ||| 中文 POS tags
 	$ python3 combine_all_info.py MIXED-Corpus.en.tag MIXED-Corpus.ch.tag MIXED-Corpus.align MIXED-Corpus.all
     
-    ii. 用 grep 指令將含有目標動詞的句子抓出來（參見grep_verbs）（也可跳過這步驟，但往後查詢會比較慢）
+    ii. 用 grep 指令將含有目標動詞的句子抓出來（參見grep_verbs.sh）（也可跳過這步驟，但往後查詢會比較慢）
     $ cat MIXED-Corpus.all | grep "consider " > ./Verbs/consider.txt
 	$ cat MIXED-Corpus.all | grep "apologize " > ./Verbs/apologize.txt
 	$ cat MIXED-Corpus.all | grep "run " > ./Verbs/run.txt
@@ -65,6 +65,6 @@ Step5. 取得最終可用資料以及產生結果
 
 
 其他資料說明：
-en_pat.ch_pat.txt 裡放的是真對於每個English pattern template中常翻成的 Chinese template
+en_pat.ch_pat.txt 裡放的是真對於每個English pattern template中常翻成的 Chinese template  
 coll.verbs.txt 裡是從collins抓到的所有動詞
 
