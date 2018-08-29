@@ -1,4 +1,12 @@
-# SGP
+# Learning Synchronous Grammar Patterns for Assisted Writing for Second Language Learners
+
+論文刊登於2017 IJCNLP System Demo 
+Wu, Chi-En, et al. "Learning Synchronous Grammar Patterns for Assisted Writing for Second Language Learners." Proceedings of the IJCNLP 2017, System Demonstrations (2017): 53-56.
+http://www.aclweb.org/anthology/I17-3014
+
+System demo link:
+https://spg-write.herokuapp.com/
+
 Step1. 處理英文資料
 
 	i. 將英文語料做tokenization
