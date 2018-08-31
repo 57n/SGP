@@ -1,6 +1,6 @@
 # Learning Synchronous Grammar Patterns for Assisted Writing for Second Language Learners
 
-論文刊登於2017 IJCNLP System Demo 
+論文刊登於2017 IJCNLP System Demo\n
 Wu, Chi-En, et al. "Learning Synchronous Grammar Patterns for Assisted Writing for Second Language Learners." Proceedings of the IJCNLP 2017, System Demonstrations (2017): 53-56.
 http://www.aclweb.org/anthology/I17-3014
 
@@ -73,6 +73,6 @@ Step5. 取得最終可用資料以及產生結果
 
 
 其他資料說明：
-en_pat.ch_pat.txt 裡放的是真對於每個English pattern template中常翻成的 Chinese template  
+en_pat.ch_pat.txt 裡放的是對於每個English pattern template中常翻成的 Chinese template  
 coll.verbs.txt 裡是從collins抓到的所有動詞
 
